@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "agent",
     "source_url": "https://arena.ai/leaderboard/agent",
-    "fetched_at": "2026-06-15T06:18:12.285324+00:00",
+    "fetched_at": "2026-06-16T05:18:44.839744+00:00",
     "last_updated": "Jun 12, 2026",
     "model_count": 25,
     "method": "html"
@@ -15,7 +15,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 0,
+      "votes": 16247,
       "extra": {
         "net improvement": "13.68 % ±1.59%",
         "confirmed success": "17.21 % ±2.59%",
@@ -32,7 +32,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 8667,
+      "votes": 9816,
       "extra": {
         "net improvement": "11.03 % ±2.52%",
         "confirmed success": "5.69 % ±4.32%",
@@ -49,7 +49,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 25983,
+      "votes": 27007,
       "extra": {
         "net improvement": "9.05 % ±1.34%",
         "confirmed success": "10.12 % ±2.36%",
@@ -66,7 +66,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 28680,
+      "votes": 28962,
       "extra": {
         "net improvement": "8.45 % ±1.26%",
         "confirmed success": "7.38 % ±2.57%",
@@ -83,7 +83,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 35045,
+      "votes": 36196,
       "extra": {
         "net improvement": "7.80 % ±1.10%",
         "confirmed success": "5.64 % ±2.10%",
@@ -100,7 +100,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 28754,
+      "votes": 29035,
       "extra": {
         "net improvement": "7.68 % ±1.27%",
         "confirmed success": "6.72 % ±2.58%",
@@ -117,7 +117,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 28760,
+      "votes": 29036,
       "extra": {
         "net improvement": "7.65 % ±1.26%",
         "confirmed success": "7.75 % ±2.57%",
@@ -134,7 +134,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 35229,
+      "votes": 36352,
       "extra": {
         "net improvement": "6.80 % ±1.14%",
         "confirmed success": "5.92 % ±2.16%",
@@ -151,7 +151,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 35402,
+      "votes": 36521,
       "extra": {
         "net improvement": "6.57 % ±1.07%",
         "confirmed success": "3.43 % ±2.06%",
@@ -168,7 +168,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 23469,
+      "votes": 24552,
       "extra": {
         "net improvement": "4.56 % ±1.66%",
         "confirmed success": "7.99 % ±2.64%",
@@ -185,7 +185,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 28701,
+      "votes": 28986,
       "extra": {
         "net improvement": "3.02 % ±1.20%",
         "confirmed success": "1.73 % ±2.70%",
@@ -202,7 +202,7 @@
       "license": "open",
       "score": null,
       "ci": null,
-      "votes": 30339,
+      "votes": 31412,
       "extra": {
         "net improvement": "2.88 % ±1.21%",
         "confirmed success": "5.16 % ±2.46%",
@@ -219,7 +219,7 @@
       "license": "open",
       "score": null,
       "ci": null,
-      "votes": 27486,
+      "votes": 27763,
       "extra": {
         "net improvement": "0.22 % ±1.18%",
         "confirmed success": "2.42 % ±2.50%",
@@ -236,7 +236,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 28213,
+      "votes": 29365,
       "extra": {
         "net improvement": "0.06 % ±1.06%",
         "confirmed success": "2.85 % ±2.38%",
@@ -253,7 +253,7 @@
       "license": "open",
       "score": null,
       "ci": null,
-      "votes": 31752,
+      "votes": 32862,
       "extra": {
         "net improvement": "0.63 % ±1.09%",
         "confirmed success": "0.62 % ±2.34%",
@@ -270,7 +270,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 35230,
+      "votes": 36360,
       "extra": {
         "net improvement": "0.66 % ±0.96%",
         "confirmed success": "0.57 % ±2.15%",
@@ -287,7 +287,7 @@
       "license": "open",
       "score": null,
       "ci": null,
-      "votes": 30445,
+      "votes": 31597,
       "extra": {
         "net improvement": "0.80 % ±1.38%",
         "confirmed success": "3.58 % ±2.68%",
@@ -304,7 +304,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 29798,
+      "votes": 30936,
       "extra": {
         "net improvement": "4.52 % ±1.21%",
         "confirmed success": "1.74 % ±2.51%",
@@ -321,7 +321,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 25167,
+      "votes": 26267,
       "extra": {
         "net improvement": "6.28 % ±1.11%",
         "confirmed success": "6.19 % ±2.62%",
@@ -338,7 +338,7 @@
       "license": null,
       "score": null,
       "ci": null,
-      "votes": 3364,
+      "votes": 3672,
       "extra": {
         "net improvement": "6.81 % ±5.22%",
         "confirmed success": "3.00 % ±8.86%",
@@ -355,7 +355,7 @@
       "license": "open",
       "score": null,
       "ci": null,
-      "votes": 30535,
+      "votes": 31625,
       "extra": {
         "net improvement": "7.43 % ±1.10%",
         "confirmed success": "10.72 % ±2.65%",
@@ -372,7 +372,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 13366,
+      "votes": 14524,
       "extra": {
         "net improvement": "8.09 % ±1.38%",
         "confirmed success": "11.68 % ±3.32%",
@@ -389,7 +389,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 35384,
+      "votes": 36480,
       "extra": {
         "net improvement": "8.89 % ±1.06%",
         "confirmed success": "13.14 % ±2.30%",
@@ -406,7 +406,7 @@
       "license": "open",
       "score": null,
       "ci": null,
-      "votes": 24370,
+      "votes": 25512,
       "extra": {
         "net improvement": "12.55 % ±1.89%",
         "confirmed success": "7.12 % ±2.56%",
@@ -423,7 +423,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 34577,
+      "votes": 35712,
       "extra": {
         "net improvement": "18.30 % ±1.61%",
         "confirmed success": "14.14 % ±2.38%",
