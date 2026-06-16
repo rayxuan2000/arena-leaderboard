@@ -1,0 +1,4 @@
+openpyxl>=3.1
+requests>=2.31
+beautifulsoup4>=4.12
+pillow>=10.0          # 把官网图标统一缩放为 64px PNG 内嵌；缺失时降级（大图改用 favicon 服务兜底）

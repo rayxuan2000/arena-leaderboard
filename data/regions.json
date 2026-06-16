@@ -1,0 +1,49 @@
+{
+  "_comment": "模型国别分类表（柱色：cn=国内红 / overseas=国外蓝 / 两者都不在=未分类灰）。每日榜单更新若出现新厂商，会在构建日志告警并写入 data/regions_unclassified.json，按需在此补一行即可，无需改代码。判定以『厂商组织名』为准，组织名两表都没命中时才看 cn_model_prefixes / overseas_model_prefixes。名称不区分大小写与符号。",
+  "cn": [
+    "Alibaba", "Alibaba-ATH", "Qwen", "Tongyi", "Wan",
+    "Baidu", "ERNIE",
+    "Bytedance", "Doubao", "Dreamina", "Seedance", "Seedream",
+    "DeepSeek",
+    "Z.ai", "Zhipu", "GLM", "ChatGLM", "Tsinghua",
+    "Moonshot", "Kimi",
+    "MiniMax", "Hailuo",
+    "Tencent", "Hunyuan",
+    "Kuaishou", "Kling", "KlingAI", "Kwai", "KwaiKAT", "KAT",
+    "01.AI", "Yi",
+    "Xiaomi",
+    "Meituan", "Longcat",
+    "Vidu", "Shengshu",
+    "Pixverse", "HiDream", "StepFun",
+    "OpenBMB", "MiniCPM",
+    "InternLM", "OpenGVLab", "Shanghai AI Lab", "SenseTime",
+    "iFlytek", "Skywork", "Baichuan", "RWKV",
+    "Ant", "InclusionAI", "Ling"
+  ],
+  "overseas": [
+    "Anthropic", "OpenAI", "Google", "Google DeepMind", "DeepMind",
+    "Meta", "xAI", "Mistral", "Cohere", "Microsoft", "Amazon",
+    "Nvidia", "AI21", "Perplexity", "Reka", "Databricks", "IBM",
+    "Snowflake", "Adobe", "Runway", "Luma", "Luma AI", "Genmo",
+    "Genmo AI", "Stability AI", "Black Forest Labs", "Ideogram",
+    "Midjourney", "Recraft", "Reve", "Pika", "Krea", "Lightricks",
+    "Upstage", "Ai2", "AllenAI", "AllenAI/UW", "Inception",
+    "Kandinsky", "TII", "Diffbot", "Pruna", "NexusFlow",
+    "NousResearch", "OpenAssistant", "OpenChat", "MosaicML",
+    "LMSYS", "Berkeley", "Princeton", "Stanford", "UW",
+    "Computations", "Intellect", "HuggingFace", "LLaVA"
+  ],
+  "cn_model_prefixes": [
+    "qwen", "qwq", "glm", "chatglm", "deepseek", "kimi", "minimax",
+    "hailuo", "abab", "ernie", "hunyuan", "doubao", "dreamina",
+    "seedance", "seedream", "kling", "kat-", "vidu", "pixverse",
+    "hidream", "longcat", "internlm", "internvl", "skywork", "ling-",
+    "ring-", "step-", "step1", "step2", "step3", "wan-", "yi-", "baichuan",
+    "minicpm", "rwkv"
+  ],
+  "overseas_model_prefixes": [
+    "trinity", "dolphin", "tulu", "starling", "vicuna", "guanaco",
+    "alpaca", "openhermes", "oasst", "mpt", "athene", "falcon",
+    "stripedhyena", "lucid", "kandinsky"
+  ]
+}
