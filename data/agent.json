@@ -2,9 +2,9 @@
   "meta": {
     "leaderboard": "agent",
     "source_url": "https://arena.ai/leaderboard/agent",
-    "fetched_at": "2026-06-16T23:50:31.388852+00:00",
+    "fetched_at": "2026-06-17T23:52:39.842966+00:00",
     "last_updated": "Jun 15, 2026",
-    "model_count": 27,
+    "model_count": 28,
     "method": "html"
   },
   "models": [
@@ -15,7 +15,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 16245,
+      "votes": 16240,
       "extra": {
         "net improvement": "14.17 % ±1.54%",
         "confirmed success": "16.48 % ±2.55%",
@@ -32,7 +32,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 27277,
+      "votes": 27550,
       "extra": {
         "net improvement": "9.04 % ±1.19%",
         "confirmed success": "10.75 % ±2.15%",
@@ -49,7 +49,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 10960,
+      "votes": 12112,
       "extra": {
         "net improvement": "8.27 % ±1.73%",
         "confirmed success": "4.42 % ±3.17%",
@@ -66,7 +66,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 29312,
+      "votes": 29588,
       "extra": {
         "net improvement": "8.12 % ±1.51%",
         "confirmed success": "4.63 % ±3.07%",
@@ -83,7 +83,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 29239,
+      "votes": 29537,
       "extra": {
         "net improvement": "8.09 % ±1.48%",
         "confirmed success": "4.51 % ±3.04%",
@@ -100,7 +100,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 37361,
+      "votes": 38652,
       "extra": {
         "net improvement": "7.78 % ±1.07%",
         "confirmed success": "5.93 % ±2.03%",
@@ -117,7 +117,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 37689,
+      "votes": 38977,
       "extra": {
         "net improvement": "6.73 % ±1.03%",
         "confirmed success": "4.75 % ±1.97%",
@@ -134,7 +134,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 29299,
+      "votes": 29578,
       "extra": {
         "net improvement": "6.73 % ±1.42%",
         "confirmed success": "6.17 % ±2.98%",
@@ -151,7 +151,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 37488,
+      "votes": 38688,
       "extra": {
         "net improvement": "6.54 % ±1.07%",
         "confirmed success": "4.63 % ±2.12%",
@@ -168,7 +168,7 @@
       "license": "open",
       "score": null,
       "ci": null,
-      "votes": 9567,
+      "votes": 11710,
       "extra": {
         "net improvement": "4.37 % ±2.48%",
         "confirmed success": "9.43 % ±4.52%",
@@ -185,7 +185,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 24831,
+      "votes": 25096,
       "extra": {
         "net improvement": "3.60 % ±1.55%",
         "confirmed success": "7.31 % ±2.45%",
@@ -202,7 +202,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 29223,
+      "votes": 29547,
       "extra": {
         "net improvement": "3.22 % ±1.38%",
         "confirmed success": "2.69 % ±3.03%",
@@ -219,7 +219,7 @@
       "license": "open",
       "score": null,
       "ci": null,
-      "votes": 32489,
+      "votes": 33711,
       "extra": {
         "net improvement": "2.66 % ±1.14%",
         "confirmed success": "3.42 % ±2.37%",
@@ -236,7 +236,7 @@
       "license": "open",
       "score": null,
       "ci": null,
-      "votes": 28030,
+      "votes": 28332,
       "extra": {
         "net improvement": "0.10 % ±1.41%",
         "confirmed success": "0.44 % ±3.07%",
@@ -253,7 +253,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 30484,
+      "votes": 31704,
       "extra": {
         "net improvement": "0.04 % ±1.00%",
         "confirmed success": "1.98 % ±2.24%",
@@ -270,7 +270,7 @@
       "license": "open",
       "score": null,
       "ci": null,
-      "votes": 34021,
+      "votes": 35207,
       "extra": {
         "net improvement": "0.50 % ±1.09%",
         "confirmed success": "0.36 % ±2.28%",
@@ -287,7 +287,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 37528,
+      "votes": 38717,
       "extra": {
         "net improvement": "0.78 % ±0.94%",
         "confirmed success": "0.09 % ±2.09%",
@@ -304,7 +304,7 @@
       "license": "open",
       "score": null,
       "ci": null,
-      "votes": 32736,
+      "votes": 33927,
       "extra": {
         "net improvement": "1.18 % ±1.33%",
         "confirmed success": "4.14 % ±2.56%",
@@ -316,12 +316,29 @@
     },
     {
       "rank": 19,
+      "model": "Kimi K2.7 Code",
+      "vendor": "Moonshot",
+      "license": "open",
+      "score": null,
+      "ci": null,
+      "votes": 14702,
+      "extra": {
+        "net improvement": "2.71 % ±2.39%",
+        "confirmed success": "3.82 % ±4.53%",
+        "praise vs complaint": "5.17 % ±7.84%",
+        "steerability": "12.25 % ±4.81%",
+        "bash recovery": "1.83 % ±4.94%",
+        "tool hallucination": "1.86 % ±0.23%"
+      }
+    },
+    {
+      "rank": 20,
       "model": "Minimax M3",
       "vendor": "MiniMax",
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 10170,
+      "votes": 12689,
       "extra": {
         "net improvement": "2.79 % ±1.70%",
         "confirmed success": "2.30 % ±3.91%",
@@ -332,13 +349,13 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 21,
       "model": "Qwen 3.6 Plus",
       "vendor": "Alibaba",
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 32087,
+      "votes": 33229,
       "extra": {
         "net improvement": "4.24 % ±1.20%",
         "confirmed success": "2.84 % ±2.44%",
@@ -349,13 +366,13 @@
       }
     },
     {
-      "rank": 21,
+      "rank": 22,
       "model": "Grok Build 0.1",
       "vendor": "xAI",
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 27385,
+      "votes": 28559,
       "extra": {
         "net improvement": "6.20 % ±1.10%",
         "confirmed success": "6.78 % ±2.57%",
@@ -366,13 +383,13 @@
       }
     },
     {
-      "rank": 22,
+      "rank": 23,
       "model": "Grok 4.3 (High)",
       "vendor": "xAI",
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 15708,
+      "votes": 16940,
       "extra": {
         "net improvement": "7.21 % ±1.23%",
         "confirmed success": "10.75 % ±2.83%",
@@ -383,13 +400,13 @@
       }
     },
     {
-      "rank": 23,
+      "rank": 24,
       "model": "Minimax M2.7",
       "vendor": "MiniMax",
       "license": "open",
       "score": null,
       "ci": null,
-      "votes": 32756,
+      "votes": 33883,
       "extra": {
         "net improvement": "7.81 % ±1.05%",
         "confirmed success": "13.51 % ±2.58%",
@@ -400,13 +417,13 @@
       }
     },
     {
-      "rank": 24,
+      "rank": 25,
       "model": "Gemini 3 Flash",
       "vendor": "Google",
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 37627,
+      "votes": 38883,
       "extra": {
         "net improvement": "8.47 % ±1.01%",
         "confirmed success": "11.23 % ±2.19%",
@@ -417,13 +434,13 @@
       }
     },
     {
-      "rank": 25,
+      "rank": 26,
       "model": "Nemotron 3 Ultra",
       "vendor": "Nvidia",
       "license": null,
       "score": null,
       "ci": null,
-      "votes": 3962,
+      "votes": 4291,
       "extra": {
         "net improvement": "8.65 % ±4.12%",
         "confirmed success": "4.39 % ±7.57%",
@@ -434,13 +451,13 @@
       }
     },
     {
-      "rank": 26,
+      "rank": 27,
       "model": "Gemma 4 31B",
       "vendor": "Google",
       "license": "open",
       "score": null,
       "ci": null,
-      "votes": 26639,
+      "votes": 27870,
       "extra": {
         "net improvement": "12.73 % ±1.97%",
         "confirmed success": "5.87 % ±2.40%",
@@ -451,13 +468,13 @@
       }
     },
     {
-      "rank": 27,
+      "rank": 28,
       "model": "Grok 4.3",
       "vendor": "xAI",
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 36856,
+      "votes": 38079,
       "extra": {
         "net improvement": "15.78 % ±1.46%",
         "confirmed success": "12.19 % ±2.26%",
