@@ -3,7 +3,7 @@
     "meta": {
       "leaderboard": "text",
       "source_url": "https://arena.ai/leaderboard/text",
-      "fetched_at": "2026-06-20T23:38:10.469533+00:00",
+      "fetched_at": "2026-06-21T23:47:19.297403+00:00",
       "last_updated": "Jun 16, 2026",
       "model_count": 367,
       "method": "html"
@@ -887,8 +887,8 @@
         "votes": 28215,
         "extra": {
           "rank spread": "54 77",
-          "price $/m": "$0.09 / $0.18",
-          "context": "1M"
+          "price $/m": "$0.25 / $1.75",
+          "context": "200K"
         }
       },
       {
@@ -5153,7 +5153,7 @@
     "meta": {
       "leaderboard": "code",
       "source_url": "https://arena.ai/leaderboard/code",
-      "fetched_at": "2026-06-20T23:38:12.970103+00:00",
+      "fetched_at": "2026-06-21T23:47:22.132652+00:00",
       "last_updated": "Jun 16, 2026",
       "model_count": 89,
       "method": "html"
@@ -6411,7 +6411,7 @@
     "meta": {
       "leaderboard": "vision",
       "source_url": "https://arena.ai/leaderboard/vision",
-      "fetched_at": "2026-06-20T23:38:14.606300+00:00",
+      "fetched_at": "2026-06-21T23:47:25.030763+00:00",
       "last_updated": "Jun 10, 2026",
       "model_count": 131,
       "method": "html"
@@ -8257,7 +8257,7 @@
     "meta": {
       "leaderboard": "document",
       "source_url": "https://arena.ai/leaderboard/document",
-      "fetched_at": "2026-06-20T23:38:16.429177+00:00",
+      "fetched_at": "2026-06-21T23:47:27.213813+00:00",
       "last_updated": "Jun 10, 2026",
       "model_count": 29,
       "method": "html"
@@ -8675,7 +8675,7 @@
     "meta": {
       "leaderboard": "search",
       "source_url": "https://arena.ai/leaderboard/search",
-      "fetched_at": "2026-06-20T23:38:17.828989+00:00",
+      "fetched_at": "2026-06-21T23:47:28.732015+00:00",
       "last_updated": "Jun 15, 2026",
       "model_count": 31,
       "method": "html"
@@ -9121,7 +9121,7 @@
     "meta": {
       "leaderboard": "agent",
       "source_url": "https://arena.ai/leaderboard/agent",
-      "fetched_at": "2026-06-20T23:38:19.299433+00:00",
+      "fetched_at": "2026-06-21T23:47:30.854683+00:00",
       "last_updated": "Jun 18, 2026",
       "model_count": 28,
       "method": "html"
@@ -9134,7 +9134,7 @@
         "license": "proprietary",
         "score": null,
         "ci": null,
-        "votes": 16214,
+        "votes": 16206,
         "extra": {
           "net improvement": "14.05 % ±1.53%",
           "confirmed success": "16.27 % ±2.58%",
@@ -9151,7 +9151,7 @@
         "license": "proprietary",
         "score": null,
         "ci": null,
-        "votes": 28422,
+        "votes": 28682,
         "extra": {
           "net improvement": "8.85 % ±1.19%",
           "confirmed success": "10.65 % ±2.11%",
@@ -9168,7 +9168,7 @@
         "license": "proprietary",
         "score": null,
         "ci": null,
-        "votes": 15581,
+        "votes": 16642,
         "extra": {
           "net improvement": "8.13 % ±1.41%",
           "confirmed success": "5.13 % ±2.62%",
@@ -9185,7 +9185,7 @@
         "license": "proprietary",
         "score": null,
         "ci": null,
-        "votes": 30411,
+        "votes": 30713,
         "extra": {
           "net improvement": "7.98 % ±1.24%",
           "confirmed success": "3.53 % ±2.58%",
@@ -9202,7 +9202,7 @@
         "license": "proprietary",
         "score": null,
         "ci": null,
-        "votes": 42105,
+        "votes": 43213,
         "extra": {
           "net improvement": "7.92 % ±0.89%",
           "confirmed success": "6.33 % ±1.66%",
@@ -9219,7 +9219,7 @@
         "license": "proprietary",
         "score": null,
         "ci": null,
-        "votes": 30460,
+        "votes": 30753,
         "extra": {
           "net improvement": "7.86 % ±1.26%",
           "confirmed success": "5.00 % ±2.52%",
@@ -9236,7 +9236,7 @@
         "license": "proprietary",
         "score": null,
         "ci": null,
-        "votes": 30433,
+        "votes": 30727,
         "extra": {
           "net improvement": "7.03 % ±1.22%",
           "confirmed success": "5.11 % ±2.50%",
@@ -9253,7 +9253,7 @@
         "license": "proprietary",
         "score": null,
         "ci": null,
-        "votes": 42388,
+        "votes": 43458,
         "extra": {
           "net improvement": "6.80 % ±0.86%",
           "confirmed success": "4.97 % ±1.62%",
@@ -9270,7 +9270,7 @@
         "license": "proprietary",
         "score": null,
         "ci": null,
-        "votes": 42210,
+        "votes": 43254,
         "extra": {
           "net improvement": "6.61 % ±0.88%",
           "confirmed success": "5.61 % ±1.71%",
@@ -9287,7 +9287,7 @@
         "license": "open",
         "score": null,
         "ci": null,
-        "votes": 15229,
+        "votes": 16349,
         "extra": {
           "net improvement": "4.51 % ±1.77%",
           "confirmed success": "9.96 % ±3.23%",
@@ -9304,7 +9304,7 @@
         "license": "proprietary",
         "score": null,
         "ci": null,
-        "votes": 25941,
+        "votes": 26222,
         "extra": {
           "net improvement": "3.14 % ±1.55%",
           "confirmed success": "5.60 % ±2.48%",
@@ -9321,7 +9321,7 @@
         "license": "proprietary",
         "score": null,
         "ci": null,
-        "votes": 30436,
+        "votes": 30717,
         "extra": {
           "net improvement": "3.06 % ±1.12%",
           "confirmed success": "1.46 % ±2.55%",
@@ -9338,7 +9338,7 @@
         "license": "open",
         "score": null,
         "ci": null,
-        "votes": 37230,
+        "votes": 38290,
         "extra": {
           "net improvement": "2.07 % ±0.96%",
           "confirmed success": "3.30 % ±1.98%",
@@ -9355,7 +9355,7 @@
         "license": "proprietary",
         "score": null,
         "ci": null,
-        "votes": 35129,
+        "votes": 36254,
         "extra": {
           "net improvement": "0.03 % ±0.84%",
           "confirmed success": "1.06 % ±1.85%",
@@ -9372,7 +9372,7 @@
         "license": "proprietary",
         "score": null,
         "ci": null,
-        "votes": 42162,
+        "votes": 43240,
         "extra": {
           "net improvement": "0.47 % ±0.79%",
           "confirmed success": "0.26 % ±1.73%",
@@ -9389,7 +9389,7 @@
         "license": "open",
         "score": null,
         "ci": null,
-        "votes": 29164,
+        "votes": 29424,
         "extra": {
           "net improvement": "0.76 % ±1.25%",
           "confirmed success": "0.75 % ±2.76%",
@@ -9406,7 +9406,7 @@
         "license": "open",
         "score": null,
         "ci": null,
-        "votes": 38626,
+        "votes": 39774,
         "extra": {
           "net improvement": "1.01 % ±0.88%",
           "confirmed success": "0.43 % ±1.88%",
@@ -9423,7 +9423,7 @@
         "license": "open",
         "score": null,
         "ci": null,
-        "votes": 18050,
+        "votes": 19210,
         "extra": {
           "net improvement": "1.11 % ±1.55%",
           "confirmed success": "3.22 % ±2.83%",
@@ -9440,7 +9440,7 @@
         "license": "open",
         "score": null,
         "ci": null,
-        "votes": 37399,
+        "votes": 38453,
         "extra": {
           "net improvement": "1.70 % ±1.09%",
           "confirmed success": "4.35 % ±2.10%",
@@ -9457,7 +9457,7 @@
         "license": "proprietary",
         "score": null,
         "ci": null,
-        "votes": 19598,
+        "votes": 21659,
         "extra": {
           "net improvement": "2.04 % ±1.23%",
           "confirmed success": "1.17 % ±2.77%",
@@ -9474,7 +9474,7 @@
         "license": "proprietary",
         "score": null,
         "ci": null,
-        "votes": 36680,
+        "votes": 37844,
         "extra": {
           "net improvement": "4.12 % ±0.97%",
           "confirmed success": "0.56 % ±1.97%",
@@ -9491,7 +9491,7 @@
         "license": "proprietary",
         "score": null,
         "ci": null,
-        "votes": 31938,
+        "votes": 33014,
         "extra": {
           "net improvement": "6.26 % ±0.95%",
           "confirmed success": "6.85 % ±2.22%",
@@ -9508,7 +9508,7 @@
         "license": "proprietary",
         "score": null,
         "ci": null,
-        "votes": 20564,
+        "votes": 21682,
         "extra": {
           "net improvement": "6.92 % ±1.05%",
           "confirmed success": "8.97 % ±2.41%",
@@ -9525,7 +9525,7 @@
         "license": null,
         "score": null,
         "ci": null,
-        "votes": 5146,
+        "votes": 5443,
         "extra": {
           "net improvement": "7.36 % ±3.74%",
           "confirmed success": "5.54 % ±6.82%",
@@ -9542,7 +9542,7 @@
         "license": "open",
         "score": null,
         "ci": null,
-        "votes": 37271,
+        "votes": 38345,
         "extra": {
           "net improvement": "7.83 % ±0.87%",
           "confirmed success": "12.51 % ±2.09%",
@@ -9559,7 +9559,7 @@
         "license": "proprietary",
         "score": null,
         "ci": null,
-        "votes": 42365,
+        "votes": 43431,
         "extra": {
           "net improvement": "8.28 % ±0.85%",
           "confirmed success": "11.32 % ±1.81%",
@@ -9576,7 +9576,7 @@
         "license": "open",
         "score": null,
         "ci": null,
-        "votes": 31437,
+        "votes": 32516,
         "extra": {
           "net improvement": "12.72 % ±1.68%",
           "confirmed success": "5.55 % ±2.04%",
@@ -9593,7 +9593,7 @@
         "license": "proprietary",
         "score": null,
         "ci": null,
-        "votes": 41531,
+        "votes": 42573,
         "extra": {
           "net improvement": "17.60 % ±1.26%",
           "confirmed success": "12.59 % ±1.85%",
@@ -9609,7 +9609,7 @@
     "meta": {
       "leaderboard": "text-to-image",
       "source_url": "https://arena.ai/leaderboard/text-to-image",
-      "fetched_at": "2026-06-20T23:38:21.231407+00:00",
+      "fetched_at": "2026-06-21T23:47:32.868789+00:00",
       "last_updated": "Jun 5, 2026",
       "model_count": 70,
       "method": "html"
@@ -10461,7 +10461,7 @@
     "meta": {
       "leaderboard": "image-edit",
       "source_url": "https://arena.ai/leaderboard/image-edit",
-      "fetched_at": "2026-06-20T23:38:23.551692+00:00",
+      "fetched_at": "2026-06-21T23:47:35.066390+00:00",
       "last_updated": "Jun 3, 2026",
       "model_count": 49,
       "method": "html"
@@ -11061,7 +11061,7 @@
     "meta": {
       "leaderboard": "text-to-video",
       "source_url": "https://arena.ai/leaderboard/text-to-video",
-      "fetched_at": "2026-06-20T23:38:25.054748+00:00",
+      "fetched_at": "2026-06-21T23:47:36.834098+00:00",
       "last_updated": "Jun 10, 2026",
       "model_count": 41,
       "method": "html"
@@ -11565,7 +11565,7 @@
     "meta": {
       "leaderboard": "image-to-video",
       "source_url": "https://arena.ai/leaderboard/image-to-video",
-      "fetched_at": "2026-06-20T23:38:26.590343+00:00",
+      "fetched_at": "2026-06-21T23:47:38.394319+00:00",
       "last_updated": "Jun 10, 2026",
       "model_count": 41,
       "method": "html"
@@ -12069,7 +12069,7 @@
     "meta": {
       "leaderboard": "video-edit",
       "source_url": "https://arena.ai/leaderboard/video-edit",
-      "fetched_at": "2026-06-20T23:38:28.111223+00:00",
+      "fetched_at": "2026-06-21T23:47:40.075813+00:00",
       "last_updated": "May 12, 2026",
       "model_count": 6,
       "method": "html"
