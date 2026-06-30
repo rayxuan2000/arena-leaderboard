@@ -2,9 +2,9 @@
   "meta": {
     "leaderboard": "video-edit",
     "source_url": "https://arena.ai/leaderboard/video-edit",
-    "fetched_at": "2026-06-29T23:18:36.253254+00:00",
-    "last_updated": "May 12, 2026",
-    "model_count": 6,
+    "fetched_at": "2026-06-30T23:39:32.710562+00:00",
+    "last_updated": "Jun 29, 2026",
+    "model_count": 7,
     "method": "html"
   },
   "models": [
@@ -13,71 +13,83 @@
       "model": "dreamina-seedance-2.0-720p",
       "vendor": "Bytedance",
       "license": "proprietary",
-      "score": 1379,
-      "ci": 16,
-      "votes": 1289,
+      "score": 1377,
+      "ci": 12,
+      "votes": 3010,
       "extra": {
         "rank spread": "1 1"
       }
     },
     {
       "rank": 2,
-      "model": "happyhorse-1.0",
-      "vendor": "Alibaba-ATH",
+      "model": "gemini-omni-flash",
+      "vendor": "Google",
       "license": "proprietary",
-      "score": 1319,
-      "ci": 17,
-      "votes": 1004,
+      "score": 1347,
+      "ci": 16,
+      "votes": 998,
       "extra": {
         "rank spread": "2 2"
       }
     },
     {
       "rank": 3,
-      "model": "grok-imagine-video",
-      "vendor": "xAI",
+      "model": "happyhorse-1.0",
+      "vendor": "Alibaba-ATH",
       "license": "proprietary",
-      "score": 1265,
-      "ci": 9,
-      "votes": 9306,
+      "score": 1308,
+      "ci": 12,
+      "votes": 2681,
       "extra": {
-        "rank spread": "3 4"
+        "rank spread": "3 3"
       }
     },
     {
       "rank": 4,
-      "model": "kling-o3-pro",
-      "vendor": "KlingAI",
+      "model": "grok-imagine-video",
+      "vendor": "xAI",
       "license": "proprietary",
-      "score": 1247,
-      "ci": 12,
-      "votes": 4906,
+      "score": 1264,
+      "ci": 8,
+      "votes": 11736,
       "extra": {
-        "rank spread": "3 4"
+        "rank spread": "4 5"
       }
     },
     {
       "rank": 5,
-      "model": "kling-o1-pro",
+      "model": "kling-o3-pro",
       "vendor": "KlingAI",
       "license": "proprietary",
-      "score": 1208,
+      "score": 1251,
       "ci": 10,
-      "votes": 6605,
+      "votes": 6165,
       "extra": {
-        "rank spread": "5 6"
+        "rank spread": "4 5"
       }
     },
     {
       "rank": 6,
+      "model": "kling-o1-pro",
+      "vendor": "KlingAI",
+      "license": "proprietary",
+      "score": 1203,
+      "ci": 9,
+      "votes": 8322,
+      "extra": {
+        "rank spread": "6 7"
+      }
+    },
+    {
+      "rank": 7,
       "model": "runway-gen4-aleph",
       "vendor": "Runway",
       "license": "proprietary",
-      "score": 1204,
-      "ci": 9,
-      "votes": 6291,
+      "score": 1194,
+      "ci": 8,
+      "votes": 8368,
       "extra": {
-        "rank spread": "5 6"
+        "rank spread": "6 7"
       }
     }
   ]
