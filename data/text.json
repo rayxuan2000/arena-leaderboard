@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "text",
     "source_url": "https://arena.ai/leaderboard/text",
-    "fetched_at": "2026-06-30T23:39:15.562453+00:00",
+    "fetched_at": "2026-07-01T23:47:13.486473+00:00",
     "last_updated": "Jun 25, 2026",
     "model_count": 368,
     "method": "html"
@@ -1684,7 +1684,7 @@
       "votes": 8991,
       "extra": {
         "rank spread": "110 137",
-        "price $/m": "$0.10 / $0.10",
+        "price $/m": "$0.15 / $1.50",
         "context": "262.1K"
       }
     },
@@ -1978,7 +1978,7 @@
       "votes": 17113,
       "extra": {
         "rank spread": "127 148",
-        "price $/m": "$0.29 / $0.95",
+        "price $/m": "$0.30 / $1.20",
         "context": "204.8K"
       }
     },
@@ -2566,7 +2566,7 @@
       "votes": 6866,
       "extra": {
         "rank spread": "165 200",
-        "price $/m": "$0.26 / $1",
+        "price $/m": "$0.26 / $1.02",
         "context": "204.8K"
       }
     },

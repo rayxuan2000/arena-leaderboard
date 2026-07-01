@@ -3,7 +3,7 @@
     "meta": {
       "leaderboard": "text",
       "source_url": "https://arena.ai/leaderboard/text",
-      "fetched_at": "2026-06-30T23:39:15.562453+00:00",
+      "fetched_at": "2026-07-01T23:47:13.486473+00:00",
       "last_updated": "Jun 25, 2026",
       "model_count": 368,
       "method": "html"
@@ -1685,7 +1685,7 @@
         "votes": 8991,
         "extra": {
           "rank spread": "110 137",
-          "price $/m": "$0.10 / $0.10",
+          "price $/m": "$0.15 / $1.50",
           "context": "262.1K"
         }
       },
@@ -1979,7 +1979,7 @@
         "votes": 17113,
         "extra": {
           "rank spread": "127 148",
-          "price $/m": "$0.29 / $0.95",
+          "price $/m": "$0.30 / $1.20",
           "context": "204.8K"
         }
       },
@@ -2567,7 +2567,7 @@
         "votes": 6866,
         "extra": {
           "rank spread": "165 200",
-          "price $/m": "$0.26 / $1",
+          "price $/m": "$0.26 / $1.02",
           "context": "204.8K"
         }
       },
@@ -5167,7 +5167,7 @@
     "meta": {
       "leaderboard": "code",
       "source_url": "https://arena.ai/leaderboard/code",
-      "fetched_at": "2026-06-30T23:39:18.316319+00:00",
+      "fetched_at": "2026-07-01T23:47:16.450929+00:00",
       "last_updated": "Jun 19, 2026",
       "model_count": 90,
       "method": "html"
@@ -5785,7 +5785,7 @@
         "votes": 9273,
         "extra": {
           "rank spread": "36 51",
-          "price $/m": "$0.29 / $0.95",
+          "price $/m": "$0.30 / $1.20",
           "context": "204.8K"
         }
       },
@@ -6135,7 +6135,7 @@
         "votes": 8402,
         "extra": {
           "rank spread": "69 72",
-          "price $/m": "$0.26 / $1",
+          "price $/m": "$0.26 / $1.02",
           "context": "204.8K"
         }
       },
@@ -6439,7 +6439,7 @@
     "meta": {
       "leaderboard": "vision",
       "source_url": "https://arena.ai/leaderboard/vision",
-      "fetched_at": "2026-06-30T23:39:19.967302+00:00",
+      "fetched_at": "2026-07-01T23:47:18.258415+00:00",
       "last_updated": "Jun 25, 2026",
       "model_count": 131,
       "method": "html"
@@ -8285,7 +8285,7 @@
     "meta": {
       "leaderboard": "document",
       "source_url": "https://arena.ai/leaderboard/document",
-      "fetched_at": "2026-06-30T23:39:21.707618+00:00",
+      "fetched_at": "2026-07-01T23:47:20.261860+00:00",
       "last_updated": "Jun 10, 2026",
       "model_count": 29,
       "method": "html"
@@ -8703,7 +8703,7 @@
     "meta": {
       "leaderboard": "search",
       "source_url": "https://arena.ai/leaderboard/search",
-      "fetched_at": "2026-06-30T23:39:23.166706+00:00",
+      "fetched_at": "2026-07-01T23:47:22.097339+00:00",
       "last_updated": "Jun 15, 2026",
       "model_count": 31,
       "method": "html"
@@ -9149,7 +9149,7 @@
     "meta": {
       "leaderboard": "agent",
       "source_url": "https://arena.ai/leaderboard/agent",
-      "fetched_at": "2026-06-30T23:39:24.646194+00:00",
+      "fetched_at": "2026-07-01T23:47:23.817113+00:00",
       "last_updated": "Jun 29, 2026",
       "model_count": 28,
       "method": "html"
@@ -9637,7 +9637,7 @@
     "meta": {
       "leaderboard": "text-to-image",
       "source_url": "https://arena.ai/leaderboard/text-to-image",
-      "fetched_at": "2026-06-30T23:39:26.476046+00:00",
+      "fetched_at": "2026-07-01T23:47:25.908743+00:00",
       "last_updated": "Jun 29, 2026",
       "model_count": 70,
       "method": "html"
@@ -10489,7 +10489,7 @@
     "meta": {
       "leaderboard": "image-edit",
       "source_url": "https://arena.ai/leaderboard/image-edit",
-      "fetched_at": "2026-06-30T23:39:28.177331+00:00",
+      "fetched_at": "2026-07-01T23:47:27.714829+00:00",
       "last_updated": "Jun 29, 2026",
       "model_count": 49,
       "method": "html"
@@ -11089,7 +11089,7 @@
     "meta": {
       "leaderboard": "text-to-video",
       "source_url": "https://arena.ai/leaderboard/text-to-video",
-      "fetched_at": "2026-06-30T23:39:29.708844+00:00",
+      "fetched_at": "2026-07-01T23:47:29.385838+00:00",
       "last_updated": "Jun 10, 2026",
       "model_count": 41,
       "method": "html"
@@ -11593,7 +11593,7 @@
     "meta": {
       "leaderboard": "image-to-video",
       "source_url": "https://arena.ai/leaderboard/image-to-video",
-      "fetched_at": "2026-06-30T23:39:31.311609+00:00",
+      "fetched_at": "2026-07-01T23:47:30.969715+00:00",
       "last_updated": "Jun 23, 2026",
       "model_count": 42,
       "method": "html"
@@ -12109,7 +12109,7 @@
     "meta": {
       "leaderboard": "video-edit",
       "source_url": "https://arena.ai/leaderboard/video-edit",
-      "fetched_at": "2026-06-30T23:39:32.710562+00:00",
+      "fetched_at": "2026-07-01T23:47:32.912937+00:00",
       "last_updated": "Jun 29, 2026",
       "model_count": 7,
       "method": "html"
