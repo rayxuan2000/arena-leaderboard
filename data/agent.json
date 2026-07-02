@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "agent",
     "source_url": "https://arena.ai/leaderboard/agent",
-    "fetched_at": "2026-07-01T23:47:23.817113+00:00",
+    "fetched_at": "2026-07-02T23:32:02.464331+00:00",
     "last_updated": "Jun 29, 2026",
     "model_count": 28,
     "method": "html"
@@ -318,7 +318,7 @@
       "rank": 19,
       "model": "Minimax M3",
       "vendor": "MiniMax",
-      "license": "proprietary",
+      "license": "open",
       "score": null,
       "ci": null,
       "votes": 31887,
