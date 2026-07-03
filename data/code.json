@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "code",
     "source_url": "https://arena.ai/leaderboard/code",
-    "fetched_at": "2026-07-02T23:31:55.508061+00:00",
+    "fetched_at": "2026-07-03T23:29:37.955566+00:00",
     "last_updated": "Jul 1, 2026",
     "model_count": 92,
     "method": "html"
@@ -880,7 +880,7 @@
       "rank": 63,
       "model": "laguna-m.1",
       "vendor": "Poolside",
-      "license": "proprietary",
+      "license": "open",
       "score": 1351,
       "ci": 13,
       "votes": 2552,
