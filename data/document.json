@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "document",
     "source_url": "https://arena.ai/leaderboard/document",
-    "fetched_at": "2026-07-06T23:32:53.699767+00:00",
+    "fetched_at": "2026-07-07T23:16:18.714474+00:00",
     "last_updated": "Jul 1, 2026",
     "model_count": 32,
     "method": "html"
@@ -150,7 +150,7 @@
     },
     {
       "rank": 11,
-      "model": "claude-sonnet-5-thinking",
+      "model": "claude-sonnet-5-high",
       "vendor": "Anthropic",
       "license": "proprietary",
       "score": 1476,

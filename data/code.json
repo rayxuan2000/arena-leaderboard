@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "code",
     "source_url": "https://arena.ai/leaderboard/code",
-    "fetched_at": "2026-07-06T23:32:49.656922+00:00",
+    "fetched_at": "2026-07-07T23:16:14.645753+00:00",
     "last_updated": "Jul 1, 2026",
     "model_count": 92,
     "method": "html"
@@ -80,7 +80,7 @@
     },
     {
       "rank": 6,
-      "model": "claude-sonnet-5-thinking",
+      "model": "claude-sonnet-5-high",
       "vendor": "Anthropic",
       "license": "proprietary",
       "score": 1551,
@@ -592,8 +592,8 @@
       "votes": 9230,
       "extra": {
         "rank spread": "38 52",
-        "price $/m": "$0.60 / $2.40",
-        "context": "196.6K"
+        "price $/m": "$0.18 / $0.72",
+        "context": "204.8K"
       }
     },
     {
