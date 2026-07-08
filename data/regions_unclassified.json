@@ -1,5 +1,9 @@
 [
   {
+    "vendor": "?",
+    "example_model": "intellect-3 MIT"
+  },
+  {
     "vendor": "Poolside",
     "example_model": "laguna-m.1"
   }

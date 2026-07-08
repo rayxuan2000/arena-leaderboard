@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "agent",
     "source_url": "https://arena.ai/leaderboard/agent",
-    "fetched_at": "2026-07-07T23:16:22.029141+00:00",
+    "fetched_at": "2026-07-08T23:34:11.507059+00:00",
     "last_updated": "Jul 7, 2026",
     "model_count": 29,
     "method": "html"
@@ -367,8 +367,8 @@
     },
     {
       "rank": 22,
-      "model": "Grok 4.3 (High)",
-      "vendor": "xAI",
+      "model": "Grok 4.3 (High) Space",
+      "vendor": "XAI",
       "license": "proprietary",
       "score": null,
       "ci": null,
@@ -384,8 +384,8 @@
     },
     {
       "rank": 23,
-      "model": "Grok Build 0.1",
-      "vendor": "xAI",
+      "model": "Grok Build 0.1 Space",
+      "vendor": "XAI",
       "license": "proprietary",
       "score": null,
       "ci": null,
@@ -406,7 +406,7 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 5235,
+      "votes": 0,
       "extra": {
         "net improvement": "7.91 % ±2.17%",
         "confirmed success": "13.94 % ±4.50%",
@@ -486,8 +486,8 @@
     },
     {
       "rank": 29,
-      "model": "Grok 4.3",
-      "vendor": "xAI",
+      "model": "Grok 4.3 Space",
+      "vendor": "XAI",
       "license": "proprietary",
       "score": null,
       "ci": null,
