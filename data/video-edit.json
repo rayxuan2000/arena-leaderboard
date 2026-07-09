@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "video-edit",
     "source_url": "https://arena.ai/leaderboard/video-edit",
-    "fetched_at": "2026-07-08T23:34:19.958484+00:00",
+    "fetched_at": "2026-07-09T23:39:52.661479+00:00",
     "last_updated": "Jun 29, 2026",
     "model_count": 7,
     "method": "html"
@@ -47,7 +47,7 @@
     {
       "rank": 4,
       "model": "grok-imagine-video",
-      "vendor": "xAI",
+      "vendor": "XAI",
       "license": "proprietary",
       "score": 1264,
       "ci": 8,

@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "vision",
     "source_url": "https://arena.ai/leaderboard/vision",
-    "fetched_at": "2026-07-08T23:34:06.626918+00:00",
+    "fetched_at": "2026-07-09T23:39:37.415182+00:00",
     "last_updated": "Jul 1, 2026",
     "model_count": 133,
     "method": "html"
@@ -375,7 +375,7 @@
     {
       "rank": 27,
       "model": "grok-4.20-beta-0309-reasoning",
-      "vendor": "xAI",
+      "vendor": "XAI",
       "license": "proprietary",
       "score": 1253,
       "ci": 7,
@@ -403,7 +403,7 @@
     {
       "rank": 29,
       "model": "grok-4.20-multi-agent-beta-0309",
-      "vendor": "xAI",
+      "vendor": "XAI",
       "license": "proprietary",
       "score": 1250,
       "ci": 7,
@@ -431,7 +431,7 @@
     {
       "rank": 31,
       "model": "grok-4.3",
-      "vendor": "xAI",
+      "vendor": "XAI",
       "license": "proprietary",
       "score": 1248,
       "ci": 7,
@@ -865,7 +865,7 @@
     {
       "rank": 62,
       "model": "grok-4-1-fast-reasoning",
-      "vendor": "xAI",
+      "vendor": "XAI",
       "license": "proprietary",
       "score": 1196,
       "ci": 8,
@@ -977,7 +977,7 @@
     {
       "rank": 70,
       "model": "grok-4-0709",
-      "vendor": "xAI",
+      "vendor": "XAI",
       "license": "proprietary",
       "score": 1182,
       "ci": 7,

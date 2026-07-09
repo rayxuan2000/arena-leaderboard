@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "image-to-video",
     "source_url": "https://arena.ai/leaderboard/image-to-video",
-    "fetched_at": "2026-07-08T23:34:18.531629+00:00",
+    "fetched_at": "2026-07-09T23:39:50.633800+00:00",
     "last_updated": "Jun 23, 2026",
     "model_count": 42,
     "method": "html"
@@ -35,7 +35,7 @@
     {
       "rank": 3,
       "model": "grok-imagine-video-1.5-preview-720p",
-      "vendor": "xAI",
+      "vendor": "XAI",
       "license": "proprietary",
       "score": 1466,
       "ci": 5,
@@ -71,7 +71,7 @@
     {
       "rank": 6,
       "model": "grok-imagine-video-720p",
-      "vendor": "xAI",
+      "vendor": "XAI",
       "license": "proprietary",
       "score": 1422,
       "ci": 5,
@@ -119,7 +119,7 @@
     {
       "rank": 10,
       "model": "grok-imagine-video-480p",
-      "vendor": "xAI",
+      "vendor": "XAI",
       "license": "proprietary",
       "score": 1384,
       "ci": 9,
