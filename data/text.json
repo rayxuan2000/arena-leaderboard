@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "text",
     "source_url": "https://arena.ai/leaderboard/text",
-    "fetched_at": "2026-07-12T23:11:36.880302+00:00",
+    "fetched_at": "2026-07-13T23:15:35.541562+00:00",
     "last_updated": "Jul 10, 2026",
     "model_count": 374,
     "method": "html"
@@ -13,11 +13,11 @@
       "model": "claude-fable-5",
       "vendor": "Anthropic",
       "license": "proprietary",
-      "score": 1509,
-      "ci": 9,
-      "votes": 4299,
+      "score": 1505,
+      "ci": 8,
+      "votes": 7252,
       "extra": {
-        "rank spread": "1 6",
+        "rank spread": "1 7",
         "price $/m": "$10 / $50",
         "context": "1M"
       }
@@ -73,7 +73,7 @@
       "ci": 4,
       "votes": 47222,
       "extra": {
-        "rank spread": "3 8",
+        "rank spread": "2 8",
         "price $/m": "$5 / $25",
         "context": "1M"
       }
@@ -984,7 +984,7 @@
       "votes": 40831,
       "extra": {
         "rank spread": "59 84",
-        "price $/m": "$0.08 / $0.15",
+        "price $/m": "$0.09 / $0.18",
         "context": "1M"
       }
     },
