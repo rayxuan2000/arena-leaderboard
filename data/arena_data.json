@@ -3,7 +3,7 @@
     "meta": {
       "leaderboard": "text",
       "source_url": "https://arena.ai/leaderboard/text",
-      "fetched_at": "2026-07-13T23:15:35.541562+00:00",
+      "fetched_at": "2026-07-14T23:13:14.133185+00:00",
       "last_updated": "Jul 10, 2026",
       "model_count": 374,
       "method": "html"
@@ -2483,7 +2483,7 @@
         "votes": 30628,
         "extra": {
           "rank spread": "167 195",
-          "price $/m": "$0.04 / $0.18",
+          "price $/m": "$0.03 / $0.15",
           "context": "131.1K"
         }
       },
@@ -5251,7 +5251,7 @@
     "meta": {
       "leaderboard": "code",
       "source_url": "https://arena.ai/leaderboard/code",
-      "fetched_at": "2026-07-13T23:15:38.251496+00:00",
+      "fetched_at": "2026-07-14T23:13:17.019530+00:00",
       "last_updated": "Jul 13, 2026",
       "model_count": 96,
       "method": "html"
@@ -6607,7 +6607,7 @@
     "meta": {
       "leaderboard": "vision",
       "source_url": "https://arena.ai/leaderboard/vision",
-      "fetched_at": "2026-07-13T23:15:40.675128+00:00",
+      "fetched_at": "2026-07-14T23:13:19.928809+00:00",
       "last_updated": "Jul 13, 2026",
       "model_count": 135,
       "method": "html"
@@ -8509,7 +8509,7 @@
     "meta": {
       "leaderboard": "document",
       "source_url": "https://arena.ai/leaderboard/document",
-      "fetched_at": "2026-07-13T23:15:43.173553+00:00",
+      "fetched_at": "2026-07-14T23:13:22.052968+00:00",
       "last_updated": "Jul 13, 2026",
       "model_count": 32,
       "method": "html"
@@ -8969,7 +8969,7 @@
     "meta": {
       "leaderboard": "search",
       "source_url": "https://arena.ai/leaderboard/search",
-      "fetched_at": "2026-07-13T23:15:45.412298+00:00",
+      "fetched_at": "2026-07-14T23:13:23.799136+00:00",
       "last_updated": "Jul 13, 2026",
       "model_count": 32,
       "method": "html"
@@ -9429,9 +9429,9 @@
     "meta": {
       "leaderboard": "agent",
       "source_url": "https://arena.ai/leaderboard/agent",
-      "fetched_at": "2026-07-13T23:15:47.206674+00:00",
+      "fetched_at": "2026-07-14T23:13:25.914380+00:00",
       "last_updated": "Jul 12, 2026",
-      "model_count": 34,
+      "model_count": 35,
       "method": "html"
     },
     "models": [
@@ -9709,6 +9709,23 @@
       },
       {
         "rank": 17,
+        "model": "Muse Spark 1.1",
+        "vendor": "Meta",
+        "license": "proprietary",
+        "score": null,
+        "ci": null,
+        "votes": 9262,
+        "extra": {
+          "net improvement": "0.17 % ±2.04%",
+          "confirmed success": "2.06 % ±3.70%",
+          "praise vs complaint": "0.61 % ±5.26%",
+          "steerability": "7.21 % ±6.54%",
+          "bash recovery": "4.04 % ±3.44%",
+          "tool hallucination": "1.33 % ±0.15%"
+        }
+      },
+      {
+        "rank": 18,
         "model": "Qwen3.7 Plus",
         "vendor": "Alibaba",
         "license": "proprietary",
@@ -9725,7 +9742,7 @@
         }
       },
       {
-        "rank": 18,
+        "rank": 19,
         "model": "Gemini 3.1 Pro Preview",
         "vendor": "Google",
         "license": "proprietary",
@@ -9742,7 +9759,7 @@
         }
       },
       {
-        "rank": 19,
+        "rank": 20,
         "model": "Kimi K2.7 Code",
         "vendor": "Moonshot",
         "license": "open",
@@ -9759,7 +9776,7 @@
         }
       },
       {
-        "rank": 20,
+        "rank": 21,
         "model": "Qwen3.7 Max",
         "vendor": "Alibaba",
         "license": "proprietary",
@@ -9776,7 +9793,7 @@
         }
       },
       {
-        "rank": 21,
+        "rank": 22,
         "model": "DeepSeek V4 Pro",
         "vendor": "DeepSeek",
         "license": "open",
@@ -9793,7 +9810,7 @@
         }
       },
       {
-        "rank": 22,
+        "rank": 23,
         "model": "Gemini 3.5 Flash (High)",
         "vendor": "Google",
         "license": "proprietary",
@@ -9810,7 +9827,7 @@
         }
       },
       {
-        "rank": 23,
+        "rank": 24,
         "model": "Kimi K2.6",
         "vendor": "Moonshot",
         "license": "open",
@@ -9827,7 +9844,7 @@
         }
       },
       {
-        "rank": 24,
+        "rank": 25,
         "model": "Mimo V2.5 Pro",
         "vendor": "Xiaomi",
         "license": "open",
@@ -9844,7 +9861,7 @@
         }
       },
       {
-        "rank": 25,
+        "rank": 26,
         "model": "Minimax M3",
         "vendor": "MiniMax",
         "license": "open",
@@ -9861,7 +9878,7 @@
         }
       },
       {
-        "rank": 26,
+        "rank": 27,
         "model": "DeepSeek V4 Flash",
         "vendor": "DeepSeek",
         "license": "open",
@@ -9878,7 +9895,7 @@
         }
       },
       {
-        "rank": 27,
+        "rank": 28,
         "model": "Gemini 3.5 Flash (Medium)",
         "vendor": "Google",
         "license": "proprietary",
@@ -9895,7 +9912,7 @@
         }
       },
       {
-        "rank": 28,
+        "rank": 29,
         "model": "Grok Build 0.1 Space",
         "vendor": "XAI",
         "license": "proprietary",
@@ -9912,7 +9929,7 @@
         }
       },
       {
-        "rank": 29,
+        "rank": 30,
         "model": "Grok 4.3 (High) Space",
         "vendor": "XAI",
         "license": "proprietary",
@@ -9929,7 +9946,7 @@
         }
       },
       {
-        "rank": 30,
+        "rank": 31,
         "model": "Gemini 3 Flash",
         "vendor": "Google",
         "license": "proprietary",
@@ -9946,7 +9963,7 @@
         }
       },
       {
-        "rank": 31,
+        "rank": 32,
         "model": "Minimax M2.7",
         "vendor": "MiniMax",
         "license": "open",
@@ -9963,7 +9980,7 @@
         }
       },
       {
-        "rank": 32,
+        "rank": 33,
         "model": "Gemma 4 31B",
         "vendor": "Google",
         "license": "open",
@@ -9980,7 +9997,7 @@
         }
       },
       {
-        "rank": 33,
+        "rank": 34,
         "model": "Nemotron 3 Ultra",
         "vendor": "Nvidia",
         "license": null,
@@ -9997,7 +10014,7 @@
         }
       },
       {
-        "rank": 34,
+        "rank": 35,
         "model": "Grok 4.3 Space",
         "vendor": "XAI",
         "license": "proprietary",
@@ -10019,7 +10036,7 @@
     "meta": {
       "leaderboard": "text-to-image",
       "source_url": "https://arena.ai/leaderboard/text-to-image",
-      "fetched_at": "2026-07-13T23:15:49.378070+00:00",
+      "fetched_at": "2026-07-14T23:13:27.924635+00:00",
       "last_updated": "Jul 10, 2026",
       "model_count": 74,
       "method": "html"
@@ -10919,7 +10936,7 @@
     "meta": {
       "leaderboard": "image-edit",
       "source_url": "https://arena.ai/leaderboard/image-edit",
-      "fetched_at": "2026-07-13T23:15:51.521349+00:00",
+      "fetched_at": "2026-07-14T23:13:29.733001+00:00",
       "last_updated": "Jul 10, 2026",
       "model_count": 52,
       "method": "html"
@@ -11555,7 +11572,7 @@
     "meta": {
       "leaderboard": "text-to-video",
       "source_url": "https://arena.ai/leaderboard/text-to-video",
-      "fetched_at": "2026-07-13T23:15:53.552754+00:00",
+      "fetched_at": "2026-07-14T23:13:31.792899+00:00",
       "last_updated": "Jul 5, 2026",
       "model_count": 42,
       "method": "html"
@@ -12071,7 +12088,7 @@
     "meta": {
       "leaderboard": "image-to-video",
       "source_url": "https://arena.ai/leaderboard/image-to-video",
-      "fetched_at": "2026-07-13T23:15:55.294983+00:00",
+      "fetched_at": "2026-07-14T23:13:33.467876+00:00",
       "last_updated": "Jun 23, 2026",
       "model_count": 42,
       "method": "html"
@@ -12587,7 +12604,7 @@
     "meta": {
       "leaderboard": "video-edit",
       "source_url": "https://arena.ai/leaderboard/video-edit",
-      "fetched_at": "2026-07-13T23:15:57.044299+00:00",
+      "fetched_at": "2026-07-14T23:13:35.116654+00:00",
       "last_updated": "Jun 29, 2026",
       "model_count": 7,
       "method": "html"
