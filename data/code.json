@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "code",
     "source_url": "https://arena.ai/leaderboard/code",
-    "fetched_at": "2026-07-14T23:13:17.019530+00:00",
+    "fetched_at": "2026-07-15T23:14:59.676465+00:00",
     "last_updated": "Jul 13, 2026",
     "model_count": 96,
     "method": "html"
@@ -228,7 +228,7 @@
       "votes": 6058,
       "extra": {
         "rank spread": "11 17",
-        "price $/m": "$1.25 / $3.75",
+        "price $/m": "$1.48 / $4.42",
         "context": "1M"
       }
     },
@@ -564,7 +564,7 @@
       "votes": 8222,
       "extra": {
         "rank spread": "33 41",
-        "price $/m": "$0.10 / $0.28",
+        "price $/m": "$0.14 / $0.28",
         "context": "1M"
       }
     },
@@ -578,7 +578,7 @@
       "votes": 3613,
       "extra": {
         "rank spread": "41 51",
-        "price $/m": "$0.38 / $2.02",
+        "price $/m": "$0.57 / $2.85",
         "context": "262.1K"
       }
     },
@@ -648,8 +648,8 @@
       "votes": 14250,
       "extra": {
         "rank spread": "41 55",
-        "price $/m": "$0.39 / $2.45",
-        "context": "256K"
+        "price $/m": "$0.45 / $3",
+        "context": "262.1K"
       }
     },
     {
@@ -662,7 +662,7 @@
       "votes": 10279,
       "extra": {
         "rank spread": "41 57",
-        "price $/m": "$0.24 / $0.96",
+        "price $/m": "$0.30 / $1.20",
         "context": "204.8K"
       }
     },
@@ -844,8 +844,8 @@
       "votes": 7924,
       "extra": {
         "rank spread": "56 67",
-        "price $/m": "$0.21 / $0.32",
-        "context": "131.1K"
+        "price $/m": "$0.27 / $0.40",
+        "context": "163.8K"
       }
     },
     {
@@ -942,8 +942,8 @@
       "votes": 8350,
       "extra": {
         "rank spread": "58 68",
-        "price $/m": "$0.43 / $1.75",
-        "context": "200K"
+        "price $/m": "$0.50 / $2",
+        "context": "202.8K"
       }
     },
     {
@@ -998,8 +998,8 @@
       "votes": 10501,
       "extra": {
         "rank spread": "68 74",
-        "price $/m": "$0.21 / $0.32",
-        "context": "131.1K"
+        "price $/m": "$0.27 / $0.40",
+        "context": "163.8K"
       }
     },
     {
