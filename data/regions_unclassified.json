@@ -1,5 +1,9 @@
 [
   {
+    "vendor": "Thinky",
+    "example_model": "Thinking Machines inkling"
+  },
+  {
     "vendor": "?",
     "example_model": "intellect-3 MIT"
   },
