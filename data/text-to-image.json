@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "text-to-image",
     "source_url": "https://arena.ai/leaderboard/text-to-image",
-    "fetched_at": "2026-07-16T23:13:13.359196+00:00",
+    "fetched_at": "2026-07-17T23:11:12.525198+00:00",
     "last_updated": "Jul 10, 2026",
     "model_count": 74,
     "method": "html"
@@ -70,7 +70,7 @@
     },
     {
       "rank": 6,
-      "model": "mai-image-2.5",
+      "model": "mai-image-2.5 Microsoft",
       "vendor": "AI",
       "license": "proprietary",
       "score": 1257,
@@ -142,7 +142,7 @@
     },
     {
       "rank": 12,
-      "model": "grok-imagine-image-quality",
+      "model": "grok-imagine-image-quality Space",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1229,
@@ -190,7 +190,7 @@
     },
     {
       "rank": 16,
-      "model": "mai-image-2",
+      "model": "mai-image-2 Microsoft",
       "vendor": "AI",
       "license": "proprietary",
       "score": 1183,
@@ -214,7 +214,7 @@
     },
     {
       "rank": 18,
-      "model": "grok-imagine-image",
+      "model": "grok-imagine-image Space",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1173,
@@ -238,7 +238,7 @@
     },
     {
       "rank": 20,
-      "model": "flux-2-max",
+      "model": "Flux flux-2-max",
       "vendor": "Black Forest Labs",
       "license": "proprietary",
       "score": 1162,
@@ -250,7 +250,7 @@
     },
     {
       "rank": 21,
-      "model": "grok-imagine-image-pro",
+      "model": "grok-imagine-image-pro Space",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1161,
@@ -262,7 +262,7 @@
     },
     {
       "rank": 22,
-      "model": "flux-2-flex",
+      "model": "Flux flux-2-flex",
       "vendor": "Black Forest Labs",
       "license": "proprietary",
       "score": 1156,
@@ -274,7 +274,7 @@
     },
     {
       "rank": 23,
-      "model": "flux-2-pro",
+      "model": "Flux flux-2-pro",
       "vendor": "Black Forest Labs",
       "license": "proprietary",
       "score": 1155,
@@ -334,7 +334,7 @@
     },
     {
       "rank": 28,
-      "model": "flux-2-dev",
+      "model": "Flux flux-2-dev",
       "vendor": "Black Forest Labs",
       "license": "open",
       "score": 1148,
@@ -385,7 +385,7 @@
       "model": "seedream-5.0-lite",
       "vendor": "Bytedance",
       "license": "proprietary",
-      "score": 1133,
+      "score": 1132,
       "ci": 4,
       "votes": 87149,
       "extra": {
@@ -574,7 +574,7 @@
     },
     {
       "rank": 48,
-      "model": "mai-image-1",
+      "model": "mai-image-1 Microsoft",
       "vendor": "AI",
       "license": "proprietary",
       "score": 1093,
@@ -610,7 +610,7 @@
     },
     {
       "rank": 51,
-      "model": "flux-1-kontext-max",
+      "model": "Flux flux-1-kontext-max",
       "vendor": "Black Forest Labs",
       "license": "proprietary",
       "score": 1074,
@@ -622,7 +622,7 @@
     },
     {
       "rank": 52,
-      "model": "flux-2-klein-9b",
+      "model": "Flux flux-2-klein-9b",
       "vendor": "Black Forest Labs",
       "license": "open",
       "score": 1069,
@@ -646,7 +646,7 @@
     },
     {
       "rank": 54,
-      "model": "flux-1-kontext-pro",
+      "model": "Flux flux-1-kontext-pro",
       "vendor": "Black Forest Labs",
       "license": "proprietary",
       "score": 1059,
@@ -730,9 +730,9 @@
     },
     {
       "rank": 61,
-      "model": "p-image",
-      "vendor": "Pruna",
-      "license": "proprietary",
+      "model": "p-image Proprietary",
+      "vendor": null,
+      "license": null,
       "score": 1034,
       "ci": 4,
       "votes": 103638,
@@ -742,7 +742,7 @@
     },
     {
       "rank": 62,
-      "model": "flux-2-klein-4b",
+      "model": "Flux flux-2-klein-4b",
       "vendor": "Black Forest Labs",
       "license": "open",
       "score": 1030,
@@ -778,7 +778,7 @@
     },
     {
       "rank": 65,
-      "model": "flux-1.1-pro",
+      "model": "Flux flux-1.1-pro",
       "vendor": "Black Forest Labs",
       "license": "proprietary",
       "score": 1016,
@@ -790,7 +790,7 @@
     },
     {
       "rank": 66,
-      "model": "lucid-origin",
+      "model": "lucid-origin Leonardo",
       "vendor": "AI",
       "license": "proprietary",
       "score": 1013,
@@ -838,7 +838,7 @@
     },
     {
       "rank": 70,
-      "model": "flux-1-dev-fp8",
+      "model": "Flux flux-1-dev-fp8",
       "vendor": "Black Forest Labs",
       "license": "open",
       "score": 970,
@@ -862,7 +862,7 @@
     },
     {
       "rank": 72,
-      "model": "flux-1-kontext-dev",
+      "model": "Flux flux-1-kontext-dev",
       "vendor": "Black Forest Labs",
       "license": "open",
       "score": 940,
@@ -874,9 +874,9 @@
     },
     {
       "rank": 73,
-      "model": "stable-diffusion-v35-large",
-      "vendor": "Stability AI",
-      "license": "open",
+      "model": "stable-diffusion-v35-large Open",
+      "vendor": null,
+      "license": null,
       "score": 938,
       "ci": 4,
       "votes": 23396,

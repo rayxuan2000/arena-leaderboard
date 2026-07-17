@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "image-to-video",
     "source_url": "https://arena.ai/leaderboard/image-to-video",
-    "fetched_at": "2026-07-16T23:13:18.712849+00:00",
+    "fetched_at": "2026-07-17T23:11:17.787265+00:00",
     "last_updated": "Jun 23, 2026",
     "model_count": 42,
     "method": "html"
@@ -34,7 +34,7 @@
     },
     {
       "rank": 3,
-      "model": "grok-imagine-video-1.5-preview-720p",
+      "model": "grok-imagine-video-1.5-preview-720p Space",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1466,
@@ -70,7 +70,7 @@
     },
     {
       "rank": 6,
-      "model": "grok-imagine-video-720p",
+      "model": "grok-imagine-video-720p Space",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1422,
@@ -118,7 +118,7 @@
     },
     {
       "rank": 10,
-      "model": "grok-imagine-video-480p",
+      "model": "grok-imagine-video-480p Space",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1384,
@@ -142,7 +142,7 @@
     },
     {
       "rank": 12,
-      "model": "vidu-q3-pro",
+      "model": "Vidu vidu-q3-pro",
       "vendor": "Shengshu",
       "license": "proprietary",
       "score": 1361,
@@ -181,7 +181,7 @@
       "model": "veo-3-fast-audio",
       "vendor": "Google",
       "license": "proprietary",
-      "score": 1325,
+      "score": 1324,
       "ci": 9,
       "votes": 41215,
       "extra": {
@@ -226,9 +226,9 @@
     },
     {
       "rank": 19,
-      "model": "pixverse-v5.6",
-      "vendor": "Pixverse",
-      "license": "proprietary",
+      "model": "pixverse-v5.6 Proprietary",
+      "vendor": null,
+      "license": null,
       "score": 1300,
       "ci": 8,
       "votes": 108232,
@@ -266,7 +266,7 @@
       "vendor": "Bytedance",
       "license": "proprietary",
       "score": 1272,
-      "ci": 8,
+      "ci": 7,
       "votes": 34027,
       "extra": {
         "rank spread": "21 25"
@@ -310,9 +310,9 @@
     },
     {
       "rank": 26,
-      "model": "p-video",
-      "vendor": "Pruna",
-      "license": "proprietary",
+      "model": "p-video Proprietary",
+      "vendor": null,
+      "license": null,
       "score": 1244,
       "ci": 16,
       "votes": 23366,
@@ -322,7 +322,7 @@
     },
     {
       "rank": 27,
-      "model": "vidu-q2-turbo",
+      "model": "Vidu vidu-q2-turbo",
       "vendor": "Shengshu",
       "license": "proprietary",
       "score": 1243,
@@ -394,7 +394,7 @@
     },
     {
       "rank": 33,
-      "model": "vidu-q2-pro",
+      "model": "Vidu vidu-q2-pro",
       "vendor": "Shengshu",
       "license": "proprietary",
       "score": 1222,
@@ -466,9 +466,9 @@
     },
     {
       "rank": 39,
-      "model": "ltx-2-19b",
-      "vendor": "lightricks",
-      "license": "open",
+      "model": "ltx-2-19b ltx-2-community-license-agreement",
+      "vendor": null,
+      "license": null,
       "score": 1147,
       "ci": 6,
       "votes": 166117,
