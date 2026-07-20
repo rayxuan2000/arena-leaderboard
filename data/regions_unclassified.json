@@ -1,11 +1,11 @@
 [
   {
     "vendor": "Thinky",
-    "example_model": "Thinking Machines inkling"
+    "example_model": "inkling"
   },
   {
     "vendor": "?",
-    "example_model": "intellect-3 MIT"
+    "example_model": "intellect-3"
   },
   {
     "vendor": "Poolside",

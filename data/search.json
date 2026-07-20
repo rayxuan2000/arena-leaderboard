@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "search",
     "source_url": "https://arena.ai/leaderboard/search",
-    "fetched_at": "2026-07-19T23:14:31.069832+00:00",
+    "fetched_at": "2026-07-20T23:17:35.530303+00:00",
     "last_updated": "Jul 13, 2026",
     "model_count": 32,
     "method": "html"
@@ -150,7 +150,7 @@
     },
     {
       "rank": 11,
-      "model": "grok-4.20-multi-agent-beta-0309 Space",
+      "model": "grok-4.20-multi-agent-beta-0309",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1206,
@@ -220,7 +220,7 @@
     },
     {
       "rank": 16,
-      "model": "grok-4.20-beta1 Space",
+      "model": "grok-4.20-beta1",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1190,
@@ -262,7 +262,7 @@
     },
     {
       "rank": 19,
-      "model": "grok-4-1-fast-search Space",
+      "model": "grok-4-1-fast-search",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1171,
@@ -276,7 +276,7 @@
     },
     {
       "rank": 20,
-      "model": "grok-4-fast-search Space",
+      "model": "grok-4-fast-search",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1170,
@@ -290,7 +290,7 @@
     },
     {
       "rank": 21,
-      "model": "grok-4.3 Space",
+      "model": "grok-4.3",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1163,
@@ -360,7 +360,7 @@
     },
     {
       "rank": 26,
-      "model": "grok-4-search Space",
+      "model": "grok-4-search",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1141,
@@ -374,7 +374,7 @@
     },
     {
       "rank": 27,
-      "model": "ppl-sonar-reasoning-pro-high Perplexity",
+      "model": "ppl-sonar-reasoning-pro-high",
       "vendor": "AI",
       "license": "proprietary",
       "score": 1138,
@@ -402,7 +402,7 @@
     },
     {
       "rank": 29,
-      "model": "ppl-sonar-pro-high Perplexity",
+      "model": "ppl-sonar-pro-high",
       "vendor": "AI",
       "license": "proprietary",
       "score": 1129,

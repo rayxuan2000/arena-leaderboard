@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "text",
     "source_url": "https://arena.ai/leaderboard/text",
-    "fetched_at": "2026-07-19T23:14:22.389282+00:00",
+    "fetched_at": "2026-07-20T23:17:27.209532+00:00",
     "last_updated": "Jul 16, 2026",
     "model_count": 376,
     "method": "html"
@@ -276,7 +276,7 @@
     },
     {
       "rank": 20,
-      "model": "grok-4.20-beta1 Space",
+      "model": "grok-4.20-beta1",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1474,
@@ -332,7 +332,7 @@
     },
     {
       "rank": 24,
-      "model": "grok-4.20-beta-0309-reasoning Space",
+      "model": "grok-4.20-beta-0309-reasoning",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1473,
@@ -388,7 +388,7 @@
     },
     {
       "rank": 28,
-      "model": "grok-4.20-multi-agent-beta-0309 Space",
+      "model": "grok-4.20-multi-agent-beta-0309",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1470,
@@ -458,7 +458,7 @@
     },
     {
       "rank": 33,
-      "model": "grok-4.1-thinking Space",
+      "model": "grok-4.1-thinking",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1466,
@@ -472,7 +472,7 @@
     },
     {
       "rank": 34,
-      "model": "grok-4.5 Space",
+      "model": "grok-4.5",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1465,
@@ -570,7 +570,7 @@
     },
     {
       "rank": 41,
-      "model": "grok-4.1 Space",
+      "model": "grok-4.1",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1459,
@@ -892,7 +892,7 @@
     },
     {
       "rank": 64,
-      "model": "grok-4.3 Space",
+      "model": "grok-4.3",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1442,
@@ -934,7 +934,7 @@
     },
     {
       "rank": 67,
-      "model": "Thinking Machines inkling",
+      "model": "inkling",
       "vendor": "Thinky",
       "license": "open",
       "score": 1441,
@@ -1130,7 +1130,7 @@
     },
     {
       "rank": 81,
-      "model": "grok-4-1-fast-reasoning Space",
+      "model": "grok-4-1-fast-reasoning",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1431,
@@ -1368,7 +1368,7 @@
     },
     {
       "rank": 98,
-      "model": "grok-4-fast-chat Space",
+      "model": "grok-4-fast-chat",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1421,
@@ -1606,7 +1606,7 @@
     },
     {
       "rank": 115,
-      "model": "grok-3-preview-02-24 Space",
+      "model": "grok-3-preview-02-24",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1412,
@@ -1662,7 +1662,7 @@
     },
     {
       "rank": 119,
-      "model": "grok-4-0709 Space",
+      "model": "grok-4-0709",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1410,
@@ -1704,7 +1704,7 @@
     },
     {
       "rank": 122,
-      "model": "grok-4-fast-reasoning Space",
+      "model": "grok-4-fast-reasoning",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1404,
@@ -1810,7 +1810,7 @@
       "votes": 8988,
       "extra": {
         "rank spread": "118 145",
-        "price $/m": "$0.15 / $1.50",
+        "price $/m": "$0.30 / $3",
         "context": "262.1K"
       }
     },
@@ -1900,7 +1900,7 @@
     },
     {
       "rank": 136,
-      "model": "Stepfun step-3.5-flash",
+      "model": "step-3.5-flash",
       "vendor": "StepFun",
       "license": "open",
       "score": 1395,
@@ -2152,7 +2152,7 @@
     },
     {
       "rank": 154,
-      "model": "trinity-large-preview Apache 2.0",
+      "model": "trinity-large-preview",
       "vendor": null,
       "license": null,
       "score": 1379,
@@ -2278,7 +2278,7 @@
     },
     {
       "rank": 163,
-      "model": "trinity-large-thinking Apache 2.0",
+      "model": "trinity-large-thinking",
       "vendor": null,
       "license": null,
       "score": 1369,
@@ -2362,7 +2362,7 @@
     },
     {
       "rank": 169,
-      "model": "grok-3-mini-high Space",
+      "model": "grok-3-mini-high",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1362,
@@ -2432,7 +2432,7 @@
     },
     {
       "rank": 174,
-      "model": "grok-3-mini-beta Space",
+      "model": "grok-3-mini-beta",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1357,
@@ -2446,7 +2446,7 @@
     },
     {
       "rank": 175,
-      "model": "intellect-3 MIT",
+      "model": "intellect-3",
       "vendor": null,
       "license": null,
       "score": 1356,
@@ -2558,7 +2558,7 @@
     },
     {
       "rank": 183,
-      "model": "Stepfun step-3",
+      "model": "step-3",
       "vendor": "StepFun",
       "license": "open",
       "score": 1348,
@@ -2628,7 +2628,7 @@
     },
     {
       "rank": 188,
-      "model": "mercury-2 Inception",
+      "model": "mercury-2",
       "vendor": "AI",
       "license": "proprietary",
       "score": 1347,
@@ -2642,7 +2642,7 @@
     },
     {
       "rank": 189,
-      "model": "ling-flash-2.0 Ant",
+      "model": "ling-flash-2.0",
       "vendor": "Group",
       "license": "open",
       "score": 1346,
@@ -2824,7 +2824,7 @@
     },
     {
       "rank": 202,
-      "model": "grok-2-2024-08-13 Space",
+      "model": "grok-2-2024-08-13",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1336,
@@ -2880,7 +2880,7 @@
     },
     {
       "rank": 206,
-      "model": "Stepfun step-2-16k-exp-202412",
+      "model": "step-2-16k-exp-202412",
       "vendor": "StepFun",
       "license": "proprietary",
       "score": 1334,
@@ -2936,7 +2936,7 @@
     },
     {
       "rank": 210,
-      "model": "yi-lightning Proprietary",
+      "model": "yi-lightning",
       "vendor": null,
       "license": null,
       "score": 1328,
@@ -3104,7 +3104,7 @@
     },
     {
       "rank": 222,
-      "model": "ring-flash-2.0 Ant",
+      "model": "ring-flash-2.0",
       "vendor": "Group",
       "license": "open",
       "score": 1321,
@@ -3118,7 +3118,7 @@
     },
     {
       "rank": 223,
-      "model": "Stepfun step-1o-turbo-202506",
+      "model": "step-1o-turbo-202506",
       "vendor": "StepFun",
       "license": "proprietary",
       "score": 1320,
@@ -3244,7 +3244,7 @@
     },
     {
       "rank": 232,
-      "model": "athene-v2-chat NexusFlow",
+      "model": "athene-v2-chat",
       "vendor": null,
       "license": null,
       "score": 1314,
@@ -3328,7 +3328,7 @@
     },
     {
       "rank": 238,
-      "model": "grok-2-mini-2024-08-13 Space",
+      "model": "grok-2-mini-2024-08-13",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1308,
@@ -3370,7 +3370,7 @@
     },
     {
       "rank": 241,
-      "model": "athene-70b-0725 CC-BY-NC-4.0",
+      "model": "athene-70b-0725",
       "vendor": null,
       "license": null,
       "score": 1306,
@@ -3384,7 +3384,7 @@
     },
     {
       "rank": 242,
-      "model": "mercury Inception",
+      "model": "mercury",
       "vendor": "AI",
       "license": "proprietary",
       "score": 1306,
@@ -3538,7 +3538,7 @@
     },
     {
       "rank": 253,
-      "model": "jamba-1.5-large Jamba Open",
+      "model": "jamba-1.5-large",
       "vendor": null,
       "license": null,
       "score": 1289,
@@ -3566,7 +3566,7 @@
     },
     {
       "rank": 255,
-      "model": "reka-core-20240904 Proprietary",
+      "model": "reka-core-20240904",
       "vendor": null,
       "license": null,
       "score": 1288,
@@ -3678,7 +3678,7 @@
     },
     {
       "rank": 263,
-      "model": "gemma-2-9b-it-simpo MIT",
+      "model": "gemma-2-9b-it-simpo",
       "vendor": null,
       "license": null,
       "score": 1280,
@@ -3776,7 +3776,7 @@
     },
     {
       "rank": 270,
-      "model": "reka-flash-20240904 Proprietary",
+      "model": "reka-flash-20240904",
       "vendor": null,
       "license": null,
       "score": 1272,
@@ -3986,7 +3986,7 @@
     },
     {
       "rank": 285,
-      "model": "jamba-1.5-mini Jamba Open",
+      "model": "jamba-1.5-mini",
       "vendor": null,
       "license": null,
       "score": 1239,
@@ -4056,7 +4056,7 @@
     },
     {
       "rank": 290,
-      "model": "reka-flash-21b-20240226-online Proprietary",
+      "model": "reka-flash-21b-20240226-online",
       "vendor": null,
       "license": null,
       "score": 1233,
@@ -4098,7 +4098,7 @@
     },
     {
       "rank": 293,
-      "model": "reka-flash-21b-20240226 Proprietary",
+      "model": "reka-flash-21b-20240226",
       "vendor": null,
       "license": null,
       "score": 1226,
@@ -4210,7 +4210,7 @@
     },
     {
       "rank": 301,
-      "model": "yi-1.5-34b-chat Apache-2.0",
+      "model": "yi-1.5-34b-chat",
       "vendor": null,
       "license": null,
       "score": 1212,
@@ -4224,7 +4224,7 @@
     },
     {
       "rank": 302,
-      "model": "zephyr-orpo-141b-A35b-v0.1 Apache 2.0",
+      "model": "zephyr-orpo-141b-A35b-v0.1",
       "vendor": null,
       "license": null,
       "score": 1212,
@@ -4336,7 +4336,7 @@
     },
     {
       "rank": 310,
-      "model": "dbrx-instruct-preview DBRX LICENSE",
+      "model": "dbrx-instruct-preview",
       "vendor": null,
       "license": null,
       "score": 1194,
@@ -4350,7 +4350,7 @@
     },
     {
       "rank": 311,
-      "model": "internlm2_5-20b-chat Other",
+      "model": "internlm2_5-20b-chat",
       "vendor": null,
       "license": null,
       "score": 1191,
@@ -4406,7 +4406,7 @@
     },
     {
       "rank": 315,
-      "model": "yi-34b-chat Yi License",
+      "model": "yi-34b-chat",
       "vendor": null,
       "license": null,
       "score": 1183,
@@ -4434,7 +4434,7 @@
     },
     {
       "rank": 317,
-      "model": "openchat-3.5 Apache-2.0",
+      "model": "openchat-3.5",
       "vendor": null,
       "license": null,
       "score": 1182,
@@ -4448,7 +4448,7 @@
     },
     {
       "rank": 318,
-      "model": "openchat-3.5-0106 Apache-2.0",
+      "model": "openchat-3.5-0106",
       "vendor": null,
       "license": null,
       "score": 1182,
@@ -4476,7 +4476,7 @@
     },
     {
       "rank": 320,
-      "model": "snowflake-arctic-instruct Apache 2.0",
+      "model": "snowflake-arctic-instruct",
       "vendor": null,
       "license": null,
       "score": 1179,
@@ -4504,7 +4504,7 @@
     },
     {
       "rank": 322,
-      "model": "tulu-2-dpo-70b AI2 ImpACT Low-risk",
+      "model": "tulu-2-dpo-70b",
       "vendor": null,
       "license": null,
       "score": 1177,
@@ -4518,7 +4518,7 @@
     },
     {
       "rank": 323,
-      "model": "openhermes-2.5-mistral-7b Apache-2.0",
+      "model": "openhermes-2.5-mistral-7b",
       "vendor": null,
       "license": null,
       "score": 1175,
@@ -4532,7 +4532,7 @@
     },
     {
       "rank": 324,
-      "model": "vicuna-33b Non-commercial",
+      "model": "vicuna-33b",
       "vendor": null,
       "license": null,
       "score": 1172,
@@ -4546,7 +4546,7 @@
     },
     {
       "rank": 325,
-      "model": "starling-lm-7b-beta Apache-2.0",
+      "model": "starling-lm-7b-beta",
       "vendor": null,
       "license": null,
       "score": 1171,
@@ -4588,7 +4588,7 @@
     },
     {
       "rank": 328,
-      "model": "starling-lm-7b-alpha CC-BY-NC-4.0",
+      "model": "starling-lm-7b-alpha",
       "vendor": null,
       "license": null,
       "score": 1167,
@@ -4616,7 +4616,7 @@
     },
     {
       "rank": 330,
-      "model": "nous-hermes-2-mixtral-8x7b-dpo Apache-2.0",
+      "model": "nous-hermes-2-mixtral-8x7b-dpo",
       "vendor": null,
       "license": null,
       "score": 1164,
@@ -4672,7 +4672,7 @@
     },
     {
       "rank": 334,
-      "model": "solar-10.7b-instruct-v1.0 CC-BY-NC-4.0",
+      "model": "solar-10.7b-instruct-v1.0",
       "vendor": null,
       "license": null,
       "score": 1152,
@@ -4686,7 +4686,7 @@
     },
     {
       "rank": 335,
-      "model": "dolphin-2.2.1-mistral-7b Apache-2.0",
+      "model": "dolphin-2.2.1-mistral-7b",
       "vendor": null,
       "license": null,
       "score": 1151,
@@ -4700,7 +4700,7 @@
     },
     {
       "rank": 336,
-      "model": "mpt-30b-chat CC-BY-NC-SA-4.0",
+      "model": "mpt-30b-chat",
       "vendor": null,
       "license": null,
       "score": 1150,
@@ -4742,7 +4742,7 @@
     },
     {
       "rank": 339,
-      "model": "falcon-180b-chat Falcon-180B TII License",
+      "model": "falcon-180b-chat",
       "vendor": null,
       "license": null,
       "score": 1147,
@@ -4798,7 +4798,7 @@
     },
     {
       "rank": 343,
-      "model": "vicuna-13b Llama 2 Community",
+      "model": "vicuna-13b",
       "vendor": null,
       "license": null,
       "score": 1140,
@@ -4868,7 +4868,7 @@
     },
     {
       "rank": 348,
-      "model": "zephyr-7b-beta MIT",
+      "model": "zephyr-7b-beta",
       "vendor": null,
       "license": null,
       "score": 1130,
@@ -4910,7 +4910,7 @@
     },
     {
       "rank": 351,
-      "model": "guanaco-33b Non-commercial",
+      "model": "guanaco-33b",
       "vendor": null,
       "license": null,
       "score": 1127,
@@ -4924,7 +4924,7 @@
     },
     {
       "rank": 352,
-      "model": "zephyr-7b-alpha MIT",
+      "model": "zephyr-7b-alpha",
       "vendor": null,
       "license": null,
       "score": 1126,
@@ -4938,7 +4938,7 @@
     },
     {
       "rank": 353,
-      "model": "stripedhyena-nous-7b Apache 2.0",
+      "model": "stripedhyena-nous-7b",
       "vendor": null,
       "license": null,
       "score": 1120,
@@ -4980,7 +4980,7 @@
     },
     {
       "rank": 356,
-      "model": "vicuna-7b Llama 2 Community",
+      "model": "vicuna-7b",
       "vendor": null,
       "license": null,
       "score": 1114,
@@ -4994,7 +4994,7 @@
     },
     {
       "rank": 357,
-      "model": "smollm2-1.7b-instruct Apache 2.0",
+      "model": "smollm2-1.7b-instruct",
       "vendor": null,
       "license": null,
       "score": 1114,
@@ -5092,7 +5092,7 @@
     },
     {
       "rank": 364,
-      "model": "koala-13b Non-commercial",
+      "model": "koala-13b",
       "vendor": null,
       "license": null,
       "score": 1070,
@@ -5106,7 +5106,7 @@
     },
     {
       "rank": 365,
-      "model": "alpaca-13b Non-commercial",
+      "model": "alpaca-13b",
       "vendor": null,
       "license": null,
       "score": 1068,
@@ -5120,7 +5120,7 @@
     },
     {
       "rank": 366,
-      "model": "gpt4all-13b-snoozy Non-commercial",
+      "model": "gpt4all-13b-snoozy",
       "vendor": null,
       "license": null,
       "score": 1066,
@@ -5134,7 +5134,7 @@
     },
     {
       "rank": 367,
-      "model": "mpt-7b-chat CC-BY-NC-SA-4.0",
+      "model": "mpt-7b-chat",
       "vendor": null,
       "license": null,
       "score": 1062,
@@ -5148,7 +5148,7 @@
     },
     {
       "rank": 368,
-      "model": "chatglm3-6b Apache-2.0",
+      "model": "chatglm3-6b",
       "vendor": null,
       "license": null,
       "score": 1055,
@@ -5162,7 +5162,7 @@
     },
     {
       "rank": 369,
-      "model": "RWKV-4-Raven-14B Apache 2.0",
+      "model": "RWKV-4-Raven-14B",
       "vendor": null,
       "license": null,
       "score": 1041,
@@ -5176,7 +5176,7 @@
     },
     {
       "rank": 370,
-      "model": "chatglm2-6b Apache-2.0",
+      "model": "chatglm2-6b",
       "vendor": null,
       "license": null,
       "score": 1024,
@@ -5190,7 +5190,7 @@
     },
     {
       "rank": 371,
-      "model": "oasst-pythia-12b Apache 2.0",
+      "model": "oasst-pythia-12b",
       "vendor": null,
       "license": null,
       "score": 1022,
@@ -5204,7 +5204,7 @@
     },
     {
       "rank": 372,
-      "model": "chatglm-6b Non-commercial",
+      "model": "chatglm-6b",
       "vendor": null,
       "license": null,
       "score": 995,
@@ -5218,7 +5218,7 @@
     },
     {
       "rank": 373,
-      "model": "fastchat-t5-3b Apache 2.0",
+      "model": "fastchat-t5-3b",
       "vendor": null,
       "license": null,
       "score": 991,
@@ -5232,7 +5232,7 @@
     },
     {
       "rank": 374,
-      "model": "dolly-v2-12b MIT",
+      "model": "dolly-v2-12b",
       "vendor": null,
       "license": null,
       "score": 981,
@@ -5260,7 +5260,7 @@
     },
     {
       "rank": 376,
-      "model": "stablelm-tuned-alpha-7b CC-BY-NC-SA-4.0",
+      "model": "stablelm-tuned-alpha-7b",
       "vendor": null,
       "license": null,
       "score": 952,

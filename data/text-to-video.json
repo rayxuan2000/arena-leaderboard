@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "text-to-video",
     "source_url": "https://arena.ai/leaderboard/text-to-video",
-    "fetched_at": "2026-07-19T23:14:38.909160+00:00",
+    "fetched_at": "2026-07-20T23:17:43.531220+00:00",
     "last_updated": "Jul 5, 2026",
     "model_count": 42,
     "method": "html"
@@ -118,7 +118,7 @@
     },
     {
       "rank": 10,
-      "model": "grok-imagine-video-720p Space",
+      "model": "grok-imagine-video-720p",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1352,
@@ -238,7 +238,7 @@
     },
     {
       "rank": 20,
-      "model": "pixverse-v5.6 Proprietary",
+      "model": "pixverse-v5.6",
       "vendor": null,
       "license": null,
       "score": 1241,
@@ -286,7 +286,7 @@
     },
     {
       "rank": 24,
-      "model": "p-video Proprietary",
+      "model": "p-video",
       "vendor": null,
       "license": null,
       "score": 1207,
@@ -418,7 +418,7 @@
     },
     {
       "rank": 35,
-      "model": "ltx-2-19b ltx-2-community-license-agreement",
+      "model": "ltx-2-19b",
       "vendor": null,
       "license": null,
       "score": 1143,

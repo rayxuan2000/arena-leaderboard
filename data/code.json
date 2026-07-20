@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "code",
     "source_url": "https://arena.ai/leaderboard/code",
-    "fetched_at": "2026-07-19T23:14:24.874438+00:00",
+    "fetched_at": "2026-07-20T23:17:29.912043+00:00",
     "last_updated": "Jul 16, 2026",
     "model_count": 99,
     "method": "html"
@@ -80,7 +80,7 @@
     },
     {
       "rank": 6,
-      "model": "grok-4.5 Space",
+      "model": "grok-4.5",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1558,
@@ -382,7 +382,7 @@
       "votes": 4578,
       "extra": {
         "rank spread": "24 31",
-        "price $/m": "$0.85 / $3.80",
+        "price $/m": "$0.82 / $3.75",
         "context": "262.1K"
       }
     },
@@ -542,7 +542,7 @@
     },
     {
       "rank": 39,
-      "model": "Thinking Machines inkling",
+      "model": "inkling",
       "vendor": "Thinky",
       "license": "open",
       "score": 1434,
@@ -836,7 +836,7 @@
     },
     {
       "rank": 60,
-      "model": "grok-4.20-beta-0309-reasoning Space",
+      "model": "grok-4.20-beta-0309-reasoning",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1381,
@@ -934,7 +934,7 @@
     },
     {
       "rank": 67,
-      "model": "grok-4.3 Space",
+      "model": "grok-4.3",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1360,
@@ -1172,7 +1172,7 @@
     },
     {
       "rank": 84,
-      "model": "KAT-Coder-Pro-V1 Proprietary",
+      "model": "KAT-Coder-Pro-V1",
       "vendor": null,
       "license": null,
       "score": 1259,
@@ -1214,7 +1214,7 @@
     },
     {
       "rank": 87,
-      "model": "trinity-large-thinking Apache 2.0",
+      "model": "trinity-large-thinking",
       "vendor": null,
       "license": null,
       "score": 1243,
@@ -1256,7 +1256,7 @@
     },
     {
       "rank": 90,
-      "model": "grok-4-1-fast-reasoning Space",
+      "model": "grok-4-1-fast-reasoning",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1234,
@@ -1284,7 +1284,7 @@
     },
     {
       "rank": 92,
-      "model": "grok-4.1-thinking Space",
+      "model": "grok-4.1-thinking",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1209,
@@ -1340,7 +1340,7 @@
     },
     {
       "rank": 96,
-      "model": "mercury-2 Inception",
+      "model": "mercury-2",
       "vendor": "AI",
       "license": "proprietary",
       "score": 1164,
@@ -1354,7 +1354,7 @@
     },
     {
       "rank": 97,
-      "model": "grok-4-fast-reasoning Space",
+      "model": "grok-4-fast-reasoning",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1150,
@@ -1368,7 +1368,7 @@
     },
     {
       "rank": 98,
-      "model": "grok-code-fast-1 Space",
+      "model": "grok-code-fast-1",
       "vendor": "XAI",
       "license": "proprietary",
       "score": 1140,
