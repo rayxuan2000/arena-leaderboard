@@ -2,20 +2,20 @@
   "meta": {
     "leaderboard": "document",
     "source_url": "https://arena.ai/leaderboard/document",
-    "fetched_at": "2026-07-21T23:14:20.336731+00:00",
-    "last_updated": "Jul 13, 2026",
+    "fetched_at": "2026-07-22T23:17:53.594496+00:00",
+    "last_updated": "Jul 21, 2026",
     "model_count": 32,
     "method": "html"
   },
   "models": [
     {
       "rank": 1,
-      "model": "claude-opus-4-6-thinking",
+      "model": "claude-opus-4-6",
       "vendor": "Anthropic",
       "license": "proprietary",
-      "score": 1508,
-      "ci": 7,
-      "votes": 24188,
+      "score": 1510,
+      "ci": 6,
+      "votes": 37118,
       "extra": {
         "rank spread": "1 5",
         "price $/m": "$5 / $25",
@@ -24,12 +24,26 @@
     },
     {
       "rank": 2,
+      "model": "claude-opus-4-6-thinking",
+      "vendor": "Anthropic",
+      "license": "proprietary",
+      "score": 1509,
+      "ci": 7,
+      "votes": 24739,
+      "extra": {
+        "rank spread": "1 5",
+        "price $/m": "$5 / $25",
+        "context": "1M"
+      }
+    },
+    {
+      "rank": 3,
       "model": "claude-fable-5",
       "vendor": "Anthropic",
       "license": "proprietary",
-      "score": 1507,
-      "ci": 12,
-      "votes": 2644,
+      "score": 1505,
+      "ci": 9,
+      "votes": 5565,
       "extra": {
         "rank spread": "1 5",
         "price $/m": "$10 / $50",
@@ -37,41 +51,27 @@
       }
     },
     {
-      "rank": 3,
-      "model": "claude-opus-4-6",
-      "vendor": "Anthropic",
-      "license": "proprietary",
-      "score": 1507,
-      "ci": 6,
-      "votes": 36602,
-      "extra": {
-        "rank spread": "1 5",
-        "price $/m": "$5 / $25",
-        "context": "1M"
-      }
-    },
-    {
       "rank": 4,
-      "model": "claude-opus-4-7-thinking",
+      "model": "claude-opus-4-7",
       "vendor": "Anthropic",
       "license": "proprietary",
-      "score": 1504,
+      "score": 1501,
       "ci": 7,
-      "votes": 18023,
+      "votes": 18738,
       "extra": {
-        "rank spread": "1 5",
+        "rank spread": "1 6",
         "price $/m": "$5 / $25",
         "context": "1M"
       }
     },
     {
       "rank": 5,
-      "model": "claude-opus-4-7",
+      "model": "claude-opus-4-7-thinking",
       "vendor": "Anthropic",
       "license": "proprietary",
-      "score": 1501,
+      "score": 1499,
       "ci": 7,
-      "votes": 18185,
+      "votes": 18522,
       "extra": {
         "rank spread": "1 6",
         "price $/m": "$5 / $25",
@@ -83,23 +83,37 @@
       "model": "gpt-5.5-high",
       "vendor": "OpenAI",
       "license": "proprietary",
-      "score": 1488,
+      "score": 1487,
       "ci": 7,
-      "votes": 15996,
+      "votes": 16584,
       "extra": {
-        "rank spread": "5 9",
+        "rank spread": "4 10",
         "price $/m": "$5 / $30",
         "context": "1.1M"
       }
     },
     {
       "rank": 7,
+      "model": "gpt-5.5",
+      "vendor": "OpenAI",
+      "license": "proprietary",
+      "score": 1483,
+      "ci": 7,
+      "votes": 17020,
+      "extra": {
+        "rank spread": "6 10",
+        "price $/m": "$5 / $30",
+        "context": "1.1M"
+      }
+    },
+    {
+      "rank": 8,
       "model": "claude-sonnet-4-6",
       "vendor": "Anthropic",
       "license": "proprietary",
-      "score": 1486,
+      "score": 1483,
       "ci": 6,
-      "votes": 53846,
+      "votes": 54339,
       "extra": {
         "rank spread": "6 10",
         "price $/m": "$3 / $15",
@@ -107,27 +121,13 @@
       }
     },
     {
-      "rank": 8,
-      "model": "gpt-5.5",
-      "vendor": "OpenAI",
-      "license": "proprietary",
-      "score": 1481,
-      "ci": 6,
-      "votes": 16410,
-      "extra": {
-        "rank spread": "6 12",
-        "price $/m": "$5 / $30",
-        "context": "1.1M"
-      }
-    },
-    {
       "rank": 9,
       "model": "claude-opus-4-8-thinking",
       "vendor": "Anthropic",
       "license": "proprietary",
-      "score": 1475,
+      "score": 1474,
       "ci": 8,
-      "votes": 7546,
+      "votes": 8117,
       "extra": {
         "rank spread": "6 14",
         "price $/m": "$5 / $25",
@@ -136,68 +136,54 @@
     },
     {
       "rank": 10,
-      "model": "gpt-5.4",
-      "vendor": "OpenAI",
-      "license": "proprietary",
-      "score": 1472,
-      "ci": 6,
-      "votes": 28910,
-      "extra": {
-        "rank spread": "8 14",
-        "price $/m": "$2.50 / $15",
-        "context": "1.1M"
-      }
-    },
-    {
-      "rank": 11,
-      "model": "claude-opus-4-8",
-      "vendor": "Anthropic",
-      "license": "proprietary",
-      "score": 1469,
-      "ci": 8,
-      "votes": 7298,
-      "extra": {
-        "rank spread": "8 15",
-        "price $/m": "$5 / $25",
-        "context": "1M"
-      }
-    },
-    {
-      "rank": 12,
       "model": "claude-sonnet-5-high",
       "vendor": "Anthropic",
       "license": "proprietary",
-      "score": 1469,
+      "score": 1471,
       "ci": 11,
-      "votes": 2809,
+      "votes": 3290,
       "extra": {
-        "rank spread": "7 15",
+        "rank spread": "6 15",
         "price $/m": "$2 / $10",
         "context": "1M"
       }
     },
     {
-      "rank": 13,
-      "model": "gemini-3.5-flash-medium",
-      "vendor": "Google",
+      "rank": 11,
+      "model": "gpt-5.4",
+      "vendor": "OpenAI",
       "license": "proprietary",
-      "score": 1462,
-      "ci": 12,
-      "votes": 2697,
+      "score": 1470,
+      "ci": 6,
+      "votes": 29553,
       "extra": {
-        "rank spread": "9 18",
-        "price $/m": "$1.50 / $9",
+        "rank spread": "9 14",
+        "price $/m": "$2.50 / $15",
+        "context": "1.1M"
+      }
+    },
+    {
+      "rank": 12,
+      "model": "claude-opus-4-8",
+      "vendor": "Anthropic",
+      "license": "proprietary",
+      "score": 1467,
+      "ci": 8,
+      "votes": 7874,
+      "extra": {
+        "rank spread": "9 16",
+        "price $/m": "$5 / $25",
         "context": "1M"
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "model": "claude-opus-4-5-20251101",
       "vendor": "Anthropic",
       "license": "proprietary",
       "score": 1461,
       "ci": 10,
-      "votes": 7985,
+      "votes": 7987,
       "extra": {
         "rank spread": "9 18",
         "price $/m": "$5 / $25",
@@ -205,15 +191,29 @@
       }
     },
     {
+      "rank": 14,
+      "model": "gemini-3.5-flash-medium",
+      "vendor": "Google",
+      "license": "proprietary",
+      "score": 1459,
+      "ci": 11,
+      "votes": 3323,
+      "extra": {
+        "rank spread": "9 19",
+        "price $/m": "$1.50 / $9",
+        "context": "1M"
+      }
+    },
+    {
       "rank": 15,
       "model": "kimi-k2.6",
       "vendor": "Moonshot",
       "license": "open",
-      "score": 1449,
+      "score": 1451,
       "ci": 8,
-      "votes": 11094,
+      "votes": 11235,
       "extra": {
-        "rank spread": "13 21",
+        "rank spread": "12 19",
         "price $/m": "$0.95 / $4",
         "context": "262.1K"
       }
@@ -223,9 +223,9 @@
       "model": "claude-sonnet-4-5-20250929",
       "vendor": "Anthropic",
       "license": "proprietary",
-      "score": 1446,
-      "ci": 6,
-      "votes": 27977,
+      "score": 1445,
+      "ci": 7,
+      "votes": 28479,
       "extra": {
         "rank spread": "13 21",
         "price $/m": "$3 / $15",
@@ -237,9 +237,9 @@
       "model": "muse-spark",
       "vendor": "Meta",
       "license": "proprietary",
-      "score": 1445,
+      "score": 1444,
       "ci": 18,
-      "votes": 1086,
+      "votes": 1085,
       "extra": {
         "rank spread": "11 26",
         "price $/m": "N/A",
@@ -248,29 +248,29 @@
     },
     {
       "rank": 18,
-      "model": "qwen3.7-plus",
-      "vendor": "Alibaba",
+      "model": "gemini-3.1-pro-preview",
+      "vendor": "Google",
       "license": "proprietary",
-      "score": 1444,
-      "ci": 11,
-      "votes": 2700,
+      "score": 1443,
+      "ci": 6,
+      "votes": 44824,
       "extra": {
-        "rank spread": "13 22",
-        "price $/m": "$0.32 / $1.28",
+        "rank spread": "14 21",
+        "price $/m": "$2 / $12",
         "context": "1M"
       }
     },
     {
       "rank": 19,
-      "model": "gemini-3.1-pro-preview",
-      "vendor": "Google",
+      "model": "qwen3.7-plus",
+      "vendor": "Alibaba",
       "license": "proprietary",
-      "score": 1441,
-      "ci": 5,
-      "votes": 44046,
+      "score": 1442,
+      "ci": 11,
+      "votes": 2959,
       "extra": {
-        "rank spread": "15 22",
-        "price $/m": "$2 / $12",
+        "rank spread": "13 22",
+        "price $/m": "$0.32 / $1.28",
         "context": "1M"
       }
     },
@@ -281,9 +281,9 @@
       "license": "open",
       "score": 1435,
       "ci": 8,
-      "votes": 6328,
+      "votes": 6316,
       "extra": {
-        "rank spread": "15 25",
+        "rank spread": "16 25",
         "price $/m": "$0.60 / $2.40",
         "context": "N/A"
       }
@@ -293,11 +293,11 @@
       "model": "gemini-3-pro",
       "vendor": "Google",
       "license": "proprietary",
-      "score": 1434,
+      "score": 1433,
       "ci": 9,
-      "votes": 10748,
+      "votes": 10749,
       "extra": {
-        "rank spread": "15 26",
+        "rank spread": "16 26",
         "price $/m": "$2 / $12",
         "context": "1M"
       }
@@ -307,11 +307,11 @@
       "model": "kimi-k2.5-thinking",
       "vendor": "Moonshot",
       "license": "open",
-      "score": 1431,
+      "score": 1430,
       "ci": 7,
-      "votes": 19342,
+      "votes": 19702,
       "extra": {
-        "rank spread": "17 26",
+        "rank spread": "18 26",
         "price $/m": "$0.60 / $3",
         "context": "N/A"
       }
@@ -321,23 +321,37 @@
       "model": "gemma-4-31b",
       "vendor": "Google",
       "license": "open",
-      "score": 1424,
+      "score": 1423,
       "ci": 8,
-      "votes": 10132,
+      "votes": 10437,
       "extra": {
-        "rank spread": "19 28",
+        "rank spread": "19 29",
         "price $/m": "N/A",
         "context": "N/A"
       }
     },
     {
       "rank": 24,
-      "model": "gemini-2.5-pro",
-      "vendor": "Google",
+      "model": "claude-haiku-4-5-20251001",
+      "vendor": "Anthropic",
       "license": "proprietary",
       "score": 1422,
       "ci": 6,
-      "votes": 25053,
+      "votes": 30727,
+      "extra": {
+        "rank spread": "19 28",
+        "price $/m": "$1 / $5",
+        "context": "200K"
+      }
+    },
+    {
+      "rank": 25,
+      "model": "gemini-2.5-pro",
+      "vendor": "Google",
+      "license": "proprietary",
+      "score": 1421,
+      "ci": 6,
+      "votes": 25023,
       "extra": {
         "rank spread": "19 28",
         "price $/m": "$1.25 / $10",
@@ -345,59 +359,45 @@
       }
     },
     {
-      "rank": 25,
-      "model": "claude-haiku-4-5-20251001",
-      "vendor": "Anthropic",
-      "license": "proprietary",
-      "score": 1421,
-      "ci": 6,
-      "votes": 30187,
-      "extra": {
-        "rank spread": "20 28",
-        "price $/m": "$1 / $5",
-        "context": "200K"
-      }
-    },
-    {
       "rank": 26,
       "model": "glm-5v-turbo",
       "vendor": "Z.ai",
       "license": "proprietary",
-      "score": 1418,
+      "score": 1417,
       "ci": 10,
-      "votes": 4243,
+      "votes": 4657,
       "extra": {
-        "rank spread": "19 31",
+        "rank spread": "20 31",
         "price $/m": "$1.20 / $4",
         "context": "202.8K"
       }
     },
     {
       "rank": 27,
-      "model": "grok-4.20-beta-0309-reasoning",
-      "vendor": "XAI",
-      "license": "proprietary",
-      "score": 1413,
-      "ci": 7,
-      "votes": 17897,
-      "extra": {
-        "rank spread": "23 32",
-        "price $/m": "$2 / $6",
-        "context": "2M"
-      }
-    },
-    {
-      "rank": 28,
       "model": "gemini-3-flash",
       "vendor": "Google",
       "license": "proprietary",
       "score": 1413,
       "ci": 9,
-      "votes": 7179,
+      "votes": 7176,
       "extra": {
         "rank spread": "23 32",
         "price $/m": "$0.50 / $3",
         "context": "1M"
+      }
+    },
+    {
+      "rank": 28,
+      "model": "grok-4.20-beta-0309-reasoning",
+      "vendor": "XAI",
+      "license": "proprietary",
+      "score": 1412,
+      "ci": 7,
+      "votes": 18470,
+      "extra": {
+        "rank spread": "23 32",
+        "price $/m": "$2 / $6",
+        "context": "2M"
       }
     },
     {
@@ -406,10 +406,10 @@
       "vendor": "OpenAI",
       "license": "proprietary",
       "score": 1405,
-      "ci": 9,
-      "votes": 7081,
+      "ci": 10,
+      "votes": 7088,
       "extra": {
-        "rank spread": "26 32",
+        "rank spread": "25 32",
         "price $/m": "$1.75 / $14",
         "context": "400K"
       }
@@ -421,7 +421,7 @@
       "license": "proprietary",
       "score": 1402,
       "ci": 8,
-      "votes": 8501,
+      "votes": 8503,
       "extra": {
         "rank spread": "26 32",
         "price $/m": "$5 / $30",
@@ -435,7 +435,7 @@
       "license": "proprietary",
       "score": 1401,
       "ci": 9,
-      "votes": 8242,
+      "votes": 8241,
       "extra": {
         "rank spread": "26 32",
         "price $/m": "$1.25 / $10",
@@ -449,7 +449,7 @@
       "license": "proprietary",
       "score": 1401,
       "ci": 6,
-      "votes": 28226,
+      "votes": 28193,
       "extra": {
         "rank spread": "27 32",
         "price $/m": "$1.75 / $14",
