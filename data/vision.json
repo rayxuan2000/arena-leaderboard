@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "vision",
     "source_url": "https://arena.ai/leaderboard/vision",
-    "fetched_at": "2026-07-27T23:29:25.306550+00:00",
+    "fetched_at": "2026-07-28T23:17:28.313218+00:00",
     "last_updated": "Jul 26, 2026",
     "model_count": 140,
     "method": "html"
@@ -18,8 +18,8 @@
       "votes": 7618,
       "extra": {
         "rank spread": "1 4",
-        "price $/m": "$10 / $50",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -32,8 +32,8 @@
       "votes": 19578,
       "extra": {
         "rank spread": "1 9",
-        "price $/m": "$5 / $25",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -46,8 +46,8 @@
       "votes": 238,
       "extra": {
         "rank spread": "1 31",
-        "price $/m": "$1.50 / $7.50",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -60,8 +60,8 @@
       "votes": 19445,
       "extra": {
         "rank spread": "2 15",
-        "price $/m": "$5 / $25",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -74,8 +74,8 @@
       "votes": 1992,
       "extra": {
         "rank spread": "1 22",
-        "price $/m": "$5 / $25",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -88,8 +88,8 @@
       "votes": 20000,
       "extra": {
         "rank spread": "2 16",
-        "price $/m": "$5 / $25",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -116,8 +116,8 @@
       "votes": 23722,
       "extra": {
         "rank spread": "2 18",
-        "price $/m": "$5 / $25",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -130,8 +130,8 @@
       "votes": 13089,
       "extra": {
         "rank spread": "3 25",
-        "price $/m": "$2 / $12",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -144,8 +144,8 @@
       "votes": 17752,
       "extra": {
         "rank spread": "3 25",
-        "price $/m": "$5 / $30",
-        "context": "1.1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -158,8 +158,8 @@
       "votes": 10268,
       "extra": {
         "rank spread": "3 25",
-        "price $/m": "$5 / $25",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -172,8 +172,8 @@
       "votes": 4657,
       "extra": {
         "rank spread": "3 26",
-        "price $/m": "$1.50 / $9",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -186,8 +186,8 @@
       "votes": 16623,
       "extra": {
         "rank spread": "4 25",
-        "price $/m": "$5 / $30",
-        "context": "1.1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -200,8 +200,8 @@
       "votes": 3776,
       "extra": {
         "rank spread": "3 26",
-        "price $/m": "$1.25 / $4.25",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -214,8 +214,8 @@
       "votes": 19622,
       "extra": {
         "rank spread": "5 26",
-        "price $/m": "$2.50 / $15",
-        "context": "1.1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -228,8 +228,8 @@
       "votes": 2839,
       "extra": {
         "rank spread": "3 28",
-        "price $/m": "$2 / $6",
-        "context": "500K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -242,8 +242,8 @@
       "votes": 10626,
       "extra": {
         "rank spread": "6 28",
-        "price $/m": "$5 / $25",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -256,8 +256,8 @@
       "votes": 19583,
       "extra": {
         "rank spread": "6 27",
-        "price $/m": "$2.50 / $15",
-        "context": "1.1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -270,8 +270,8 @@
       "votes": 15403,
       "extra": {
         "rank spread": "6 26",
-        "price $/m": "$1.75 / $14",
-        "context": "128K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -284,8 +284,8 @@
       "votes": 35988,
       "extra": {
         "rank spread": "8 26",
-        "price $/m": "$2 / $12",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -298,8 +298,8 @@
       "votes": 7234,
       "extra": {
         "rank spread": "6 28",
-        "price $/m": "$5 / $30",
-        "context": "1.1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -312,8 +312,8 @@
       "votes": 2953,
       "extra": {
         "rank spread": "5 29",
-        "price $/m": "$1.50 / $9",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -326,8 +326,8 @@
       "votes": 24141,
       "extra": {
         "rank spread": "8 28",
-        "price $/m": "$3 / $15",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -340,8 +340,8 @@
       "votes": 5250,
       "extra": {
         "rank spread": "8 31",
-        "price $/m": "$2 / $10",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -354,8 +354,8 @@
       "votes": 34781,
       "extra": {
         "rank spread": "12 29",
-        "price $/m": "$0.50 / $3",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -368,8 +368,8 @@
       "votes": 15417,
       "extra": {
         "rank spread": "17 35",
-        "price $/m": "$0.95 / $4",
-        "context": "262.1K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -382,8 +382,8 @@
       "votes": 6457,
       "extra": {
         "rank spread": "18 37",
-        "price $/m": "$0.32 / $1.28",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -396,8 +396,8 @@
       "votes": 247,
       "extra": {
         "rank spread": "2 58",
-        "price $/m": "$0.30 / $2.50",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -424,8 +424,8 @@
       "votes": 33247,
       "extra": {
         "rank spread": "24 38",
-        "price $/m": "$0.50 / $3",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -438,8 +438,8 @@
       "votes": 31845,
       "extra": {
         "rank spread": "24 39",
-        "price $/m": "$0.14 / $0.40",
-        "context": "262.1K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -452,8 +452,8 @@
       "votes": 23547,
       "extra": {
         "rank spread": "26 41",
-        "price $/m": "$2 / $6",
-        "context": "2M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -466,8 +466,8 @@
       "votes": 22573,
       "extra": {
         "rank spread": "26 43",
-        "price $/m": "$0.75 / $4.50",
-        "context": "400K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -480,8 +480,8 @@
       "votes": 21509,
       "extra": {
         "rank spread": "26 46",
-        "price $/m": "$2 / $6",
-        "context": "2M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -494,8 +494,8 @@
       "votes": 9178,
       "extra": {
         "rank spread": "26 46",
-        "price $/m": "$1.25 / $10",
-        "context": "400K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -508,8 +508,8 @@
       "votes": 23077,
       "extra": {
         "rank spread": "27 46",
-        "price $/m": "$0.39 / $2.34",
-        "context": "262.1K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -522,7 +522,7 @@
       "votes": 25353,
       "extra": {
         "rank spread": "27 46",
-        "price $/m": "$0.60 / $3",
+        "price $/m": "N/A",
         "context": "N/A"
       }
     },
@@ -536,8 +536,8 @@
       "votes": 88495,
       "extra": {
         "rank spread": "31 46",
-        "price $/m": "$1.25 / $10",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -550,8 +550,8 @@
       "votes": 17174,
       "extra": {
         "rank spread": "28 47",
-        "price $/m": "$1.25 / $2.50",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -564,8 +564,8 @@
       "votes": 17908,
       "extra": {
         "rank spread": "29 47",
-        "price $/m": "$1.75 / $14",
-        "context": "400K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -578,8 +578,8 @@
       "votes": 23228,
       "extra": {
         "rank spread": "33 50",
-        "price $/m": "$5 / $15",
-        "context": "128K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -592,7 +592,7 @@
       "votes": 10059,
       "extra": {
         "rank spread": "31 53",
-        "price $/m": "$0.60 / $2.40",
+        "price $/m": "N/A",
         "context": "N/A"
       }
     },
@@ -606,8 +606,8 @@
       "votes": 20029,
       "extra": {
         "rank spread": "32 52",
-        "price $/m": "$0.14 / $0.28",
-        "context": "1.1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -634,8 +634,8 @@
       "votes": 10029,
       "extra": {
         "rank spread": "33 53",
-        "price $/m": "$1.25 / $10",
-        "context": "400K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -648,8 +648,8 @@
       "votes": 3856,
       "extra": {
         "rank spread": "32 54",
-        "price $/m": "$0.57 / $2.85",
-        "context": "262.1K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -662,8 +662,8 @@
       "votes": 25942,
       "extra": {
         "rank spread": "38 54",
-        "price $/m": "$0.25 / $1.50",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -676,8 +676,8 @@
       "votes": 27421,
       "extra": {
         "rank spread": "40 57",
-        "price $/m": "$1.20 / $4",
-        "context": "202.8K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -690,8 +690,8 @@
       "votes": 18945,
       "extra": {
         "rank spread": "40 58",
-        "price $/m": "$1.75 / $14",
-        "context": "400K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -704,8 +704,8 @@
       "votes": 12459,
       "extra": {
         "rank spread": "41 61",
-        "price $/m": "$0.26 / $2.08",
-        "context": "262.1K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -718,8 +718,8 @@
       "votes": 2925,
       "extra": {
         "rank spread": "40 64",
-        "price $/m": "$75 / $150",
-        "context": "128K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -732,8 +732,8 @@
       "votes": 40200,
       "extra": {
         "rank spread": "42 63",
-        "price $/m": "$1.25 / $10",
-        "context": "128K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -746,8 +746,8 @@
       "votes": 4685,
       "extra": {
         "rank spread": "41 64",
-        "price $/m": "$0.30 / $2.50",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -760,8 +760,8 @@
       "votes": 20708,
       "extra": {
         "rank spread": "47 64",
-        "price $/m": "$0.20 / $1.56",
-        "context": "262.1K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -788,8 +788,8 @@
       "votes": 10114,
       "extra": {
         "rank spread": "47 67",
-        "price $/m": "$0.40 / $2",
-        "context": "262.1K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -802,8 +802,8 @@
       "votes": 46114,
       "extra": {
         "rank spread": "48 66",
-        "price $/m": "$2 / $8",
-        "context": "200K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -816,8 +816,8 @@
       "votes": 12108,
       "extra": {
         "rank spread": "50 69",
-        "price $/m": "$0.21 / $1.90",
-        "context": "262.1K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -830,8 +830,8 @@
       "votes": 41571,
       "extra": {
         "rank spread": "50 69",
-        "price $/m": "$2 / $8",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -844,8 +844,8 @@
       "votes": 59219,
       "extra": {
         "rank spread": "51 68",
-        "price $/m": "$0.30 / $2.50",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -858,8 +858,8 @@
       "votes": 34620,
       "extra": {
         "rank spread": "51 69",
-        "price $/m": "$1.25 / $10",
-        "context": "400K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -872,8 +872,8 @@
       "votes": 1160,
       "extra": {
         "rank spread": "47 76",
-        "price $/m": "$3 / $15",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -886,8 +886,8 @@
       "votes": 1299,
       "extra": {
         "rank spread": "50 76",
-        "price $/m": "$15 / $75",
-        "context": "200K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -900,8 +900,8 @@
       "votes": 22467,
       "extra": {
         "rank spread": "56 75",
-        "price $/m": "$0.20 / $1.25",
-        "context": "400K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -914,8 +914,8 @@
       "votes": 40854,
       "extra": {
         "rank spread": "55 76",
-        "price $/m": "$0.40 / $1.60",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -928,8 +928,8 @@
       "votes": 41845,
       "extra": {
         "rank spread": "57 76",
-        "price $/m": "$1.10 / $4.40",
-        "context": "200K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -942,7 +942,7 @@
       "votes": 2193,
       "extra": {
         "rank spread": "52 79",
-        "price $/m": "$0.50 / $1.50",
+        "price $/m": "N/A",
         "context": "N/A"
       }
     },
@@ -956,8 +956,8 @@
       "votes": 5123,
       "extra": {
         "rank spread": "58 78",
-        "price $/m": "$1.50 / $7.50",
-        "context": "262.1K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -970,8 +970,8 @@
       "votes": 1452,
       "extra": {
         "rank spread": "55 81",
-        "price $/m": "$3 / $15",
-        "context": "200K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -984,8 +984,8 @@
       "votes": 12505,
       "extra": {
         "rank spread": "62 79",
-        "price $/m": "$0.20 / $0.50",
-        "context": "2M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -998,8 +998,8 @@
       "votes": 3694,
       "extra": {
         "rank spread": "62 81",
-        "price $/m": "$15 / $60",
-        "context": "200K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1012,8 +1012,8 @@
       "votes": 2349,
       "extra": {
         "rank spread": "62 83",
-        "price $/m": "$0.26 / $2.60",
-        "context": "131.1K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1026,8 +1026,8 @@
       "votes": 1828,
       "extra": {
         "rank spread": "62 83",
-        "price $/m": "$3 / $15",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1040,8 +1040,8 @@
       "votes": 2201,
       "extra": {
         "rank spread": "62 83",
-        "price $/m": "$15 / $75",
-        "context": "200K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1054,8 +1054,8 @@
       "votes": 36323,
       "extra": {
         "rank spread": "63 81",
-        "price $/m": "$0.10 / $0.40",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1068,8 +1068,8 @@
       "votes": 3202,
       "extra": {
         "rank spread": "62 83",
-        "price $/m": "$0.52 / $2.08",
-        "context": "131.1K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1082,8 +1082,8 @@
       "votes": 29230,
       "extra": {
         "rank spread": "67 83",
-        "price $/m": "$0.25 / $2",
-        "context": "400K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1096,8 +1096,8 @@
       "votes": 32287,
       "extra": {
         "rank spread": "67 83",
-        "price $/m": "$3 / $15",
-        "context": "256K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1110,8 +1110,8 @@
       "votes": 8902,
       "extra": {
         "rank spread": "68 86",
-        "price $/m": "$3.50 / $10.50",
-        "context": "2.1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1124,8 +1124,8 @@
       "votes": 4541,
       "extra": {
         "rank spread": "70 89",
-        "price $/m": "$3 / $15",
-        "context": "200K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1138,8 +1138,8 @@
       "votes": 4736,
       "extra": {
         "rank spread": "70 92",
-        "price $/m": "$0.10 / $0.40",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1152,8 +1152,8 @@
       "votes": 10165,
       "extra": {
         "rank spread": "73 91",
-        "price $/m": "$0.10 / $0.40",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1166,8 +1166,8 @@
       "votes": 2312,
       "extra": {
         "rank spread": "73 97",
-        "price $/m": "$0.30 / $0.90",
-        "context": "131.1K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1180,8 +1180,8 @@
       "votes": 23273,
       "extra": {
         "rank spread": "79 96",
-        "price $/m": "$5 / $15",
-        "context": "128K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1194,8 +1194,8 @@
       "votes": 10389,
       "extra": {
         "rank spread": "80 96",
-        "price $/m": "$3 / $15",
-        "context": "200K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1222,8 +1222,8 @@
       "votes": 17185,
       "extra": {
         "rank spread": "80 96",
-        "price $/m": "$0.08 / $0.45",
-        "context": "262.1K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1236,8 +1236,8 @@
       "votes": 41643,
       "extra": {
         "rank spread": "81 96",
-        "price $/m": "$0.40 / $2",
-        "context": "131.1K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1264,8 +1264,8 @@
       "votes": 10897,
       "extra": {
         "rank spread": "82 98",
-        "price $/m": "$0.40 / $2",
-        "context": "131.1K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1278,8 +1278,8 @@
       "votes": 3281,
       "extra": {
         "rank spread": "80 100",
-        "price $/m": "$0.60 / $1.80",
-        "context": "65.5K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1306,8 +1306,8 @@
       "votes": 3974,
       "extra": {
         "rank spread": "83 103",
-        "price $/m": "$0.05 / $0.40",
-        "context": "400K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1320,8 +1320,8 @@
       "votes": 7002,
       "extra": {
         "rank spread": "83 101",
-        "price $/m": "$0.63 / $1.80",
-        "context": "131.1K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1334,8 +1334,8 @@
       "votes": 21624,
       "extra": {
         "rank spread": "83 103",
-        "price $/m": "$3 / $15",
-        "context": "200K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1348,8 +1348,8 @@
       "votes": 3265,
       "extra": {
         "rank spread": "83 105",
-        "price $/m": "$0.57 / $1.42",
-        "context": "65.5K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1362,8 +1362,8 @@
       "votes": 7241,
       "extra": {
         "rank spread": "87 107",
-        "price $/m": "$0.07 / $0.30",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1376,8 +1376,8 @@
       "votes": 10991,
       "extra": {
         "rank spread": "88 107",
-        "price $/m": "$0.10 / $0.30",
-        "context": "32K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1390,8 +1390,8 @@
       "votes": 3991,
       "extra": {
         "rank spread": "90 108",
-        "price $/m": "$0.07 / $0.30",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1404,8 +1404,8 @@
       "votes": 1407,
       "extra": {
         "rank spread": "90 109",
-        "price $/m": "$1 / $5",
-        "context": "200K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1418,8 +1418,8 @@
       "votes": 6488,
       "extra": {
         "rank spread": "93 109",
-        "price $/m": "$0.40 / $0.70",
-        "context": "8.2K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1432,8 +1432,8 @@
       "votes": 28901,
       "extra": {
         "rank spread": "93 109",
-        "price $/m": "$0.10 / $0.30",
-        "context": "32K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1460,8 +1460,8 @@
       "votes": 3768,
       "extra": {
         "rank spread": "96 109",
-        "price $/m": "$0.80 / $1",
-        "context": "128K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1474,8 +1474,8 @@
       "votes": 16734,
       "extra": {
         "rank spread": "97 109",
-        "price $/m": "$3.50 / $10.50",
-        "context": "2.1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1488,8 +1488,8 @@
       "votes": 3376,
       "extra": {
         "rank spread": "97 110",
-        "price $/m": "$2.50 / $10",
-        "context": "128K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1502,8 +1502,8 @@
       "votes": 1490,
       "extra": {
         "rank spread": "95 112",
-        "price $/m": "$0.20 / $0.60",
-        "context": "128K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1516,8 +1516,8 @@
       "votes": 13391,
       "extra": {
         "rank spread": "100 113",
-        "price $/m": "$10 / $30",
-        "context": "128K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1530,8 +1530,8 @@
       "votes": 1160,
       "extra": {
         "rank spread": "99 114",
-        "price $/m": "$0.20 / $0.20",
-        "context": "36.9K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1544,8 +1544,8 @@
       "votes": 17341,
       "extra": {
         "rank spread": "107 114",
-        "price $/m": "$0.15 / $0.60",
-        "context": "128K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1558,8 +1558,8 @@
       "votes": 5423,
       "extra": {
         "rank spread": "107 114",
-        "price $/m": "$2 / $6",
-        "context": "128K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1572,8 +1572,8 @@
       "votes": 1211,
       "extra": {
         "rank spread": "106 118",
-        "price $/m": "$0.10 / $0.40",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1586,8 +1586,8 @@
       "votes": 5937,
       "extra": {
         "rank spread": "109 116",
-        "price $/m": "$0.90 / $0.90",
-        "context": "32.8K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1600,8 +1600,8 @@
       "votes": 1422,
       "extra": {
         "rank spread": "108 118",
-        "price $/m": "$0.80 / $3.20",
-        "context": "131.1K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1614,8 +1614,8 @@
       "votes": 6243,
       "extra": {
         "rank spread": "112 119",
-        "price $/m": "$0.07 / $0.30",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1642,8 +1642,8 @@
       "votes": 15565,
       "extra": {
         "rank spread": "113 120",
-        "price $/m": "$15 / $75",
-        "context": "200K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1656,8 +1656,8 @@
       "votes": 13260,
       "extra": {
         "rank spread": "113 120",
-        "price $/m": "$0.07 / $0.30",
-        "context": "1M"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1712,8 +1712,8 @@
       "votes": 5766,
       "extra": {
         "rank spread": "119 128",
-        "price $/m": "$0.20 / $0.20",
-        "context": "32.8K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1726,8 +1726,8 @@
       "votes": 7511,
       "extra": {
         "rank spread": "119 129",
-        "price $/m": "$0.15 / $0.15",
-        "context": "128K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1754,8 +1754,8 @@
       "votes": 2335,
       "extra": {
         "rank spread": "119 132",
-        "price $/m": "$0.80 / $3.20",
-        "context": "300K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1768,8 +1768,8 @@
       "votes": 1854,
       "extra": {
         "rank spread": "119 132",
-        "price $/m": "$0.06 / $0.24",
-        "context": "300K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1782,8 +1782,8 @@
       "votes": 12314,
       "extra": {
         "rank spread": "120 132",
-        "price $/m": "$3 / $15",
-        "context": "200K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1810,8 +1810,8 @@
       "votes": 13380,
       "extra": {
         "rank spread": "124 134",
-        "price $/m": "$0.25 / $1.25",
-        "context": "200K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1950,8 +1950,8 @@
       "votes": 2592,
       "extra": {
         "rank spread": "139 139",
-        "price $/m": "$0.13 / $0.52",
-        "context": "128K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     },
     {
@@ -1964,8 +1964,8 @@
       "votes": 1401,
       "extra": {
         "rank spread": "140 140",
-        "price $/m": "$0.20 / $0.20",
-        "context": "32.1K"
+        "price $/m": "N/A",
+        "context": "N/A"
       }
     }
   ]
