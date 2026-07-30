@@ -2,9 +2,9 @@
   "meta": {
     "leaderboard": "text",
     "source_url": "https://arena.ai/leaderboard/text",
-    "fetched_at": "2026-07-29T23:16:33.534512+00:00",
+    "fetched_at": "2026-07-30T23:27:47.157278+00:00",
     "last_updated": "Jul 27, 2026",
-    "model_count": 381,
+    "model_count": 382,
     "method": "html"
   },
   "models": [
@@ -5338,6 +5338,20 @@
       "votes": 3287,
       "extra": {
         "rank spread": "380 381",
+        "price $/m": "N/A",
+        "context": "N/A"
+      }
+    },
+    {
+      "rank": null,
+      "model": "Thinking Machines inkling-small",
+      "vendor": "Thinky",
+      "license": "open",
+      "score": 1431,
+      "ci": 11,
+      "votes": null,
+      "extra": {
+        "rank spread": "N/A",
         "price $/m": "N/A",
         "context": "N/A"
       }

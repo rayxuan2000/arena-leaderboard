@@ -3,9 +3,9 @@
     "meta": {
       "leaderboard": "text",
       "source_url": "https://arena.ai/leaderboard/text",
-      "fetched_at": "2026-07-29T23:16:33.534512+00:00",
+      "fetched_at": "2026-07-30T23:27:47.157278+00:00",
       "last_updated": "Jul 27, 2026",
-      "model_count": 381,
+      "model_count": 382,
       "method": "html"
     },
     "models": [
@@ -5342,6 +5342,20 @@
           "price $/m": "N/A",
           "context": "N/A"
         }
+      },
+      {
+        "rank": null,
+        "model": "Thinking Machines inkling-small",
+        "vendor": "Thinky",
+        "license": "open",
+        "score": 1431,
+        "ci": 11,
+        "votes": null,
+        "extra": {
+          "rank spread": "N/A",
+          "price $/m": "N/A",
+          "context": "N/A"
+        }
       }
     ]
   },
@@ -5349,7 +5363,7 @@
     "meta": {
       "leaderboard": "code",
       "source_url": "https://arena.ai/leaderboard/code",
-      "fetched_at": "2026-07-29T23:16:36.595222+00:00",
+      "fetched_at": "2026-07-30T23:27:50.031238+00:00",
       "last_updated": "Jul 28, 2026",
       "model_count": 104,
       "method": "html"
@@ -6817,7 +6831,7 @@
     "meta": {
       "leaderboard": "vision",
       "source_url": "https://arena.ai/leaderboard/vision",
-      "fetched_at": "2026-07-29T23:16:38.638896+00:00",
+      "fetched_at": "2026-07-30T23:27:52.122763+00:00",
       "last_updated": "Jul 26, 2026",
       "model_count": 140,
       "method": "html"
@@ -8789,7 +8803,7 @@
     "meta": {
       "leaderboard": "document",
       "source_url": "https://arena.ai/leaderboard/document",
-      "fetched_at": "2026-07-29T23:16:41.650018+00:00",
+      "fetched_at": "2026-07-30T23:27:54.397509+00:00",
       "last_updated": "Jul 26, 2026",
       "model_count": 35,
       "method": "html"
@@ -9291,7 +9305,7 @@
     "meta": {
       "leaderboard": "search",
       "source_url": "https://arena.ai/leaderboard/search",
-      "fetched_at": "2026-07-29T23:16:43.626610+00:00",
+      "fetched_at": "2026-07-30T23:27:56.693715+00:00",
       "last_updated": "Jul 21, 2026",
       "model_count": 32,
       "method": "html"
@@ -9751,7 +9765,7 @@
     "meta": {
       "leaderboard": "agent",
       "source_url": "https://arena.ai/leaderboard/agent",
-      "fetched_at": "2026-07-29T23:16:45.853562+00:00",
+      "fetched_at": "2026-07-30T23:27:58.370288+00:00",
       "last_updated": "Jul 28, 2026",
       "model_count": 44,
       "method": "html"
@@ -10511,7 +10525,7 @@
     "meta": {
       "leaderboard": "text-to-image",
       "source_url": "https://arena.ai/leaderboard/text-to-image",
-      "fetched_at": "2026-07-29T23:16:48.166407+00:00",
+      "fetched_at": "2026-07-30T23:28:00.614425+00:00",
       "last_updated": "Jul 10, 2026",
       "model_count": 74,
       "method": "html"
@@ -11411,7 +11425,7 @@
     "meta": {
       "leaderboard": "image-edit",
       "source_url": "https://arena.ai/leaderboard/image-edit",
-      "fetched_at": "2026-07-29T23:16:50.036414+00:00",
+      "fetched_at": "2026-07-30T23:28:02.518617+00:00",
       "last_updated": "Jul 24, 2026",
       "model_count": 52,
       "method": "html"
@@ -12047,7 +12061,7 @@
     "meta": {
       "leaderboard": "text-to-video",
       "source_url": "https://arena.ai/leaderboard/text-to-video",
-      "fetched_at": "2026-07-29T23:16:52.693644+00:00",
+      "fetched_at": "2026-07-30T23:28:04.302283+00:00",
       "last_updated": "Jul 5, 2026",
       "model_count": 42,
       "method": "html"
@@ -12563,7 +12577,7 @@
     "meta": {
       "leaderboard": "image-to-video",
       "source_url": "https://arena.ai/leaderboard/image-to-video",
-      "fetched_at": "2026-07-29T23:16:54.310793+00:00",
+      "fetched_at": "2026-07-30T23:28:06.128528+00:00",
       "last_updated": "Jun 23, 2026",
       "model_count": 42,
       "method": "html"
@@ -12595,7 +12609,7 @@
       },
       {
         "rank": 3,
-        "model": "grok-imagine-video-1.5-preview-720p",
+        "model": "grok-imagine-video-1.5-720p",
         "vendor": "XAI",
         "license": "proprietary",
         "score": 1466,
@@ -13079,7 +13093,7 @@
     "meta": {
       "leaderboard": "video-edit",
       "source_url": "https://arena.ai/leaderboard/video-edit",
-      "fetched_at": "2026-07-29T23:16:56.152862+00:00",
+      "fetched_at": "2026-07-30T23:28:07.770113+00:00",
       "last_updated": "Jun 29, 2026",
       "model_count": 7,
       "method": "html"
