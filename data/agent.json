@@ -2,9 +2,9 @@
   "meta": {
     "leaderboard": "agent",
     "source_url": "https://arena.ai/leaderboard/agent",
-    "fetched_at": "2026-08-02T23:15:17.896814+00:00",
+    "fetched_at": "2026-08-03T23:29:29.983299+00:00",
     "last_updated": "Jul 28, 2026",
-    "model_count": 44,
+    "model_count": 45,
     "method": "html"
   },
   "models": [
@@ -401,6 +401,23 @@
     },
     {
       "rank": 24,
+      "model": "Gemini 3.5 Flash (High)",
+      "vendor": "Google",
+      "license": "proprietary",
+      "score": null,
+      "ci": null,
+      "votes": 30725,
+      "extra": {
+        "net improvement": "0.45 % ±0.87%",
+        "confirmed success": "1.24 % ±2.07%",
+        "praise vs complaint": "0.20 % ±2.75%",
+        "steerability": "0.93 % ±1.59%",
+        "bash recovery": "0.88 % ±1.32%",
+        "tool hallucination": "1.00 % ±0.22%"
+      }
+    },
+    {
+      "rank": 25,
       "model": "Gemini 3.1 Pro Preview",
       "vendor": "Google",
       "license": "proprietary",
@@ -417,7 +434,7 @@
       }
     },
     {
-      "rank": 25,
+      "rank": 26,
       "model": "Qwen3.7 Max",
       "vendor": "Alibaba",
       "license": "proprietary",
@@ -434,7 +451,7 @@
       }
     },
     {
-      "rank": 26,
+      "rank": 27,
       "model": "DeepSeek V4 Pro",
       "vendor": "DeepSeek",
       "license": "open",
@@ -451,7 +468,7 @@
       }
     },
     {
-      "rank": 27,
+      "rank": 28,
       "model": "Hy3",
       "vendor": "Tencent",
       "license": "open",
@@ -468,13 +485,13 @@
       }
     },
     {
-      "rank": 28,
+      "rank": 29,
       "model": "Gemini 3.5 Flash (High)",
       "vendor": "Google",
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 45993,
+      "votes": null,
       "extra": {
         "net improvement": "1.03 % ±0.84%",
         "confirmed success": "3.60 % ±1.85%",
@@ -485,7 +502,7 @@
       }
     },
     {
-      "rank": 29,
+      "rank": 30,
       "model": "Kimi K2.6",
       "vendor": "Moonshot",
       "license": "open",
@@ -502,7 +519,7 @@
       }
     },
     {
-      "rank": 30,
+      "rank": 31,
       "model": "gemini-3.6-flash",
       "vendor": "Google",
       "license": "proprietary",
@@ -519,7 +536,7 @@
       }
     },
     {
-      "rank": 31,
+      "rank": 32,
       "model": "Qwen3.7 Plus",
       "vendor": "Alibaba",
       "license": "proprietary",
@@ -536,7 +553,7 @@
       }
     },
     {
-      "rank": 32,
+      "rank": 33,
       "model": "Mimo V2.5 Pro",
       "vendor": "Xiaomi",
       "license": "open",
@@ -553,7 +570,7 @@
       }
     },
     {
-      "rank": 33,
+      "rank": 34,
       "model": "Minimax M3",
       "vendor": "MiniMax",
       "license": "open",
@@ -570,7 +587,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 35,
       "model": "DeepSeek V4 Flash",
       "vendor": "DeepSeek",
       "license": "open",
@@ -587,7 +604,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 36,
       "model": "Gemini 3.5 Flash (Medium)",
       "vendor": "Google",
       "license": "proprietary",
@@ -604,7 +621,7 @@
       }
     },
     {
-      "rank": 36,
+      "rank": 37,
       "model": "Inkling",
       "vendor": "Thinky",
       "license": "open",
@@ -621,7 +638,7 @@
       }
     },
     {
-      "rank": 37,
+      "rank": 38,
       "model": "Grok Build 0.1 Space",
       "vendor": "XAI",
       "license": "proprietary",
@@ -638,7 +655,7 @@
       }
     },
     {
-      "rank": 38,
+      "rank": 39,
       "model": "Grok 4.3 (High)",
       "vendor": "XAI",
       "license": "proprietary",
@@ -655,7 +672,7 @@
       }
     },
     {
-      "rank": 39,
+      "rank": 40,
       "model": "Gemini 3 Flash",
       "vendor": "Google",
       "license": "proprietary",
@@ -672,7 +689,7 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 41,
       "model": "gemini-3.5-flash-lite",
       "vendor": "Google",
       "license": "proprietary",
@@ -689,7 +706,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "model": "Minimax M2.7",
       "vendor": "MiniMax",
       "license": "open",
@@ -706,7 +723,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 43,
       "model": "Nemotron 3 Ultra",
       "vendor": "Nvidia",
       "license": null,
@@ -723,7 +740,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 44,
       "model": "Grok 4.3",
       "vendor": "XAI",
       "license": "proprietary",
@@ -740,7 +757,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 45,
       "model": "Gemma 4 31B",
       "vendor": "Google",
       "license": "open",
