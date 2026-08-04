@@ -2,9 +2,9 @@
   "meta": {
     "leaderboard": "text-to-video",
     "source_url": "https://arena.ai/leaderboard/text-to-video",
-    "fetched_at": "2026-08-03T23:29:35.055070+00:00",
+    "fetched_at": "2026-08-04T23:28:08.244526+00:00",
     "last_updated": "Aug 2, 2026",
-    "model_count": 42,
+    "model_count": 43,
     "method": "html"
   },
   "models": [
@@ -29,7 +29,7 @@
       "ci": 11,
       "votes": 47067,
       "extra": {
-        "rank spread": "2 3"
+        "rank spread": "2 4"
       }
     },
     {
@@ -41,11 +41,23 @@
       "ci": 15,
       "votes": 2160,
       "extra": {
-        "rank spread": "2 3"
+        "rank spread": "2 4"
       }
     },
     {
       "rank": 4,
+      "model": "minimax-h3",
+      "vendor": "MiniMax",
+      "license": "open",
+      "score": 1455,
+      "ci": 19,
+      "votes": 1060,
+      "extra": {
+        "rank spread": "2 5"
+      }
+    },
+    {
+      "rank": 5,
       "model": "happyhorse-1.0",
       "vendor": "Alibaba-ATH",
       "license": "proprietary",
@@ -53,11 +65,11 @@
       "ci": 13,
       "votes": 21979,
       "extra": {
-        "rank spread": "4 4"
+        "rank spread": "4 5"
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "model": "sora-2-pro",
       "vendor": "OpenAI",
       "license": "proprietary",
@@ -65,11 +77,11 @@
       "ci": 8,
       "votes": 44543,
       "extra": {
-        "rank spread": "5 10"
+        "rank spread": "6 11"
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "model": "veo-3.1-audio",
       "vendor": "Google",
       "license": "proprietary",
@@ -77,11 +89,11 @@
       "ci": 14,
       "votes": 13687,
       "extra": {
-        "rank spread": "5 13"
+        "rank spread": "6 14"
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "model": "veo-3.1-audio-1080p",
       "vendor": "Google",
       "license": "proprietary",
@@ -89,11 +101,11 @@
       "ci": 10,
       "votes": 24846,
       "extra": {
-        "rank spread": "5 12"
+        "rank spread": "6 13"
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "model": "veo-3.1-fast-audio",
       "vendor": "Google",
       "license": "proprietary",
@@ -101,11 +113,11 @@
       "ci": 11,
       "votes": 39301,
       "extra": {
-        "rank spread": "5 13"
+        "rank spread": "6 14"
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "model": "veo-3.1-fast-audio-1080p",
       "vendor": "Google",
       "license": "proprietary",
@@ -113,11 +125,11 @@
       "ci": 10,
       "votes": 25637,
       "extra": {
-        "rank spread": "5 13"
+        "rank spread": "6 14"
       }
     },
     {
-      "rank": 10,
+      "rank": 11,
       "model": "grok-imagine-video-720p",
       "vendor": "XAI",
       "license": "proprietary",
@@ -125,11 +137,11 @@
       "ci": 8,
       "votes": 151774,
       "extra": {
-        "rank spread": "6 14"
+        "rank spread": "7 15"
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "model": "veo-3-fast-audio",
       "vendor": "Google",
       "license": "proprietary",
@@ -137,11 +149,11 @@
       "ci": 11,
       "votes": 25154,
       "extra": {
-        "rank spread": "5 15"
+        "rank spread": "6 16"
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "model": "wan2.7-t2v",
       "vendor": "Alibaba",
       "license": "proprietary",
@@ -149,11 +161,11 @@
       "ci": 9,
       "votes": 15246,
       "extra": {
-        "rank spread": "6 15"
+        "rank spread": "7 16"
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "model": "sora-2",
       "vendor": "OpenAI",
       "license": "proprietary",
@@ -161,11 +173,11 @@
       "ci": 7,
       "votes": 60178,
       "extra": {
-        "rank spread": "10 15"
+        "rank spread": "11 16"
       }
     },
     {
-      "rank": 14,
+      "rank": 15,
       "model": "veo-3-audio",
       "vendor": "Google",
       "license": "proprietary",
@@ -173,11 +185,11 @@
       "ci": 13,
       "votes": 18961,
       "extra": {
-        "rank spread": "7 15"
+        "rank spread": "8 16"
       }
     },
     {
-      "rank": 15,
+      "rank": 16,
       "model": "wan2.6-t2v",
       "vendor": "Alibaba",
       "license": "proprietary",
@@ -185,11 +197,11 @@
       "ci": 9,
       "votes": 41706,
       "extra": {
-        "rank spread": "11 15"
+        "rank spread": "12 16"
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "model": "seedance-v1.5-pro",
       "vendor": "Bytedance",
       "license": "proprietary",
@@ -197,11 +209,11 @@
       "ci": 7,
       "votes": 75653,
       "extra": {
-        "rank spread": "16 20"
+        "rank spread": "17 21"
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "model": "veo-3",
       "vendor": "Google",
       "license": "proprietary",
@@ -209,11 +221,11 @@
       "ci": 11,
       "votes": 14947,
       "extra": {
-        "rank spread": "16 20"
+        "rank spread": "17 21"
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "model": "wan2.5-t2v-preview",
       "vendor": "Alibaba",
       "license": "proprietary",
@@ -221,11 +233,11 @@
       "ci": 10,
       "votes": 25895,
       "extra": {
-        "rank spread": "16 20"
+        "rank spread": "17 21"
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "model": "veo-3-fast",
       "vendor": "Google",
       "license": "proprietary",
@@ -233,11 +245,11 @@
       "ci": 12,
       "votes": 15229,
       "extra": {
-        "rank spread": "16 21"
+        "rank spread": "17 22"
       }
     },
     {
-      "rank": 20,
+      "rank": 21,
       "model": "pixverse-v5.6",
       "vendor": null,
       "license": null,
@@ -245,11 +257,11 @@
       "ci": 11,
       "votes": 32222,
       "extra": {
-        "rank spread": "16 23"
+        "rank spread": "17 24"
       }
     },
     {
-      "rank": 21,
+      "rank": 22,
       "model": "runway-gen-4.5",
       "vendor": "Runway",
       "license": "proprietary",
@@ -257,11 +269,11 @@
       "ci": 11,
       "votes": 36550,
       "extra": {
-        "rank spread": "20 27"
+        "rank spread": "21 28"
       }
     },
     {
-      "rank": 22,
+      "rank": 23,
       "model": "kling-2.5-turbo-1080p",
       "vendor": "KlingAI",
       "license": "proprietary",
@@ -269,11 +281,11 @@
       "ci": 17,
       "votes": 2104,
       "extra": {
-        "rank spread": "19 28"
+        "rank spread": "20 29"
       }
     },
     {
-      "rank": 23,
+      "rank": 24,
       "model": "kling-2.6-pro",
       "vendor": "KlingAI",
       "license": "proprietary",
@@ -281,11 +293,11 @@
       "ci": 7,
       "votes": 72888,
       "extra": {
-        "rank spread": "21 26"
+        "rank spread": "22 27"
       }
     },
     {
-      "rank": 24,
+      "rank": 25,
       "model": "p-video",
       "vendor": null,
       "license": null,
@@ -293,11 +305,11 @@
       "ci": 16,
       "votes": 7029,
       "extra": {
-        "rank spread": "21 31"
+        "rank spread": "22 32"
       }
     },
     {
-      "rank": 25,
+      "rank": 26,
       "model": "ray-3",
       "vendor": "Luma AI",
       "license": "proprietary",
@@ -305,11 +317,11 @@
       "ci": 22,
       "votes": 1121,
       "extra": {
-        "rank spread": "21 32"
+        "rank spread": "22 33"
       }
     },
     {
-      "rank": 26,
+      "rank": 27,
       "model": "kling-o1-pro",
       "vendor": "KlingAI",
       "license": "proprietary",
@@ -317,11 +329,11 @@
       "ci": 27,
       "votes": 1193,
       "extra": {
-        "rank spread": "20 33"
+        "rank spread": "21 34"
       }
     },
     {
-      "rank": 27,
+      "rank": 28,
       "model": "hailuo-2.3",
       "vendor": "MiniMax",
       "license": "proprietary",
@@ -329,11 +341,11 @@
       "ci": 7,
       "votes": 72127,
       "extra": {
-        "rank spread": "23 29"
+        "rank spread": "24 30"
       }
     },
     {
-      "rank": 28,
+      "rank": 29,
       "model": "hailuo-02-pro",
       "vendor": "MiniMax",
       "license": "proprietary",
@@ -341,11 +353,11 @@
       "ci": 13,
       "votes": 9365,
       "extra": {
-        "rank spread": "22 32"
+        "rank spread": "23 33"
       }
     },
     {
-      "rank": 29,
+      "rank": 30,
       "model": "seedance-v1-pro",
       "vendor": "Bytedance",
       "license": "proprietary",
@@ -353,11 +365,11 @@
       "ci": 11,
       "votes": 12117,
       "extra": {
-        "rank spread": "24 33"
+        "rank spread": "25 34"
       }
     },
     {
-      "rank": 30,
+      "rank": 31,
       "model": "hailuo-02-standard",
       "vendor": "MiniMax",
       "license": "proprietary",
@@ -365,11 +377,11 @@
       "ci": 12,
       "votes": 9333,
       "extra": {
-        "rank spread": "25 34"
+        "rank spread": "26 35"
       }
     },
     {
-      "rank": 31,
+      "rank": 32,
       "model": "kandinsky-5.0-t2v-pro",
       "vendor": "Kandinsky",
       "license": "open",
@@ -377,11 +389,11 @@
       "ci": 20,
       "votes": 2018,
       "extra": {
-        "rank spread": "25 35"
+        "rank spread": "26 36"
       }
     },
     {
-      "rank": 32,
+      "rank": 33,
       "model": "hunyuan-video-1.5",
       "vendor": "Tencent",
       "license": "open",
@@ -389,11 +401,11 @@
       "ci": 16,
       "votes": 4271,
       "extra": {
-        "rank spread": "26 35"
+        "rank spread": "27 36"
       }
     },
     {
-      "rank": 33,
+      "rank": 34,
       "model": "veo-2",
       "vendor": "Google",
       "license": "proprietary",
@@ -401,11 +413,11 @@
       "ci": 16,
       "votes": 6509,
       "extra": {
-        "rank spread": "28 35"
+        "rank spread": "29 36"
       }
     },
     {
-      "rank": 34,
+      "rank": 35,
       "model": "kling-v2.1-master",
       "vendor": "KlingAI",
       "license": "proprietary",
@@ -413,11 +425,11 @@
       "ci": 10,
       "votes": 14049,
       "extra": {
-        "rank spread": "30 35"
+        "rank spread": "31 36"
       }
     },
     {
-      "rank": 35,
+      "rank": 36,
       "model": "ltx-2-19b",
       "vendor": null,
       "license": null,
@@ -425,11 +437,11 @@
       "ci": 9,
       "votes": 61861,
       "extra": {
-        "rank spread": "31 36"
+        "rank spread": "32 37"
       }
     },
     {
-      "rank": 36,
+      "rank": 37,
       "model": "wan-v2.2-a14b",
       "vendor": "Alibaba",
       "license": "open",
@@ -437,11 +449,11 @@
       "ci": 15,
       "votes": 10418,
       "extra": {
-        "rank spread": "35 38"
+        "rank spread": "36 39"
       }
     },
     {
-      "rank": 37,
+      "rank": 38,
       "model": "kandinsky-5.0-t2v-lite",
       "vendor": "Kandinsky",
       "license": "open",
@@ -449,11 +461,11 @@
       "ci": 18,
       "votes": 1475,
       "extra": {
-        "rank spread": "36 38"
+        "rank spread": "37 39"
       }
     },
     {
-      "rank": 38,
+      "rank": 39,
       "model": "seedance-v1-lite",
       "vendor": "Bytedance",
       "license": "proprietary",
@@ -461,11 +473,11 @@
       "ci": 10,
       "votes": 16211,
       "extra": {
-        "rank spread": "36 38"
+        "rank spread": "37 39"
       }
     },
     {
-      "rank": 39,
+      "rank": 40,
       "model": "sora",
       "vendor": "OpenAI",
       "license": "proprietary",
@@ -473,11 +485,11 @@
       "ci": 16,
       "votes": 4080,
       "extra": {
-        "rank spread": "39 40"
+        "rank spread": "40 41"
       }
     },
     {
-      "rank": 40,
+      "rank": 41,
       "model": "ray2",
       "vendor": "Luma AI",
       "license": "proprietary",
@@ -485,11 +497,11 @@
       "ci": 17,
       "votes": 5215,
       "extra": {
-        "rank spread": "39 40"
+        "rank spread": "40 41"
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "model": "pika-v2.2",
       "vendor": "Pika",
       "license": "proprietary",
@@ -497,11 +509,11 @@
       "ci": 15,
       "votes": 5728,
       "extra": {
-        "rank spread": "41 42"
+        "rank spread": "42 43"
       }
     },
     {
-      "rank": 42,
+      "rank": 43,
       "model": "mochi-v1",
       "vendor": "Genmo AI",
       "license": "open",
@@ -509,7 +521,7 @@
       "ci": 17,
       "votes": 5860,
       "extra": {
-        "rank spread": "41 42"
+        "rank spread": "42 43"
       }
     }
   ]
