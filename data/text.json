@@ -2,9 +2,9 @@
   "meta": {
     "leaderboard": "text",
     "source_url": "https://arena.ai/leaderboard/text",
-    "fetched_at": "2026-08-04T23:27:50.712102+00:00",
+    "fetched_at": "2026-08-05T23:25:35.595149+00:00",
     "last_updated": "Aug 1, 2026",
-    "model_count": 386,
+    "model_count": 385,
     "method": "html"
   },
   "models": [
@@ -2006,7 +2006,7 @@
       "votes": 7937,
       "extra": {
         "rank spread": "130 159",
-        "price $/m": "$0.98 / $3.95",
+        "price $/m": "$0.40 / $4",
         "context": "131.1K"
       }
     },
@@ -2104,7 +2104,7 @@
       "votes": 40751,
       "extra": {
         "rank spread": "138 162",
-        "price $/m": "$0.15 / $0.90",
+        "price $/m": "$0.22 / $0.90",
         "context": "204.8K"
       }
     },
@@ -5394,20 +5394,6 @@
       "votes": 3287,
       "extra": {
         "rank spread": "384 385",
-        "price $/m": "N/A",
-        "context": "N/A"
-      }
-    },
-    {
-      "rank": null,
-      "model": "Thinking Machines inkling-small",
-      "vendor": "Thinky",
-      "license": "open",
-      "score": 1431,
-      "ci": 11,
-      "votes": null,
-      "extra": {
-        "rank spread": "N/A",
         "price $/m": "N/A",
         "context": "N/A"
       }
