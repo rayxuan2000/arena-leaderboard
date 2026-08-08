@@ -2,9 +2,9 @@
   "meta": {
     "leaderboard": "image-edit",
     "source_url": "https://arena.ai/leaderboard/image-edit",
-    "fetched_at": "2026-08-07T22:57:10.718118+00:00",
-    "last_updated": "Jul 24, 2026",
-    "model_count": 52,
+    "fetched_at": "2026-08-08T22:50:14.477959+00:00",
+    "last_updated": "Aug 7, 2026",
+    "model_count": 53,
     "method": "html"
   },
   "models": [
@@ -15,57 +15,57 @@
       "license": "proprietary",
       "score": 1463,
       "ci": 4,
-      "votes": 165278,
+      "votes": 184189,
       "extra": {
         "rank spread": "1 1"
       }
     },
     {
       "rank": 2,
-      "model": "muse-image",
-      "vendor": "Meta",
+      "model": "grok-imagine-image-2.0 (low)",
+      "vendor": "XAI",
       "license": "proprietary",
-      "score": 1407,
-      "ci": 6,
-      "votes": 36590,
+      "score": 1439,
+      "ci": 8,
+      "votes": 5931,
       "extra": {
-        "rank spread": "2 3"
+        "rank spread": "2 2"
       }
     },
     {
       "rank": 3,
-      "model": "mai-image-2.5",
-      "vendor": "AI",
+      "model": "muse-image",
+      "vendor": "Meta",
       "license": "proprietary",
-      "score": 1400,
-      "ci": 4,
-      "votes": 130630,
+      "score": 1405,
+      "ci": 6,
+      "votes": 47573,
       "extra": {
-        "rank spread": "2 3"
+        "rank spread": "3 4"
       }
     },
     {
       "rank": 4,
-      "model": "grok-imagine-image-quality (20260519)",
-      "vendor": "XAI",
+      "model": "mai-image-2.5",
+      "vendor": "AI",
       "license": "proprietary",
-      "score": 1390,
-      "ci": 6,
-      "votes": 35509,
+      "score": 1402,
+      "ci": 4,
+      "votes": 155115,
       "extra": {
-        "rank spread": "4 10"
+        "rank spread": "3 4"
       }
     },
     {
       "rank": 5,
-      "model": "gemini-3-pro-image-2k (nano-banana-pro)",
-      "vendor": "Google",
+      "model": "seedream-5.0-pro",
+      "vendor": "Bytedance",
       "license": "proprietary",
-      "score": 1389,
-      "ci": 3,
-      "votes": 480545,
+      "score": 1393,
+      "ci": 4,
+      "votes": 71266,
       "extra": {
-        "rank spread": "4 10"
+        "rank spread": "5 10"
       }
     },
     {
@@ -73,47 +73,47 @@
       "model": "chatgpt-image-latest-high-fidelity (20251216)",
       "vendor": "OpenAI",
       "license": "proprietary",
-      "score": 1389,
+      "score": 1390,
       "ci": 3,
-      "votes": 475725,
+      "votes": 494514,
       "extra": {
-        "rank spread": "4 10"
+        "rank spread": "5 10"
       }
     },
     {
       "rank": 7,
+      "model": "grok-imagine-image-quality (20260519)",
+      "vendor": "XAI",
+      "license": "proprietary",
+      "score": 1390,
+      "ci": 6,
+      "votes": 35613,
+      "extra": {
+        "rank spread": "5 10"
+      }
+    },
+    {
+      "rank": 8,
+      "model": "gemini-3-pro-image-2k (nano-banana-pro)",
+      "vendor": "Google",
+      "license": "proprietary",
+      "score": 1389,
+      "ci": 3,
+      "votes": 501853,
+      "extra": {
+        "rank spread": "5 10"
+      }
+    },
+    {
+      "rank": 9,
       "model": "gemini-3-pro-image-preview (nano-banana-pro)",
       "vendor": "Google",
       "license": "proprietary",
       "score": 1385,
       "ci": 3,
-      "votes": 518346,
+      "votes": 519141,
       "extra": {
-        "rank spread": "4 10"
-      }
-    },
-    {
-      "rank": 8,
-      "model": "seedream-5.0-pro",
-      "vendor": "Bytedance",
-      "license": "proprietary",
-      "score": 1385,
-      "ci": 5,
-      "votes": 32022,
-      "extra": {
-        "rank spread": "4 10"
-      }
-    },
-    {
-      "rank": 9,
-      "model": "reve-2.1",
-      "vendor": "Reve",
-      "license": "proprietary",
-      "score": 1383,
-      "ci": 8,
-      "votes": 6779,
-      "extra": {
-        "rank spread": "4 10"
+        "rank spread": "5 10"
       }
     },
     {
@@ -121,119 +121,119 @@
       "model": "gemini-3.1-flash-image (nano-banana-2) [web-search]",
       "vendor": "Google",
       "license": "proprietary",
-      "score": 1383,
+      "score": 1385,
       "ci": 4,
-      "votes": 82128,
+      "votes": 102657,
       "extra": {
-        "rank spread": "4 10"
+        "rank spread": "5 10"
       }
     },
     {
       "rank": 11,
-      "model": "gpt-image-1.5-high-fidelity",
-      "vendor": "OpenAI",
+      "model": "reve-2.1",
+      "vendor": "Reve",
       "license": "proprietary",
-      "score": 1372,
-      "ci": 3,
-      "votes": 497488,
+      "score": 1374,
+      "ci": 6,
+      "votes": 19093,
       "extra": {
-        "rank spread": "11 11"
+        "rank spread": "11 12"
       }
     },
     {
       "rank": 12,
-      "model": "grok-imagine-image-quality",
-      "vendor": "XAI",
+      "model": "gpt-image-1.5-high-fidelity",
+      "vendor": "OpenAI",
       "license": "proprietary",
-      "score": 1363,
-      "ci": 4,
-      "votes": 133525,
+      "score": 1370,
+      "ci": 3,
+      "votes": 516635,
       "extra": {
-        "rank spread": "12 13"
+        "rank spread": "11 12"
       }
     },
     {
       "rank": 13,
-      "model": "reve-2.0",
-      "vendor": "Reve",
+      "model": "grok-imagine-image-quality",
+      "vendor": "XAI",
       "license": "proprietary",
-      "score": 1361,
-      "ci": 6,
-      "votes": 16274,
+      "score": 1362,
+      "ci": 4,
+      "votes": 155532,
       "extra": {
-        "rank spread": "12 13"
+        "rank spread": "13 14"
       }
     },
     {
       "rank": 14,
+      "model": "reve-2.0",
+      "vendor": "Reve",
+      "license": "proprietary",
+      "score": 1358,
+      "ci": 7,
+      "votes": 17504,
+      "extra": {
+        "rank spread": "13 14"
+      }
+    },
+    {
+      "rank": 15,
       "model": "uni-1.1-max",
       "vendor": "Luma AI",
       "license": "proprietary",
       "score": 1334,
       "ci": 5,
-      "votes": 40854,
+      "votes": 40939,
       "extra": {
-        "rank spread": "14 15"
-      }
-    },
-    {
-      "rank": 15,
-      "model": "grok-imagine-image",
-      "vendor": "XAI",
-      "license": "proprietary",
-      "score": 1329,
-      "ci": 3,
-      "votes": 508516,
-      "extra": {
-        "rank spread": "14 15"
+        "rank spread": "15 16"
       }
     },
     {
       "rank": 16,
+      "model": "grok-imagine-image",
+      "vendor": "XAI",
+      "license": "proprietary",
+      "score": 1330,
+      "ci": 3,
+      "votes": 539954,
+      "extra": {
+        "rank spread": "15 16"
+      }
+    },
+    {
+      "rank": 17,
       "model": "gemini-3.1-flash-lite-image (nano-banana-2-lite)",
       "vendor": "Google",
       "license": "proprietary",
       "score": 1314,
       "ci": 5,
-      "votes": 48022,
+      "votes": 59331,
       "extra": {
-        "rank spread": "16 17"
+        "rank spread": "17 18"
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "model": "uni-1.1",
       "vendor": "Luma AI",
       "license": "proprietary",
       "score": 1312,
       "ci": 4,
-      "votes": 87122,
+      "votes": 103819,
       "extra": {
-        "rank spread": "16 18"
+        "rank spread": "17 18"
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "model": "qwen-image-2.0-pro-2026-06-22",
       "vendor": "Alibaba",
       "license": "proprietary",
       "score": 1303,
       "ci": 5,
-      "votes": 50714,
+      "votes": 50804,
       "extra": {
-        "rank spread": "17 22"
-      }
-    },
-    {
-      "rank": 19,
-      "model": "wan2.7-image-pro",
-      "vendor": "Alibaba",
-      "license": "proprietary",
-      "score": 1302,
-      "ci": 4,
-      "votes": 41442,
-      "extra": {
-        "rank spread": "18 22"
+        "rank spread": "19 23"
       }
     },
     {
@@ -241,287 +241,287 @@
       "model": "hunyuan-image-3.0-instruct",
       "vendor": "Tencent",
       "license": "open",
-      "score": 1301,
+      "score": 1302,
       "ci": 3,
-      "votes": 296046,
+      "votes": 307840,
       "extra": {
-        "rank spread": "18 22"
+        "rank spread": "19 23"
       }
     },
     {
       "rank": 21,
+      "model": "wan2.7-image-pro",
+      "vendor": "Alibaba",
+      "license": "proprietary",
+      "score": 1302,
+      "ci": 4,
+      "votes": 41548,
+      "extra": {
+        "rank spread": "19 23"
+      }
+    },
+    {
+      "rank": 22,
       "model": "wan2.7-image",
       "vendor": "Alibaba",
       "license": "proprietary",
       "score": 1301,
       "ci": 4,
-      "votes": 42290,
+      "votes": 42400,
       "extra": {
-        "rank spread": "18 24"
-      }
-    },
-    {
-      "rank": 22,
-      "model": "seedream-4.5",
-      "vendor": "Bytedance",
-      "license": "proprietary",
-      "score": 1301,
-      "ci": 3,
-      "votes": 940384,
-      "extra": {
-        "rank spread": "18 22"
+        "rank spread": "19 23"
       }
     },
     {
       "rank": 23,
-      "model": "gemini-2.5-flash-image-preview (nano-banana)",
-      "vendor": "Google",
+      "model": "seedream-4.5",
+      "vendor": "Bytedance",
       "license": "proprietary",
-      "score": 1295,
+      "score": 1301,
       "ci": 2,
-      "votes": 11047033,
+      "votes": 982872,
       "extra": {
-        "rank spread": "22 24"
+        "rank spread": "19 23"
       }
     },
     {
       "rank": 24,
-      "model": "seedream-5.0-lite",
-      "vendor": "Bytedance",
+      "model": "gemini-2.5-flash-image-preview (nano-banana)",
+      "vendor": "Google",
       "license": "proprietary",
       "score": 1294,
-      "ci": 3,
-      "votes": 293298,
+      "ci": 2,
+      "votes": 11094450,
       "extra": {
-        "rank spread": "22 24"
+        "rank spread": "24 25"
       }
     },
     {
       "rank": 25,
+      "model": "seedream-5.0-lite",
+      "vendor": "Bytedance",
+      "license": "proprietary",
+      "score": 1293,
+      "ci": 3,
+      "votes": 315388,
+      "extra": {
+        "rank spread": "24 25"
+      }
+    },
+    {
+      "rank": 26,
       "model": "seedream-4-2k",
       "vendor": "Bytedance",
       "license": "proprietary",
       "score": 1271,
       "ci": 7,
-      "votes": 213047,
+      "votes": 213151,
       "extra": {
-        "rank spread": "25 26"
+        "rank spread": "26 28"
       }
     },
     {
-      "rank": 26,
+      "rank": 27,
       "model": "flux-2-max",
       "vendor": "Black Forest Labs",
       "license": "proprietary",
       "score": 1262,
       "ci": 3,
-      "votes": 352591,
+      "votes": 353111,
       "extra": {
-        "rank spread": "25 27"
+        "rank spread": "26 28"
       }
     },
     {
-      "rank": 27,
+      "rank": 28,
       "model": "reve-v1.1",
       "vendor": "Reve",
       "license": "proprietary",
       "score": 1261,
       "ci": 3,
-      "votes": 631827,
+      "votes": 632641,
       "extra": {
-        "rank spread": "26 27"
+        "rank spread": "26 28"
       }
     },
     {
-      "rank": 28,
+      "rank": 29,
       "model": "kling-image-o1",
       "vendor": "KlingAI",
       "license": "proprietary",
       "score": 1251,
       "ci": 4,
-      "votes": 135098,
+      "votes": 135275,
       "extra": {
-        "rank spread": "28 28"
-      }
-    },
-    {
-      "rank": 29,
-      "model": "flux-2-pro",
-      "vendor": "Black Forest Labs",
-      "license": "proprietary",
-      "score": 1243,
-      "ci": 3,
-      "votes": 458038,
-      "extra": {
-        "rank spread": "29 30"
+        "rank spread": "29 29"
       }
     },
     {
       "rank": 30,
+      "model": "flux-2-pro",
+      "vendor": "Black Forest Labs",
+      "license": "proprietary",
+      "score": 1244,
+      "ci": 3,
+      "votes": 479952,
+      "extra": {
+        "rank spread": "30 31"
+      }
+    },
+    {
+      "rank": 31,
       "model": "qwen-image-edit",
       "vendor": "Alibaba",
       "license": "open",
       "score": 1241,
       "ci": 3,
-      "votes": 1983250,
+      "votes": 1985167,
       "extra": {
-        "rank spread": "29 31"
+        "rank spread": "30 32"
       }
     },
     {
-      "rank": 31,
+      "rank": 32,
       "model": "qwen-image-edit-2511",
       "vendor": "Alibaba",
       "license": "open",
       "score": 1235,
       "ci": 3,
-      "votes": 424256,
+      "votes": 447575,
       "extra": {
-        "rank spread": "31 33"
+        "rank spread": "32 34"
       }
     },
     {
-      "rank": 32,
+      "rank": 33,
       "model": "reve-v1",
       "vendor": "Reve",
       "license": "proprietary",
       "score": 1234,
       "ci": 5,
-      "votes": 380872,
-      "extra": {
-        "rank spread": "30 33"
-      }
-    },
-    {
-      "rank": 33,
-      "model": "wan2.6-image",
-      "vendor": "Alibaba",
-      "license": "proprietary",
-      "score": 1230,
-      "ci": 3,
-      "votes": 493270,
+      "votes": 381283,
       "extra": {
         "rank spread": "31 34"
       }
     },
     {
       "rank": 34,
+      "model": "wan2.6-image",
+      "vendor": "Alibaba",
+      "license": "proprietary",
+      "score": 1230,
+      "ci": 3,
+      "votes": 515615,
+      "extra": {
+        "rank spread": "32 36"
+      }
+    },
+    {
+      "rank": 35,
       "model": "flux-2-flex",
       "vendor": "Black Forest Labs",
       "license": "proprietary",
       "score": 1225,
       "ci": 3,
-      "votes": 415302,
-      "extra": {
-        "rank spread": "33 36"
-      }
-    },
-    {
-      "rank": 35,
-      "model": "flux-2-klein-9b",
-      "vendor": "Black Forest Labs",
-      "license": "open",
-      "score": 1224,
-      "ci": 3,
-      "votes": 506556,
-      "extra": {
-        "rank spread": "34 36"
-      }
-    },
-    {
-      "rank": 36,
-      "model": "flux-2-dev",
-      "vendor": "Black Forest Labs",
-      "license": "open",
-      "score": 1223,
-      "ci": 4,
-      "votes": 198485,
+      "votes": 415923,
       "extra": {
         "rank spread": "34 37"
       }
     },
     {
+      "rank": 36,
+      "model": "flux-2-klein-9b",
+      "vendor": "Black Forest Labs",
+      "license": "open",
+      "score": 1224,
+      "ci": 3,
+      "votes": 507400,
+      "extra": {
+        "rank spread": "35 37"
+      }
+    },
+    {
       "rank": 37,
+      "model": "flux-2-dev",
+      "vendor": "Black Forest Labs",
+      "license": "open",
+      "score": 1224,
+      "ci": 4,
+      "votes": 209639,
+      "extra": {
+        "rank spread": "34 38"
+      }
+    },
+    {
+      "rank": 38,
       "model": "seedream-4-high-res-fal",
       "vendor": "Bytedance",
       "license": "proprietary",
       "score": 1217,
       "ci": 3,
-      "votes": 1183993,
+      "votes": 1185532,
       "extra": {
-        "rank spread": "36 38"
+        "rank spread": "37 39"
       }
     },
     {
-      "rank": 38,
+      "rank": 39,
       "model": "p-image-edit",
       "vendor": null,
       "license": null,
       "score": 1211,
       "ci": 3,
-      "votes": 336262,
+      "votes": 336860,
       "extra": {
-        "rank spread": "38 40"
+        "rank spread": "39 41"
       }
     },
     {
-      "rank": 39,
+      "rank": 40,
       "model": "seedream-4-fal",
       "vendor": "Bytedance",
       "license": "proprietary",
       "score": 1210,
       "ci": 6,
-      "votes": 153930,
+      "votes": 154008,
       "extra": {
-        "rank spread": "37 40"
+        "rank spread": "38 41"
       }
     },
     {
-      "rank": 40,
+      "rank": 41,
       "model": "reve-v1.1-fast",
       "vendor": "Reve",
       "license": "proprietary",
       "score": 1207,
       "ci": 3,
-      "votes": 521498,
+      "votes": 522135,
       "extra": {
-        "rank spread": "38 40"
+        "rank spread": "39 41"
       }
     },
     {
-      "rank": 41,
+      "rank": 42,
       "model": "reve-edit-fast",
       "vendor": "Reve",
       "license": "proprietary",
       "score": 1198,
       "ci": 4,
-      "votes": 221288,
-      "extra": {
-        "rank spread": "41 41"
-      }
-    },
-    {
-      "rank": 42,
-      "model": "flux-2-klein-4b",
-      "vendor": "Black Forest Labs",
-      "license": "open",
-      "score": 1188,
-      "ci": 3,
-      "votes": 506538,
+      "votes": 221619,
       "extra": {
         "rank spread": "42 42"
       }
     },
     {
       "rank": 43,
-      "model": "flux-1-kontext-max",
+      "model": "flux-2-klein-4b",
       "vendor": "Black Forest Labs",
-      "license": "proprietary",
-      "score": 1181,
+      "license": "open",
+      "score": 1188,
       "ci": 3,
-      "votes": 391591,
+      "votes": 507426,
       "extra": {
-        "rank spread": "43 45"
+        "rank spread": "43 43"
       }
     },
     {
@@ -531,105 +531,117 @@
       "license": "proprietary",
       "score": 1181,
       "ci": 3,
-      "votes": 509077,
+      "votes": 539466,
       "extra": {
-        "rank spread": "43 45"
+        "rank spread": "44 46"
       }
     },
     {
       "rank": 45,
+      "model": "flux-1-kontext-max",
+      "vendor": "Black Forest Labs",
+      "license": "proprietary",
+      "score": 1181,
+      "ci": 3,
+      "votes": 391695,
+      "extra": {
+        "rank spread": "44 46"
+      }
+    },
+    {
+      "rank": 46,
       "model": "flux-1-kontext-pro",
       "vendor": "Black Forest Labs",
       "license": "proprietary",
       "score": 1176,
       "ci": 3,
-      "votes": 6423814,
+      "votes": 6427354,
       "extra": {
-        "rank spread": "43 45"
+        "rank spread": "44 46"
       }
     },
     {
-      "rank": 46,
+      "rank": 47,
       "model": "flux-1-kontext-dev",
       "vendor": "Black Forest Labs",
       "license": "open",
       "score": 1149,
       "ci": 3,
-      "votes": 3651985,
+      "votes": 3653873,
       "extra": {
-        "rank spread": "46 46"
+        "rank spread": "47 47"
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "model": "seededit-3.0",
       "vendor": "Bytedance",
       "license": "proprietary",
       "score": 1139,
       "ci": 3,
-      "votes": 4950063,
+      "votes": 4950888,
       "extra": {
-        "rank spread": "47 48"
+        "rank spread": "48 49"
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "model": "gpt-image-1",
       "vendor": "OpenAI",
       "license": "proprietary",
       "score": 1139,
       "ci": 3,
-      "votes": 2860947,
+      "votes": 2862720,
       "extra": {
-        "rank spread": "47 48"
+        "rank spread": "48 49"
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "model": "gpt-image-1-mini",
       "vendor": "OpenAI",
       "license": "proprietary",
       "score": 1124,
       "ci": 3,
-      "votes": 653023,
-      "extra": {
-        "rank spread": "49 49"
-      }
-    },
-    {
-      "rank": 50,
-      "model": "gemini-2.0-flash-preview-image-generation",
-      "vendor": "Google",
-      "license": "proprietary",
-      "score": 1081,
-      "ci": 2,
-      "votes": 4965522,
+      "votes": 653907,
       "extra": {
         "rank spread": "50 50"
       }
     },
     {
       "rank": 51,
-      "model": "bagel",
-      "vendor": "Bytedance",
-      "license": "open",
-      "score": 1026,
-      "ci": 6,
-      "votes": 13514,
+      "model": "gemini-2.0-flash-preview-image-generation",
+      "vendor": "Google",
+      "license": "proprietary",
+      "score": 1081,
+      "ci": 2,
+      "votes": 4968043,
       "extra": {
         "rank spread": "51 51"
       }
     },
     {
       "rank": 52,
+      "model": "bagel",
+      "vendor": "Bytedance",
+      "license": "open",
+      "score": 1026,
+      "ci": 6,
+      "votes": 13523,
+      "extra": {
+        "rank spread": "52 52"
+      }
+    },
+    {
+      "rank": 53,
       "model": "step1x-edit",
       "vendor": "StepFun",
       "license": "open",
       "score": 998,
       "ci": 4,
-      "votes": 155643,
+      "votes": 155715,
       "extra": {
-        "rank spread": "52 52"
+        "rank spread": "53 53"
       }
     }
   ]
