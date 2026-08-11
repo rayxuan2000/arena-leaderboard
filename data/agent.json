@@ -2,44 +2,44 @@
   "meta": {
     "leaderboard": "agent",
     "source_url": "https://arena.ai/leaderboard/agent",
-    "fetched_at": "2026-08-10T22:59:06.481154+00:00",
-    "last_updated": "Aug 6, 2026",
-    "model_count": 46,
+    "fetched_at": "2026-08-11T23:06:13.541520+00:00",
+    "last_updated": "Aug 11, 2026",
+    "model_count": 47,
     "method": "html"
   },
   "models": [
     {
       "rank": 1,
-      "model": "Claude Opus 5 (High)",
-      "vendor": "Anthropic",
-      "license": "proprietary",
-      "score": null,
-      "ci": null,
-      "votes": 19487,
-      "extra": {
-        "net improvement": "11.99 % ±1.37%",
-        "confirmed success": "16.04 % ±2.79%",
-        "praise vs complaint": "19.46 % ±5.19%",
-        "steerability": "10.29 % ±2.51%",
-        "bash recovery": "13.07 % ±0.78%",
-        "tool hallucination": "1.07 % ±0.16%"
-      }
-    },
-    {
-      "rank": 2,
       "model": "Claude Fable 5 (High)",
       "vendor": "Anthropic",
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 24249,
+      "votes": 24390,
       "extra": {
-        "net improvement": "11.66 % ±2.39%",
-        "confirmed success": "11.47 % ±4.46%",
-        "praise vs complaint": "22.56 % ±8.25%",
-        "steerability": "10.01 % ±4.93%",
-        "bash recovery": "13.10 % ±3.52%",
-        "tool hallucination": "1.16 % ±0.16%"
+        "net improvement": "12.04 % ±2.54%",
+        "confirmed success": "10.77 % ±4.82%",
+        "praise vs complaint": "25.38 % ±8.93%",
+        "steerability": "9.17 % ±5.13%",
+        "bash recovery": "13.72 % ±3.63%",
+        "tool hallucination": "1.18 % ±0.17%"
+      }
+    },
+    {
+      "rank": 2,
+      "model": "Claude Opus 5 (High)",
+      "vendor": "Anthropic",
+      "license": "proprietary",
+      "score": null,
+      "ci": null,
+      "votes": 19643,
+      "extra": {
+        "net improvement": "11.96 % ±1.44%",
+        "confirmed success": "15.21 % ±3.01%",
+        "praise vs complaint": "19.56 % ±5.27%",
+        "steerability": "10.36 % ±2.77%",
+        "bash recovery": "13.60 % ±0.78%",
+        "tool hallucination": "1.09 % ±0.18%"
       }
     },
     {
@@ -49,14 +49,14 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 15227,
+      "votes": 15403,
       "extra": {
-        "net improvement": "11.19 % ±1.62%",
-        "confirmed success": "16.36 % ±3.11%",
-        "praise vs complaint": "19.07 % ±6.03%",
-        "steerability": "5.80 % ±3.10%",
-        "bash recovery": "13.62 % ±0.88%",
-        "tool hallucination": "1.12 % ±0.16%"
+        "net improvement": "11.92 % ±1.70%",
+        "confirmed success": "18.13 % ±3.13%",
+        "praise vs complaint": "19.59 % ±6.25%",
+        "steerability": "6.68 % ±3.35%",
+        "bash recovery": "14.08 % ±0.87%",
+        "tool hallucination": "1.14 % ±0.17%"
       }
     },
     {
@@ -66,14 +66,14 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 17800,
+      "votes": 18050,
       "extra": {
-        "net improvement": "10.28 % ±1.72%",
-        "confirmed success": "9.06 % ±3.48%",
-        "praise vs complaint": "22.70 % ±6.42%",
-        "steerability": "8.42 % ±3.50%",
-        "bash recovery": "10.07 % ±1.23%",
-        "tool hallucination": "1.16 % ±0.16%"
+        "net improvement": "10.72 % ±1.79%",
+        "confirmed success": "9.82 % ±3.65%",
+        "praise vs complaint": "23.28 % ±6.64%",
+        "steerability": "8.88 % ±3.65%",
+        "bash recovery": "10.48 % ±1.24%",
+        "tool hallucination": "1.18 % ±0.17%"
       }
     },
     {
@@ -83,14 +83,14 @@
       "license": null,
       "score": null,
       "ci": null,
-      "votes": 26156,
+      "votes": 28234,
       "extra": {
-        "net improvement": "10.08 % ±1.07%",
-        "confirmed success": "14.97 % ±2.09%",
-        "praise vs complaint": "19.68 % ±3.85%",
-        "steerability": "7.45 % ±1.97%",
-        "bash recovery": "7.13 % ±0.89%",
-        "tool hallucination": "1.16 % ±0.16%"
+        "net improvement": "10.43 % ±1.04%",
+        "confirmed success": "15.32 % ±2.05%",
+        "praise vs complaint": "20.17 % ±3.75%",
+        "steerability": "7.54 % ±1.90%",
+        "bash recovery": "7.92 % ±0.82%",
+        "tool hallucination": "1.18 % ±0.17%"
       }
     },
     {
@@ -100,14 +100,14 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 34962,
+      "votes": 35119,
       "extra": {
-        "net improvement": "9.35 % ±1.70%",
-        "confirmed success": "8.81 % ±2.90%",
-        "praise vs complaint": "21.46 % ±5.38%",
-        "steerability": "8.50 % ±3.08%",
-        "bash recovery": "9.17 % ±2.57%",
-        "tool hallucination": "1.19 % ±2.88%"
+        "net improvement": "9.54 % ±1.76%",
+        "confirmed success": "9.11 % ±3.08%",
+        "praise vs complaint": "22.28 % ±5.65%",
+        "steerability": "8.11 % ±3.27%",
+        "bash recovery": "9.11 % ±2.78%",
+        "tool hallucination": "0.91 % ±2.55%"
       }
     },
     {
@@ -117,14 +117,14 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 46499,
+      "votes": 47433,
       "extra": {
-        "net improvement": "8.45 % ±0.99%",
-        "confirmed success": "5.24 % ±2.08%",
-        "praise vs complaint": "13.56 % ±3.55%",
-        "steerability": "8.19 % ±1.80%",
-        "bash recovery": "14.13 % ±1.19%",
-        "tool hallucination": "1.15 % ±0.16%"
+        "net improvement": "8.70 % ±1.01%",
+        "confirmed success": "4.88 % ±2.16%",
+        "praise vs complaint": "14.15 % ±3.57%",
+        "steerability": "8.95 % ±1.88%",
+        "bash recovery": "14.37 % ±1.20%",
+        "tool hallucination": "1.17 % ±0.17%"
       }
     },
     {
@@ -134,31 +134,31 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 35949,
+      "votes": 36094,
       "extra": {
-        "net improvement": "8.33 % ±1.32%",
-        "confirmed success": "6.65 % ±2.76%",
-        "praise vs complaint": "11.87 % ±4.59%",
-        "steerability": "8.61 % ±2.72%",
-        "bash recovery": "13.47 % ±1.10%",
-        "tool hallucination": "1.04 % ±0.19%"
+        "net improvement": "8.17 % ±1.42%",
+        "confirmed success": "6.68 % ±2.91%",
+        "praise vs complaint": "12.49 % ±4.78%",
+        "steerability": "7.89 % ±2.87%",
+        "bash recovery": "12.74 % ±2.01%",
+        "tool hallucination": "1.07 % ±0.19%"
       }
     },
     {
       "rank": 9,
-      "model": "Claude Sonnet 5 (High)",
-      "vendor": "Anthropic",
+      "model": "GPT 5.5 (High)",
+      "vendor": "OpenAI",
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 25493,
+      "votes": 72704,
       "extra": {
-        "net improvement": "7.46 % ±2.15%",
-        "confirmed success": "5.56 % ±4.29%",
-        "praise vs complaint": "14.80 % ±7.65%",
-        "steerability": "5.14 % ±4.55%",
-        "bash recovery": "10.79 % ±1.56%",
-        "tool hallucination": "1.01 % ±0.17%"
+        "net improvement": "7.63 % ±0.95%",
+        "confirmed success": "3.94 % ±2.02%",
+        "praise vs complaint": "11.44 % ±3.37%",
+        "steerability": "8.68 % ±1.75%",
+        "bash recovery": "12.94 % ±0.95%",
+        "tool hallucination": "1.18 % ±0.17%"
       }
     },
     {
@@ -168,65 +168,65 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 36507,
+      "votes": 36654,
       "extra": {
-        "net improvement": "7.32 % ±1.36%",
-        "confirmed success": "5.55 % ±2.85%",
-        "praise vs complaint": "10.72 % ±4.45%",
-        "steerability": "9.54 % ±2.70%",
-        "bash recovery": "9.69 % ±2.12%",
-        "tool hallucination": "1.10 % ±0.16%"
+        "net improvement": "7.63 % ±1.43%",
+        "confirmed success": "5.46 % ±3.04%",
+        "praise vs complaint": "11.35 % ±4.65%",
+        "steerability": "10.31 % ±2.82%",
+        "bash recovery": "9.93 % ±2.24%",
+        "tool hallucination": "1.12 % ±0.18%"
       }
     },
     {
       "rank": 11,
-      "model": "GPT 5.5 (High)",
-      "vendor": "OpenAI",
+      "model": "Claude Sonnet 5 (High)",
+      "vendor": "Anthropic",
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 71703,
+      "votes": 25682,
       "extra": {
-        "net improvement": "7.27 % ±0.93%",
-        "confirmed success": "3.56 % ±1.95%",
-        "praise vs complaint": "10.25 % ±3.27%",
-        "steerability": "9.09 % ±1.66%",
-        "bash recovery": "12.32 % ±0.99%",
-        "tool hallucination": "1.16 % ±0.16%"
+        "net improvement": "7.37 % ±2.26%",
+        "confirmed success": "3.97 % ±4.63%",
+        "praise vs complaint": "15.30 % ±7.87%",
+        "steerability": "5.72 % ±4.79%",
+        "bash recovery": "10.81 % ±1.76%",
+        "tool hallucination": "1.02 % ±0.18%"
       }
     },
     {
       "rank": 12,
-      "model": "GLM 5.2 (Max)",
-      "vendor": "Z.ai",
-      "license": "open",
-      "score": null,
-      "ci": null,
-      "votes": 50093,
-      "extra": {
-        "net improvement": "6.75 % ±0.90%",
-        "confirmed success": "9.21 % ±1.83%",
-        "praise vs complaint": "12.39 % ±3.21%",
-        "steerability": "5.62 % ±1.59%",
-        "bash recovery": "5.37 % ±1.12%",
-        "tool hallucination": "1.16 % ±0.16%"
-      }
-    },
-    {
-      "rank": 13,
       "model": "Claude Opus 4.6",
       "vendor": "Anthropic",
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 35700,
+      "votes": 35827,
       "extra": {
-        "net improvement": "6.39 % ±1.33%",
-        "confirmed success": "4.23 % ±2.83%",
-        "praise vs complaint": "8.25 % ±4.33%",
-        "steerability": "7.36 % ±2.59%",
-        "bash recovery": "10.95 % ±1.90%",
-        "tool hallucination": "1.16 % ±0.16%"
+        "net improvement": "6.70 % ±1.37%",
+        "confirmed success": "5.04 % ±2.95%",
+        "praise vs complaint": "8.02 % ±4.47%",
+        "steerability": "8.15 % ±2.68%",
+        "bash recovery": "11.10 % ±1.81%",
+        "tool hallucination": "1.18 % ±0.17%"
+      }
+    },
+    {
+      "rank": 13,
+      "model": "GLM 5.2 (Max)",
+      "vendor": "Z.ai",
+      "license": "open",
+      "score": null,
+      "ci": null,
+      "votes": 52849,
+      "extra": {
+        "net improvement": "6.67 % ±0.89%",
+        "confirmed success": "8.43 % ±1.87%",
+        "praise vs complaint": "11.78 % ±3.15%",
+        "steerability": "6.11 % ±1.57%",
+        "bash recovery": "5.85 % ±1.10%",
+        "tool hallucination": "1.18 % ±0.17%"
       }
     },
     {
@@ -236,14 +236,14 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 72848,
+      "votes": 73846,
       "extra": {
-        "net improvement": "5.77 % ±0.87%",
-        "confirmed success": "2.91 % ±1.89%",
-        "praise vs complaint": "7.36 % ±3.04%",
-        "steerability": "6.18 % ±1.59%",
-        "bash recovery": "11.22 % ±0.96%",
-        "tool hallucination": "1.16 % ±0.16%"
+        "net improvement": "6.23 % ±0.90%",
+        "confirmed success": "3.71 % ±1.95%",
+        "praise vs complaint": "7.80 % ±3.10%",
+        "steerability": "7.02 % ±1.68%",
+        "bash recovery": "11.46 % ±0.99%",
+        "tool hallucination": "1.18 % ±0.17%"
       }
     },
     {
@@ -253,14 +253,14 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 27653,
+      "votes": 29457,
       "extra": {
-        "net improvement": "5.57 % ±1.27%",
-        "confirmed success": "5.00 % ±2.82%",
-        "praise vs complaint": "5.29 % ±4.52%",
-        "steerability": "4.82 % ±2.39%",
-        "bash recovery": "11.57 % ±1.09%",
-        "tool hallucination": "1.16 % ±0.16%"
+        "net improvement": "5.73 % ±1.20%",
+        "confirmed success": "5.92 % ±2.70%",
+        "praise vs complaint": "4.37 % ±4.24%",
+        "steerability": "6.43 % ±2.33%",
+        "bash recovery": "10.78 % ±1.25%",
+        "tool hallucination": "1.18 % ±0.17%"
       }
     },
     {
@@ -270,14 +270,14 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 72066,
+      "votes": 73063,
       "extra": {
-        "net improvement": "5.28 % ±0.90%",
-        "confirmed success": "4.87 % ±1.94%",
-        "praise vs complaint": "4.04 % ±3.15%",
-        "steerability": "6.61 % ±1.68%",
-        "bash recovery": "9.71 % ±0.94%",
-        "tool hallucination": "1.16 % ±0.16%"
+        "net improvement": "4.99 % ±0.93%",
+        "confirmed success": "4.71 % ±2.03%",
+        "praise vs complaint": "3.61 % ±3.14%",
+        "steerability": "6.22 % ±1.77%",
+        "bash recovery": "9.22 % ±1.29%",
+        "tool hallucination": "1.18 % ±0.17%"
       }
     },
     {
@@ -287,48 +287,48 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 8431,
+      "votes": 8651,
       "extra": {
-        "net improvement": "4.42 % ±1.79%",
-        "confirmed success": "0.64 % ±3.96%",
-        "praise vs complaint": "7.59 % ±6.32%",
-        "steerability": "1.73 % ±3.68%",
-        "bash recovery": "11.01 % ±1.39%",
-        "tool hallucination": "1.16 % ±0.16%"
+        "net improvement": "4.29 % ±1.87%",
+        "confirmed success": "0.93 % ±4.22%",
+        "praise vs complaint": "8.25 % ±6.45%",
+        "steerability": "1.66 % ±3.80%",
+        "bash recovery": "11.30 % ±1.42%",
+        "tool hallucination": "1.18 % ±0.17%"
       }
     },
     {
       "rank": 18,
+      "model": "Deepseek V4 Flash (High) (20260731)",
+      "vendor": "DeepSeek",
+      "license": "open",
+      "score": null,
+      "ci": null,
+      "votes": 33134,
+      "extra": {
+        "net improvement": "3.93 % ±0.83%",
+        "confirmed success": "9.14 % ±1.96%",
+        "praise vs complaint": "2.39 % ±2.74%",
+        "steerability": "2.83 % ±1.63%",
+        "bash recovery": "4.14 % ±0.71%",
+        "tool hallucination": "1.17 % ±0.17%"
+      }
+    },
+    {
+      "rank": 19,
       "model": "GPT 5.6 Terra (xHigh)",
       "vendor": "OpenAI",
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 12427,
+      "votes": 13760,
       "extra": {
-        "net improvement": "3.06 % ±1.30%",
-        "confirmed success": "2.64 % ±3.18%",
-        "praise vs complaint": "2.68 % ±4.37%",
-        "steerability": "5.04 % ±2.52%",
-        "bash recovery": "9.05 % ±1.20%",
-        "tool hallucination": "1.16 % ±0.16%"
-      }
-    },
-    {
-      "rank": 19,
-      "model": "Claude Opus 4.8",
-      "vendor": "Anthropic",
-      "license": "proprietary",
-      "score": null,
-      "ci": null,
-      "votes": 33005,
-      "extra": {
-        "net improvement": "3.04 % ±2.18%",
-        "confirmed success": "8.78 % ±2.94%",
-        "praise vs complaint": "13.52 % ±5.18%",
-        "steerability": "8.10 % ±3.02%",
-        "bash recovery": "9.80 % ±2.39%",
-        "tool hallucination": "25.02 % ±7.64%"
+        "net improvement": "3.43 % ±1.25%",
+        "confirmed success": "1.26 % ±3.02%",
+        "praise vs complaint": "2.94 % ±4.20%",
+        "steerability": "5.06 % ±2.44%",
+        "bash recovery": "9.26 % ±1.16%",
+        "tool hallucination": "1.18 % ±0.17%"
       }
     },
     {
@@ -338,31 +338,31 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 36461,
+      "votes": 36664,
       "extra": {
-        "net improvement": "3.00 % ±1.33%",
-        "confirmed success": "0.13 % ±2.91%",
-        "praise vs complaint": "1.22 % ±4.02%",
-        "steerability": "2.12 % ±2.56%",
-        "bash recovery": "10.46 % ±2.58%",
-        "tool hallucination": "1.05 % ±0.21%"
+        "net improvement": "2.99 % ±1.38%",
+        "confirmed success": "0.20 % ±3.12%",
+        "praise vs complaint": "0.94 % ±4.12%",
+        "steerability": "2.21 % ±2.66%",
+        "bash recovery": "10.94 % ±2.65%",
+        "tool hallucination": "1.06 % ±0.22%"
       }
     },
     {
       "rank": 21,
-      "model": "Deepseek V4 Flash (High) (20260731)",
-      "vendor": "DeepSeek",
-      "license": "open",
+      "model": "Claude Opus 4.8",
+      "vendor": "Anthropic",
+      "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 18925,
+      "votes": 33158,
       "extra": {
-        "net improvement": "2.84 % ±1.10%",
-        "confirmed success": "8.53 % ±2.54%",
-        "praise vs complaint": "0.46 % ±3.64%",
-        "steerability": "0.43 % ±2.19%",
-        "bash recovery": "3.64 % ±1.01%",
-        "tool hallucination": "1.15 % ±0.16%"
+        "net improvement": "2.50 % ±2.52%",
+        "confirmed success": "8.66 % ±3.13%",
+        "praise vs complaint": "13.79 % ±5.34%",
+        "steerability": "8.21 % ±3.14%",
+        "bash recovery": "10.50 % ±2.25%",
+        "tool hallucination": "28.64 % ±9.74%"
       }
     },
     {
@@ -372,14 +372,14 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 62721,
+      "votes": 70815,
       "extra": {
-        "net improvement": "0.91 % ±0.62%",
-        "confirmed success": "6.14 % ±1.43%",
-        "praise vs complaint": "4.86 % ±1.85%",
-        "steerability": "3.71 % ±1.18%",
-        "bash recovery": "5.89 % ±1.28%",
-        "tool hallucination": "1.11 % ±0.16%"
+        "net improvement": "1.09 % ±0.60%",
+        "confirmed success": "6.72 % ±1.40%",
+        "praise vs complaint": "4.99 % ±1.78%",
+        "steerability": "3.16 % ±1.14%",
+        "bash recovery": "5.74 % ±1.19%",
+        "tool hallucination": "1.14 % ±0.17%"
       }
     },
     {
@@ -389,14 +389,14 @@
       "license": "open",
       "score": null,
       "ci": null,
-      "votes": 10853,
+      "votes": 11005,
       "extra": {
-        "net improvement": "0.69 % ±1.94%",
-        "confirmed success": "4.12 % ±4.08%",
-        "praise vs complaint": "2.36 % ±6.68%",
-        "steerability": "1.92 % ±4.37%",
-        "bash recovery": "2.26 % ±2.64%",
-        "tool hallucination": "1.16 % ±0.16%"
+        "net improvement": "1.03 % ±2.11%",
+        "confirmed success": "4.62 % ±4.45%",
+        "praise vs complaint": "2.95 % ±7.20%",
+        "steerability": "2.04 % ±4.74%",
+        "bash recovery": "1.58 % ±2.58%",
+        "tool hallucination": "1.18 % ±0.17%"
       }
     },
     {
@@ -406,14 +406,14 @@
       "license": "open",
       "score": null,
       "ci": null,
-      "votes": 69327,
+      "votes": 71102,
       "extra": {
-        "net improvement": "0.35 % ±0.77%",
-        "confirmed success": "1.06 % ±1.72%",
-        "praise vs complaint": "0.72 % ±2.50%",
-        "steerability": "0.76 % ±1.40%",
-        "bash recovery": "0.61 % ±1.36%",
-        "tool hallucination": "0.15 % ±0.31%"
+        "net improvement": "0.53 % ±0.80%",
+        "confirmed success": "1.71 % ±1.80%",
+        "praise vs complaint": "0.97 % ±2.54%",
+        "steerability": "1.46 % ±1.45%",
+        "bash recovery": "0.97 % ±1.43%",
+        "tool hallucination": "0.51 % ±0.36%"
       }
     },
     {
@@ -423,14 +423,14 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 27375,
+      "votes": 30149,
       "extra": {
-        "net improvement": "0.16 % ±0.88%",
-        "confirmed success": "0.24 % ±2.11%",
-        "praise vs complaint": "5.07 % ±2.72%",
-        "steerability": "0.21 % ±1.55%",
-        "bash recovery": "4.20 % ±1.49%",
-        "tool hallucination": "0.51 % ±0.26%"
+        "net improvement": "0.01 % ±0.85%",
+        "confirmed success": "0.15 % ±2.10%",
+        "praise vs complaint": "4.90 % ±2.63%",
+        "steerability": "0.20 % ±1.51%",
+        "bash recovery": "4.67 % ±1.38%",
+        "tool hallucination": "0.53 % ±0.26%"
       }
     },
     {
@@ -440,31 +440,31 @@
       "license": "open",
       "score": null,
       "ci": null,
-      "votes": 28084,
+      "votes": 29856,
       "extra": {
-        "net improvement": "0.33 % ±0.86%",
-        "confirmed success": "2.74 % ±2.16%",
-        "praise vs complaint": "3.35 % ±2.78%",
-        "steerability": "0.30 % ±1.54%",
-        "bash recovery": "3.82 % ±0.92%",
+        "net improvement": "0.07 % ±0.86%",
+        "confirmed success": "2.24 % ±2.19%",
+        "praise vs complaint": "3.05 % ±2.75%",
+        "steerability": "0.63 % ±1.58%",
+        "bash recovery": "3.98 % ±0.98%",
         "tool hallucination": "0.33 % ±0.27%"
       }
     },
     {
       "rank": 27,
-      "model": "Kimi K2.6",
-      "vendor": "Moonshot",
-      "license": "open",
+      "model": "Gemini 3.5 Flash (High)",
+      "vendor": "Google",
+      "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 10970,
+      "votes": 93367,
       "extra": {
-        "net improvement": "0.48 % ±2.16%",
-        "confirmed success": "2.28 % ±4.11%",
-        "praise vs complaint": "2.12 % ±6.80%",
-        "steerability": "1.66 % ±4.49%",
-        "bash recovery": "6.27 % ±4.39%",
-        "tool hallucination": "1.16 % ±0.16%"
+        "net improvement": "0.43 % ±0.62%",
+        "confirmed success": "0.49 % ±1.47%",
+        "praise vs complaint": "0.35 % ±1.93%",
+        "steerability": "0.68 % ±1.11%",
+        "bash recovery": "1.89 % ±0.99%",
+        "tool hallucination": "0.28 % ±0.21%"
       }
     },
     {
@@ -474,31 +474,31 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 79360,
+      "votes": 81128,
       "extra": {
-        "net improvement": "0.54 % ±0.71%",
-        "confirmed success": "1.71 % ±1.57%",
-        "praise vs complaint": "2.91 % ±2.23%",
-        "steerability": "2.78 % ±1.23%",
-        "bash recovery": "11.13 % ±1.34%",
-        "tool hallucination": "1.01 % ±0.20%"
+        "net improvement": "0.58 % ±0.73%",
+        "confirmed success": "1.41 % ±1.66%",
+        "praise vs complaint": "3.25 % ±2.28%",
+        "steerability": "3.12 % ±1.26%",
+        "bash recovery": "11.58 % ±1.40%",
+        "tool hallucination": "0.91 % ±0.28%"
       }
     },
     {
       "rank": 29,
-      "model": "Gemini 3.5 Flash (High)",
-      "vendor": "Google",
-      "license": "proprietary",
+      "model": "Kimi K2.6",
+      "vendor": "Moonshot",
+      "license": "open",
       "score": null,
       "ci": null,
-      "votes": 90015,
+      "votes": 11143,
       "extra": {
-        "net improvement": "0.73 % ±0.59%",
-        "confirmed success": "0.24 % ±1.40%",
-        "praise vs complaint": "1.09 % ±1.83%",
-        "steerability": "0.98 % ±1.05%",
-        "bash recovery": "1.98 % ±0.95%",
-        "tool hallucination": "0.16 % ±0.20%"
+        "net improvement": "0.63 % ±2.27%",
+        "confirmed success": "0.71 % ±4.58%",
+        "praise vs complaint": "1.79 % ±7.18%",
+        "steerability": "1.04 % ±4.81%",
+        "bash recovery": "5.80 % ±4.36%",
+        "tool hallucination": "1.18 % ±0.17%"
       }
     },
     {
@@ -508,14 +508,14 @@
       "license": "open",
       "score": null,
       "ci": null,
-      "votes": 14807,
+      "votes": 17737,
       "extra": {
-        "net improvement": "1.12 % ±1.42%",
-        "confirmed success": "2.20 % ±3.04%",
-        "praise vs complaint": "3.70 % ±4.91%",
-        "steerability": "9.01 % ±2.60%",
-        "bash recovery": "2.82 % ±1.82%",
-        "tool hallucination": "0.89 % ±0.63%"
+        "net improvement": "1.30 % ±1.28%",
+        "confirmed success": "2.41 % ±2.82%",
+        "praise vs complaint": "2.27 % ±4.43%",
+        "steerability": "8.52 % ±2.39%",
+        "bash recovery": "3.49 % ±1.61%",
+        "tool hallucination": "1.32 % ±0.72%"
       }
     },
     {
@@ -525,14 +525,14 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 15926,
+      "votes": 16620,
       "extra": {
-        "net improvement": "1.87 % ±1.31%",
-        "confirmed success": "0.07 % ±3.33%",
-        "praise vs complaint": "10.87 % ±3.94%",
-        "steerability": "3.78 % ±2.73%",
-        "bash recovery": "5.29 % ±1.96%",
-        "tool hallucination": "0.07 % ±0.40%"
+        "net improvement": "1.81 % ±1.35%",
+        "confirmed success": "0.96 % ±3.42%",
+        "praise vs complaint": "9.27 % ±4.06%",
+        "steerability": "4.90 % ±2.77%",
+        "bash recovery": "5.89 % ±1.83%",
+        "tool hallucination": "0.19 % ±0.37%"
       }
     },
     {
@@ -542,48 +542,48 @@
       "license": "open",
       "score": null,
       "ci": null,
-      "votes": 27785,
+      "votes": 30755,
       "extra": {
-        "net improvement": "2.42 % ±0.92%",
-        "confirmed success": "3.88 % ±2.24%",
-        "praise vs complaint": "7.27 % ±2.82%",
-        "steerability": "2.19 % ±1.68%",
-        "bash recovery": "1.30 % ±1.45%",
-        "tool hallucination": "0.08 % ±0.35%"
+        "net improvement": "2.21 % ±0.88%",
+        "confirmed success": "3.22 % ±2.19%",
+        "praise vs complaint": "7.10 % ±2.72%",
+        "steerability": "2.37 % ±1.62%",
+        "bash recovery": "1.70 % ±1.38%",
+        "tool hallucination": "0.07 % ±0.34%"
       }
     },
     {
       "rank": 33,
-      "model": "Minimax M3",
-      "vendor": "MiniMax",
-      "license": "open",
-      "score": null,
-      "ci": null,
-      "votes": 27674,
-      "extra": {
-        "net improvement": "2.47 % ±0.85%",
-        "confirmed success": "5.15 % ±2.21%",
-        "praise vs complaint": "9.10 % ±2.65%",
-        "steerability": "4.19 % ±1.64%",
-        "bash recovery": "5.48 % ±0.82%",
-        "tool hallucination": "0.59 % ±0.33%"
-      }
-    },
-    {
-      "rank": 34,
       "model": "DeepSeek V4 Flash",
       "vendor": "DeepSeek",
       "license": "open",
       "score": null,
       "ci": null,
-      "votes": 23569,
+      "votes": 23570,
       "extra": {
-        "net improvement": "2.70 % ±0.88%",
-        "confirmed success": "3.12 % ±2.37%",
-        "praise vs complaint": "10.05 % ±2.68%",
-        "steerability": "1.90 % ±1.67%",
-        "bash recovery": "2.82 % ±0.97%",
-        "tool hallucination": "1.25 % ±0.39%"
+        "net improvement": "2.33 % ±0.90%",
+        "confirmed success": "2.24 % ±2.42%",
+        "praise vs complaint": "9.36 % ±2.72%",
+        "steerability": "1.21 % ±1.68%",
+        "bash recovery": "2.50 % ±1.01%",
+        "tool hallucination": "1.33 % ±0.40%"
+      }
+    },
+    {
+      "rank": 34,
+      "model": "Minimax M3",
+      "vendor": "MiniMax",
+      "license": "open",
+      "score": null,
+      "ci": null,
+      "votes": 30528,
+      "extra": {
+        "net improvement": "2.52 % ±0.84%",
+        "confirmed success": "5.76 % ±2.19%",
+        "praise vs complaint": "8.17 % ±2.60%",
+        "steerability": "4.81 % ±1.59%",
+        "bash recovery": "5.52 % ±0.83%",
+        "tool hallucination": "0.64 % ±0.32%"
       }
     },
     {
@@ -593,14 +593,14 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 9009,
+      "votes": 11781,
       "extra": {
-        "net improvement": "2.73 % ±1.38%",
-        "confirmed success": "1.01 % ±3.37%",
-        "praise vs complaint": "5.99 % ±4.30%",
-        "steerability": "4.56 % ±2.80%",
-        "bash recovery": "3.19 % ±1.82%",
-        "tool hallucination": "1.11 % ±0.18%"
+        "net improvement": "2.75 % ±1.22%",
+        "confirmed success": "0.78 % ±3.00%",
+        "praise vs complaint": "5.56 % ±3.77%",
+        "steerability": "4.95 % ±2.44%",
+        "bash recovery": "3.59 % ±1.63%",
+        "tool hallucination": "1.14 % ±0.18%"
       }
     },
     {
@@ -610,14 +610,14 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 11957,
+      "votes": 12779,
       "extra": {
-        "net improvement": "4.29 % ±1.49%",
-        "confirmed success": "9.94 % ±3.70%",
-        "praise vs complaint": "5.61 % ±4.44%",
-        "steerability": "4.99 % ±2.87%",
-        "bash recovery": "1.19 % ±2.47%",
-        "tool hallucination": "0.30 % ±0.82%"
+        "net improvement": "3.64 % ±1.43%",
+        "confirmed success": "8.19 % ±3.62%",
+        "praise vs complaint": "5.94 % ±4.27%",
+        "steerability": "3.91 % ±2.84%",
+        "bash recovery": "0.60 % ±2.24%",
+        "tool hallucination": "0.44 % ±0.69%"
       }
     },
     {
@@ -627,14 +627,14 @@
       "license": "open",
       "score": null,
       "ci": null,
-      "votes": 32583,
+      "votes": 35265,
       "extra": {
-        "net improvement": "6.60 % ±0.89%",
-        "confirmed success": "11.06 % ±2.48%",
-        "praise vs complaint": "16.01 % ±2.60%",
-        "steerability": "12.57 % ±1.77%",
-        "bash recovery": "6.15 % ±1.08%",
-        "tool hallucination": "0.48 % ±0.24%"
+        "net improvement": "6.71 % ±0.91%",
+        "confirmed success": "12.50 % ±2.56%",
+        "praise vs complaint": "16.18 % ±2.61%",
+        "steerability": "11.81 % ±1.82%",
+        "bash recovery": "6.39 % ±1.06%",
+        "tool hallucination": "0.52 % ±0.27%"
       }
     },
     {
@@ -644,14 +644,14 @@
       "license": "open",
       "score": null,
       "ci": null,
-      "votes": 4844,
+      "votes": 5584,
       "extra": {
-        "net improvement": "6.82 % ±2.16%",
-        "confirmed success": "10.43 % ±5.02%",
-        "praise vs complaint": "8.71 % ±6.47%",
-        "steerability": "11.31 % ±4.31%",
-        "bash recovery": "0.13 % ±2.86%",
-        "tool hallucination": "3.53 % ±2.85%"
+        "net improvement": "6.93 % ±2.00%",
+        "confirmed success": "9.41 % ±4.64%",
+        "praise vs complaint": "9.83 % ±5.76%",
+        "steerability": "11.23 % ±4.08%",
+        "bash recovery": "1.23 % ±3.23%",
+        "tool hallucination": "2.95 % ±2.22%"
       }
     },
     {
@@ -661,48 +661,48 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 60015,
+      "votes": 61936,
       "extra": {
-        "net improvement": "8.30 % ±0.83%",
-        "confirmed success": "9.31 % ±1.74%",
-        "praise vs complaint": "13.95 % ±1.93%",
-        "steerability": "6.51 % ±1.26%",
-        "bash recovery": "12.72 % ±2.73%",
-        "tool hallucination": "1.00 % ±0.16%"
+        "net improvement": "8.47 % ±0.86%",
+        "confirmed success": "9.62 % ±1.83%",
+        "praise vs complaint": "13.68 % ±1.95%",
+        "steerability": "7.04 % ±1.32%",
+        "bash recovery": "13.04 % ±2.85%",
+        "tool hallucination": "1.04 % ±0.17%"
       }
     },
     {
       "rank": 40,
-      "model": "Grok Build 0.1 Space",
-      "vendor": "XAI",
-      "license": "proprietary",
-      "score": null,
-      "ci": null,
-      "votes": 71454,
-      "extra": {
-        "net improvement": "8.82 % ±0.87%",
-        "confirmed success": "5.31 % ±1.80%",
-        "praise vs complaint": "11.12 % ±2.27%",
-        "steerability": "9.95 % ±1.54%",
-        "bash recovery": "18.59 % ±2.55%",
-        "tool hallucination": "0.85 % ±0.16%"
-      }
-    },
-    {
-      "rank": 41,
       "model": "Gemini 3 Flash",
       "vendor": "Google",
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 80624,
+      "votes": 82513,
       "extra": {
-        "net improvement": "8.92 % ±0.76%",
-        "confirmed success": "8.51 % ±1.64%",
-        "praise vs complaint": "11.36 % ±1.85%",
-        "steerability": "4.37 % ±1.20%",
-        "bash recovery": "20.36 % ±2.21%",
-        "tool hallucination": "0.01 % ±0.77%"
+        "net improvement": "8.59 % ±0.78%",
+        "confirmed success": "7.49 % ±1.68%",
+        "praise vs complaint": "10.67 % ±1.90%",
+        "steerability": "3.90 % ±1.25%",
+        "bash recovery": "21.08 % ±2.34%",
+        "tool hallucination": "0.19 % ±0.66%"
+      }
+    },
+    {
+      "rank": 41,
+      "model": "Grok Build 0.1 Space",
+      "vendor": "XAI",
+      "license": "proprietary",
+      "score": null,
+      "ci": null,
+      "votes": 73440,
+      "extra": {
+        "net improvement": "9.04 % ±0.92%",
+        "confirmed success": "5.63 % ±1.89%",
+        "praise vs complaint": "11.02 % ±2.29%",
+        "steerability": "8.75 % ±1.61%",
+        "bash recovery": "20.71 % ±2.78%",
+        "tool hallucination": "0.91 % ±0.17%"
       }
     },
     {
@@ -712,14 +712,14 @@
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 9015,
+      "votes": 10811,
       "extra": {
-        "net improvement": "10.37 % ±1.43%",
-        "confirmed success": "14.10 % ±3.56%",
-        "praise vs complaint": "13.30 % ±3.78%",
-        "steerability": "10.72 % ±2.74%",
-        "bash recovery": "13.31 % ±3.09%",
-        "tool hallucination": "0.45 % ±0.62%"
+        "net improvement": "10.21 % ±1.33%",
+        "confirmed success": "13.86 % ±3.35%",
+        "praise vs complaint": "13.97 % ±3.42%",
+        "steerability": "9.88 % ±2.58%",
+        "bash recovery": "12.97 % ±2.91%",
+        "tool hallucination": "0.39 % ±0.56%"
       }
     },
     {
@@ -729,65 +729,82 @@
       "license": "open",
       "score": null,
       "ci": null,
-      "votes": 27865,
+      "votes": 30672,
       "extra": {
-        "net improvement": "11.59 % ±1.10%",
-        "confirmed success": "13.21 % ±2.52%",
-        "praise vs complaint": "15.89 % ±2.95%",
-        "steerability": "13.41 % ±2.01%",
-        "bash recovery": "16.44 % ±2.91%",
-        "tool hallucination": "1.01 % ±0.19%"
+        "net improvement": "11.13 % ±1.07%",
+        "confirmed success": "11.30 % ±2.48%",
+        "praise vs complaint": "15.12 % ±2.88%",
+        "steerability": "13.47 % ±1.94%",
+        "bash recovery": "16.71 % ±2.83%",
+        "tool hallucination": "0.98 % ±0.22%"
       }
     },
     {
       "rank": 44,
+      "model": "Solar Pro 4",
+      "vendor": "Upstage",
+      "license": "proprietary",
+      "score": null,
+      "ci": null,
+      "votes": 4150,
+      "extra": {
+        "net improvement": "12.10 % ±2.15%",
+        "confirmed success": "7.28 % ±5.74%",
+        "praise vs complaint": "23.39 % ±5.20%",
+        "steerability": "13.59 % ±4.08%",
+        "bash recovery": "16.50 % ±5.38%",
+        "tool hallucination": "0.26 % ±0.66%"
+      }
+    },
+    {
+      "rank": 45,
       "model": "Nemotron 3 Ultra",
       "vendor": "Nvidia",
       "license": null,
       "score": null,
       "ci": null,
-      "votes": 11618,
+      "votes": 11935,
       "extra": {
-        "net improvement": "13.75 % ±2.33%",
-        "confirmed success": "16.20 % ±5.23%",
-        "praise vs complaint": "14.76 % ±6.61%",
-        "steerability": "19.08 % ±4.76%",
-        "bash recovery": "19.00 % ±5.52%",
-        "tool hallucination": "0.30 % ±0.41%"
+        "net improvement": "14.56 % ±2.51%",
+        "confirmed success": "15.84 % ±5.39%",
+        "praise vs complaint": "14.08 % ±6.73%",
+        "steerability": "19.68 % ±4.72%",
+        "bash recovery": "23.68 % ±7.02%",
+        "tool hallucination": "0.47 % ±0.35%"
       }
     },
     {
-      "rank": 45,
+      "rank": 46,
       "model": "Grok 4.3",
       "vendor": "XAI",
       "license": "proprietary",
       "score": null,
       "ci": null,
-      "votes": 79964,
+      "votes": 81914,
       "extra": {
-        "net improvement": "14.86 % ±1.14%",
-        "confirmed success": "11.77 % ±1.67%",
-        "praise vs complaint": "16.19 % ±1.82%",
-        "steerability": "6.44 % ±1.21%",
-        "bash recovery": "40.98 % ±4.91%",
-        "tool hallucination": "1.06 % ±0.16%"
+        "net improvement": "14.61 % ±1.21%",
+        "confirmed success": "10.94 % ±1.74%",
+        "praise vs complaint": "16.12 % ±1.83%",
+        "steerability": "6.02 % ±1.26%",
+        "bash recovery": "41.06 % ±5.23%",
+        "tool hallucination": "1.10 % ±0.17%"
       }
     },
     {
-      "rank": 46,
+      "rank": 47,
       "model": "Gemma 4 31B",
       "vendor": "Google",
       "license": "open",
       "score": null,
       "ci": null,
-      "votes": 56459,
+      "votes": 56552,
       "extra": {
-        "net improvement": "17.60 % ±2.38%",
-        "confirmed success": "0.27 % ±1.93%",
-        "praise vs complaint": "2.90 % ±2.87%",
-        "steerability": "9.16 % ±1.83%",
-        "bash recovery": "44.31 % ±8.51%",
-        "tool hallucination": "31.37 % ±7.31%"
+        "net improvement": "18.23 % ±2.66%",
+        "confirmed success": "0.11 % ±2.04%",
+        "praise vs complaint": "2.56 % ±2.97%",
+        "steerability": "9.25 % ±1.97%",
+        "bash recovery": "48.58 % ±10.09%",
+        "tool hallucination": "30.89 % ±7.60%"
       }
     }
   ]
