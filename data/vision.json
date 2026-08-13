@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "vision",
     "source_url": "https://arena.ai/leaderboard/vision",
-    "fetched_at": "2026-08-12T23:04:05.427608+00:00",
+    "fetched_at": "2026-08-13T23:05:13.110665+00:00",
     "last_updated": "Aug 6, 2026",
     "model_count": 145,
     "method": "html"
@@ -38,7 +38,7 @@
     },
     {
       "rank": 3,
-      "model": "claude-opus-4-7-thinking",
+      "model": "claude-opus-4-7-high",
       "vendor": "Anthropic",
       "license": "proprietary",
       "score": 1301,
@@ -46,13 +46,13 @@
       "votes": 20461,
       "extra": {
         "rank spread": "1 12",
-        "price $/m": "$2.50 / $12.50",
+        "price $/m": "$5 / $25",
         "context": "1M"
       }
     },
     {
       "rank": 4,
-      "model": "claude-opus-4-6-thinking",
+      "model": "claude-opus-4-6-high",
       "vendor": "Anthropic",
       "license": "proprietary",
       "score": 1300,
@@ -60,7 +60,7 @@
       "votes": 20310,
       "extra": {
         "rank spread": "1 13",
-        "price $/m": "$2.50 / $12.50",
+        "price $/m": "$5 / $25",
         "context": "1M"
       }
     },
@@ -74,7 +74,7 @@
       "votes": 20857,
       "extra": {
         "rank spread": "1 17",
-        "price $/m": "$2.50 / $12.50",
+        "price $/m": "$5 / $25",
         "context": "1M"
       }
     },
@@ -94,7 +94,7 @@
     },
     {
       "rank": 7,
-      "model": "gemini-3.6-flash",
+      "model": "gemini-3.6-flash-high",
       "vendor": "Google",
       "license": "proprietary",
       "score": 1295,
@@ -102,7 +102,7 @@
       "votes": 1205,
       "extra": {
         "rank spread": "1 29",
-        "price $/m": "$0.75 / $3.75",
+        "price $/m": "$0.38 / $1.88",
         "context": "1M"
       }
     },
@@ -130,7 +130,7 @@
       "votes": 24609,
       "extra": {
         "rank spread": "2 23",
-        "price $/m": "$2.50 / $12.50",
+        "price $/m": "$5 / $25",
         "context": "1M"
       }
     },
@@ -192,7 +192,7 @@
     },
     {
       "rank": 14,
-      "model": "claude-opus-4-8-thinking",
+      "model": "claude-opus-4-8-high",
       "vendor": "Anthropic",
       "license": "proprietary",
       "score": 1284,
@@ -200,7 +200,7 @@
       "votes": 11131,
       "extra": {
         "rank spread": "4 30",
-        "price $/m": "$2.50 / $12.50",
+        "price $/m": "$5 / $25",
         "context": "1M"
       }
     },
@@ -298,7 +298,7 @@
       "votes": 11571,
       "extra": {
         "rank spread": "6 30",
-        "price $/m": "$2.50 / $12.50",
+        "price $/m": "$5 / $25",
         "context": "1M"
       }
     },

@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "document",
     "source_url": "https://arena.ai/leaderboard/document",
-    "fetched_at": "2026-08-12T23:04:07.434815+00:00",
+    "fetched_at": "2026-08-13T23:05:15.028828+00:00",
     "last_updated": "Jul 26, 2026",
     "model_count": 39,
     "method": "html"
@@ -32,13 +32,13 @@
       "votes": 37271,
       "extra": {
         "rank spread": "1 6",
-        "price $/m": "$2.50 / $12.50",
+        "price $/m": "$5 / $25",
         "context": "1M"
       }
     },
     {
       "rank": 3,
-      "model": "claude-opus-4-6-thinking",
+      "model": "claude-opus-4-6-high",
       "vendor": "Anthropic",
       "license": "proprietary",
       "score": 1506,
@@ -46,7 +46,7 @@
       "votes": 24973,
       "extra": {
         "rank spread": "1 6",
-        "price $/m": "$2.50 / $12.50",
+        "price $/m": "$5 / $25",
         "context": "1M"
       }
     },
@@ -74,13 +74,13 @@
       "votes": 18990,
       "extra": {
         "rank spread": "2 9",
-        "price $/m": "$2.50 / $12.50",
+        "price $/m": "$5 / $25",
         "context": "1M"
       }
     },
     {
       "rank": 6,
-      "model": "claude-opus-4-7-thinking",
+      "model": "claude-opus-4-7-high",
       "vendor": "Anthropic",
       "license": "proprietary",
       "score": 1497,
@@ -88,7 +88,7 @@
       "votes": 18793,
       "extra": {
         "rank spread": "2 9",
-        "price $/m": "$2.50 / $12.50",
+        "price $/m": "$5 / $25",
         "context": "1M"
       }
     },
@@ -164,7 +164,7 @@
     },
     {
       "rank": 12,
-      "model": "claude-opus-4-8-thinking",
+      "model": "claude-opus-4-8-high",
       "vendor": "Anthropic",
       "license": "proprietary",
       "score": 1475,
@@ -172,7 +172,7 @@
       "votes": 8388,
       "extra": {
         "rank spread": "7 20",
-        "price $/m": "$2.50 / $12.50",
+        "price $/m": "$5 / $25",
         "context": "1M"
       }
     },
@@ -228,7 +228,7 @@
       "votes": 8193,
       "extra": {
         "rank spread": "8 22",
-        "price $/m": "$2.50 / $12.50",
+        "price $/m": "$5 / $25",
         "context": "1M"
       }
     },
