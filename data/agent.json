@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "agent",
     "source_url": "https://arena.ai/leaderboard/agent",
-    "fetched_at": "2026-08-14T22:43:13.237301+00:00",
+    "fetched_at": "2026-08-15T22:41:41.917629+00:00",
     "last_updated": "Aug 13, 2026",
     "model_count": 48,
     "method": "html"
@@ -22,7 +22,8 @@
         "praise vs complaint": "19.26 % ±5.29%",
         "steerability": "11.34 % ±2.79%",
         "bash recovery": "13.89 % ±0.79%",
-        "tool hallucination": "1.13 % ±0.19%"
+        "tool hallucination": "1.13 % ±0.19%",
+        "price $/m": "$5 / $25"
       }
     },
     {
@@ -39,7 +40,8 @@
         "praise vs complaint": "25.14 % ±9.01%",
         "steerability": "8.84 % ±5.23%",
         "bash recovery": "14.19 % ±3.71%",
-        "tool hallucination": "1.22 % ±0.19%"
+        "tool hallucination": "1.22 % ±0.19%",
+        "price $/m": "$10 / $50"
       }
     },
     {
@@ -56,7 +58,8 @@
         "praise vs complaint": "19.30 % ±6.26%",
         "steerability": "6.95 % ±3.43%",
         "bash recovery": "14.38 % ±0.88%",
-        "tool hallucination": "1.18 % ±0.19%"
+        "tool hallucination": "1.18 % ±0.19%",
+        "price $/m": "$5 / $25"
       }
     },
     {
@@ -73,7 +76,8 @@
         "praise vs complaint": "23.03 % ±6.72%",
         "steerability": "9.23 % ±3.74%",
         "bash recovery": "10.71 % ±1.27%",
-        "tool hallucination": "1.22 % ±0.19%"
+        "tool hallucination": "1.22 % ±0.19%",
+        "price $/m": "$5 / $30"
       }
     },
     {
@@ -90,7 +94,8 @@
         "praise vs complaint": "20.31 % ±3.78%",
         "steerability": "7.80 % ±1.91%",
         "bash recovery": "8.12 % ±0.83%",
-        "tool hallucination": "1.22 % ±0.19%"
+        "tool hallucination": "1.22 % ±0.19%",
+        "price $/m": "$3 / $15"
       }
     },
     {
@@ -107,7 +112,8 @@
         "praise vs complaint": "22.52 % ±5.71%",
         "steerability": "8.44 % ±3.33%",
         "bash recovery": "9.29 % ±2.89%",
-        "tool hallucination": "0.80 % ±2.47%"
+        "tool hallucination": "0.80 % ±2.47%",
+        "price $/m": "$5 / $25"
       }
     },
     {
@@ -124,7 +130,8 @@
         "praise vs complaint": "14.61 % ±3.62%",
         "steerability": "9.17 % ±1.92%",
         "bash recovery": "14.53 % ±1.25%",
-        "tool hallucination": "1.21 % ±0.19%"
+        "tool hallucination": "1.21 % ±0.19%",
+        "price $/m": "$2.50 / $15"
       }
     },
     {
@@ -141,7 +148,8 @@
         "praise vs complaint": "12.32 % ±4.81%",
         "steerability": "7.72 % ±2.91%",
         "bash recovery": "13.09 % ±2.08%",
-        "tool hallucination": "1.12 % ±0.21%"
+        "tool hallucination": "1.12 % ±0.21%",
+        "price $/m": "$5 / $25"
       }
     },
     {
@@ -158,7 +166,8 @@
         "praise vs complaint": "11.62 % ±3.39%",
         "steerability": "8.59 % ±1.79%",
         "bash recovery": "13.21 % ±0.97%",
-        "tool hallucination": "1.22 % ±0.19%"
+        "tool hallucination": "1.22 % ±0.19%",
+        "price $/m": "$2.50 / $15"
       }
     },
     {
@@ -175,7 +184,8 @@
         "praise vs complaint": "11.57 % ±4.71%",
         "steerability": "9.95 % ±2.87%",
         "bash recovery": "10.15 % ±2.31%",
-        "tool hallucination": "1.17 % ±0.19%"
+        "tool hallucination": "1.17 % ±0.19%",
+        "price $/m": "$5 / $25"
       }
     },
     {
@@ -192,7 +202,8 @@
         "praise vs complaint": "15.08 % ±7.93%",
         "steerability": "5.22 % ±4.88%",
         "bash recovery": "11.21 % ±1.80%",
-        "tool hallucination": "1.07 % ±0.20%"
+        "tool hallucination": "1.07 % ±0.20%",
+        "price $/m": "$1 / $5"
       }
     },
     {
@@ -209,7 +220,8 @@
         "praise vs complaint": "8.21 % ±4.53%",
         "steerability": "8.30 % ±2.73%",
         "bash recovery": "11.46 % ±1.80%",
-        "tool hallucination": "1.22 % ±0.19%"
+        "tool hallucination": "1.22 % ±0.19%",
+        "price $/m": "$5 / $25"
       }
     },
     {
@@ -226,7 +238,8 @@
         "praise vs complaint": "11.60 % ±3.18%",
         "steerability": "6.14 % ±1.58%",
         "bash recovery": "6.33 % ±1.07%",
-        "tool hallucination": "1.22 % ±0.19%"
+        "tool hallucination": "1.22 % ±0.19%",
+        "price $/m": "$1.40 / $4.40"
       }
     },
     {
@@ -243,7 +256,8 @@
         "praise vs complaint": "7.71 % ±3.12%",
         "steerability": "7.36 % ±1.72%",
         "bash recovery": "11.86 % ±1.00%",
-        "tool hallucination": "1.22 % ±0.19%"
+        "tool hallucination": "1.22 % ±0.19%",
+        "price $/m": "$2.50 / $15"
       }
     },
     {
@@ -260,7 +274,8 @@
         "praise vs complaint": "5.04 % ±4.27%",
         "steerability": "7.04 % ±2.29%",
         "bash recovery": "11.22 % ±1.20%",
-        "tool hallucination": "1.22 % ±0.19%"
+        "tool hallucination": "1.22 % ±0.19%",
+        "price $/m": "$2 / $6"
       }
     },
     {
@@ -277,7 +292,8 @@
         "praise vs complaint": "3.82 % ±3.18%",
         "steerability": "6.05 % ±1.81%",
         "bash recovery": "9.55 % ±1.32%",
-        "tool hallucination": "1.22 % ±0.19%"
+        "tool hallucination": "1.22 % ±0.19%",
+        "price $/m": "$2.50 / $15"
       }
     },
     {
@@ -294,7 +310,8 @@
         "praise vs complaint": "8.16 % ±6.50%",
         "steerability": "1.48 % ±3.85%",
         "bash recovery": "11.65 % ±1.45%",
-        "tool hallucination": "1.22 % ±0.19%"
+        "tool hallucination": "1.22 % ±0.19%",
+        "price $/m": "$1 / $6"
       }
     },
     {
@@ -311,7 +328,8 @@
         "praise vs complaint": "2.46 % ±2.71%",
         "steerability": "3.34 % ±1.57%",
         "bash recovery": "4.48 % ±0.69%",
-        "tool hallucination": "1.21 % ±0.19%"
+        "tool hallucination": "1.21 % ±0.19%",
+        "price $/m": "N/A"
       }
     },
     {
@@ -328,7 +346,8 @@
         "praise vs complaint": "3.56 % ±4.22%",
         "steerability": "6.22 % ±2.43%",
         "bash recovery": "9.70 % ±1.15%",
-        "tool hallucination": "1.22 % ±0.19%"
+        "tool hallucination": "1.22 % ±0.19%",
+        "price $/m": "$2.50 / $15"
       }
     },
     {
@@ -345,7 +364,8 @@
         "praise vs complaint": "1.84 % ±4.04%",
         "steerability": "2.83 % ±2.51%",
         "bash recovery": "2.33 % ±1.39%",
-        "tool hallucination": "1.18 % ±0.19%"
+        "tool hallucination": "1.18 % ±0.19%",
+        "price $/m": "$0.75 / $3.57"
       }
     },
     {
@@ -362,7 +382,8 @@
         "praise vs complaint": "1.07 % ±4.17%",
         "steerability": "2.21 % ±2.70%",
         "bash recovery": "11.15 % ±2.72%",
-        "tool hallucination": "1.09 % ±0.24%"
+        "tool hallucination": "1.09 % ±0.24%",
+        "price $/m": "$1.50 / $7.50"
       }
     },
     {
@@ -379,7 +400,8 @@
         "praise vs complaint": "13.67 % ±5.40%",
         "steerability": "8.34 % ±3.22%",
         "bash recovery": "10.86 % ±2.23%",
-        "tool hallucination": "31.01 % ±10.90%"
+        "tool hallucination": "31.01 % ±10.90%",
+        "price $/m": "$5 / $25"
       }
     },
     {
@@ -396,7 +418,8 @@
         "praise vs complaint": "4.95 % ±1.82%",
         "steerability": "3.25 % ±1.15%",
         "bash recovery": "5.59 % ±1.20%",
-        "tool hallucination": "1.19 % ±0.19%"
+        "tool hallucination": "1.19 % ±0.19%",
+        "price $/m": "$1.25 / $4.25"
       }
     },
     {
@@ -413,7 +436,8 @@
         "praise vs complaint": "2.74 % ±7.27%",
         "steerability": "1.76 % ±4.86%",
         "bash recovery": "1.22 % ±2.58%",
-        "tool hallucination": "1.22 % ±0.19%"
+        "tool hallucination": "1.22 % ±0.19%",
+        "price $/m": "$0.47 / $2"
       }
     },
     {
@@ -430,7 +454,8 @@
         "praise vs complaint": "0.84 % ±2.56%",
         "steerability": "1.73 % ±1.48%",
         "bash recovery": "0.91 % ±1.47%",
-        "tool hallucination": "0.53 % ±0.37%"
+        "tool hallucination": "0.53 % ±0.37%",
+        "price $/m": "$1.40 / $4.40"
       }
     },
     {
@@ -447,7 +472,8 @@
         "praise vs complaint": "4.24 % ±2.67%",
         "steerability": "0.03 % ±1.52%",
         "bash recovery": "5.02 % ±1.47%",
-        "tool hallucination": "0.60 % ±0.27%"
+        "tool hallucination": "0.60 % ±0.27%",
+        "price $/m": "N/A"
       }
     },
     {
@@ -464,7 +490,8 @@
         "praise vs complaint": "2.50 % ±2.82%",
         "steerability": "0.59 % ±1.63%",
         "bash recovery": "4.41 % ±0.98%",
-        "tool hallucination": "0.35 % ±0.29%"
+        "tool hallucination": "0.35 % ±0.29%",
+        "price $/m": "$1.74 / $3.48"
       }
     },
     {
@@ -481,7 +508,8 @@
         "praise vs complaint": "0.28 % ±1.99%",
         "steerability": "0.47 % ±1.17%",
         "bash recovery": "1.66 % ±1.00%",
-        "tool hallucination": "0.32 % ±0.22%"
+        "tool hallucination": "0.32 % ±0.22%",
+        "price $/m": "$0.75 / $4.50"
       }
     },
     {
@@ -498,7 +526,8 @@
         "praise vs complaint": "3.65 % ±2.32%",
         "steerability": "3.21 % ±1.32%",
         "bash recovery": "11.48 % ±1.43%",
-        "tool hallucination": "0.93 % ±0.31%"
+        "tool hallucination": "0.93 % ±0.31%",
+        "price $/m": "$1 / $6"
       }
     },
     {
@@ -515,7 +544,8 @@
         "praise vs complaint": "2.05 % ±7.32%",
         "steerability": "1.15 % ±4.96%",
         "bash recovery": "5.46 % ±4.40%",
-        "tool hallucination": "1.22 % ±0.19%"
+        "tool hallucination": "1.22 % ±0.19%",
+        "price $/m": "$0.95 / $4"
       }
     },
     {
@@ -532,7 +562,8 @@
         "praise vs complaint": "1.80 % ±4.39%",
         "steerability": "8.63 % ±2.38%",
         "bash recovery": "4.01 % ±1.56%",
-        "tool hallucination": "1.27 % ±0.71%"
+        "tool hallucination": "1.27 % ±0.71%",
+        "price $/m": "$0.13 / $0.53"
       }
     },
     {
@@ -549,7 +580,8 @@
         "praise vs complaint": "6.62 % ±2.77%",
         "steerability": "1.98 % ±1.63%",
         "bash recovery": "1.57 % ±1.59%",
-        "tool hallucination": "0.01 % ±0.34%"
+        "tool hallucination": "0.01 % ±0.34%",
+        "price $/m": "$0.43 / $0.87"
       }
     },
     {
@@ -566,7 +598,8 @@
         "praise vs complaint": "9.74 % ±4.03%",
         "steerability": "5.57 % ±2.78%",
         "bash recovery": "6.35 % ±1.81%",
-        "tool hallucination": "0.17 % ±0.40%"
+        "tool hallucination": "0.17 % ±0.40%",
+        "price $/m": "$0.32 / $1.28"
       }
     },
     {
@@ -583,7 +616,8 @@
         "praise vs complaint": "9.24 % ±2.73%",
         "steerability": "1.00 % ±1.69%",
         "bash recovery": "2.61 % ±1.02%",
-        "tool hallucination": "1.33 % ±0.42%"
+        "tool hallucination": "1.33 % ±0.42%",
+        "price $/m": "$0.14 / $0.28"
       }
     },
     {
@@ -600,7 +634,8 @@
         "praise vs complaint": "4.12 % ±3.90%",
         "steerability": "4.42 % ±2.38%",
         "bash recovery": "3.57 % ±1.69%",
-        "tool hallucination": "1.18 % ±0.20%"
+        "tool hallucination": "1.18 % ±0.20%",
+        "price $/m": "$0.38 / $1.88"
       }
     },
     {
@@ -617,7 +652,8 @@
         "praise vs complaint": "8.24 % ±2.60%",
         "steerability": "5.14 % ±1.58%",
         "bash recovery": "5.87 % ±0.83%",
-        "tool hallucination": "0.69 % ±0.33%"
+        "tool hallucination": "0.69 % ±0.33%",
+        "price $/m": "$0.60 / $2.40"
       }
     },
     {
@@ -634,7 +670,8 @@
         "praise vs complaint": "5.74 % ±4.26%",
         "steerability": "3.50 % ±2.82%",
         "bash recovery": "0.34 % ±2.26%",
-        "tool hallucination": "0.51 % ±0.67%"
+        "tool hallucination": "0.51 % ±0.67%",
+        "price $/m": "$0.75 / $4.50"
       }
     },
     {
@@ -651,7 +688,8 @@
         "praise vs complaint": "16.70 % ±2.61%",
         "steerability": "11.78 % ±1.86%",
         "bash recovery": "6.79 % ±1.08%",
-        "tool hallucination": "0.56 % ±0.27%"
+        "tool hallucination": "0.56 % ±0.27%",
+        "price $/m": "$0.50 / $2.02"
       }
     },
     {
@@ -668,7 +706,8 @@
         "praise vs complaint": "9.83 % ±5.70%",
         "steerability": "11.01 % ±4.03%",
         "bash recovery": "1.69 % ±3.56%",
-        "tool hallucination": "2.87 % ±2.12%"
+        "tool hallucination": "2.87 % ±2.12%",
+        "price $/m": "$1.50 / $7.50"
       }
     },
     {
@@ -685,7 +724,8 @@
         "praise vs complaint": "13.27 % ±2.02%",
         "steerability": "7.20 % ±1.37%",
         "bash recovery": "13.25 % ±2.98%",
-        "tool hallucination": "1.09 % ±0.19%"
+        "tool hallucination": "1.09 % ±0.19%",
+        "price $/m": "$1.25 / $2.50"
       }
     },
     {
@@ -702,7 +742,8 @@
         "praise vs complaint": "10.22 % ±1.95%",
         "steerability": "3.43 % ±1.29%",
         "bash recovery": "21.02 % ±2.39%",
-        "tool hallucination": "0.65 % ±1.86%"
+        "tool hallucination": "0.65 % ±1.86%",
+        "price $/m": "$0.50 / $3"
       }
     },
     {
@@ -719,7 +760,8 @@
         "praise vs complaint": "11.02 % ±2.32%",
         "steerability": "8.61 % ±1.68%",
         "bash recovery": "21.44 % ±2.91%",
-        "tool hallucination": "0.96 % ±0.19%"
+        "tool hallucination": "0.96 % ±0.19%",
+        "price $/m": "N/A"
       }
     },
     {
@@ -736,7 +778,8 @@
         "praise vs complaint": "15.67 % ±6.83%",
         "steerability": "13.32 % ±4.02%",
         "bash recovery": "13.56 % ±4.52%",
-        "tool hallucination": "0.51 % ±0.53%"
+        "tool hallucination": "0.51 % ±0.53%",
+        "price $/m": "$0.03 / $0.12"
       }
     },
     {
@@ -753,7 +796,8 @@
         "praise vs complaint": "13.51 % ±3.03%",
         "steerability": "10.28 % ±2.25%",
         "bash recovery": "15.08 % ±2.74%",
-        "tool hallucination": "0.28 % ±0.50%"
+        "tool hallucination": "0.28 % ±0.50%",
+        "price $/m": "$0.15 / $1.25"
       }
     },
     {
@@ -770,7 +814,8 @@
         "praise vs complaint": "15.51 % ±2.87%",
         "steerability": "13.67 % ±1.96%",
         "bash recovery": "16.82 % ±2.89%",
-        "tool hallucination": "1.03 % ±0.23%"
+        "tool hallucination": "1.03 % ±0.23%",
+        "price $/m": "$0.30 / $1.20"
       }
     },
     {
@@ -787,7 +832,8 @@
         "praise vs complaint": "14.33 % ±6.73%",
         "steerability": "19.91 % ±4.74%",
         "bash recovery": "24.09 % ±7.19%",
-        "tool hallucination": "0.54 % ±0.35%"
+        "tool hallucination": "0.54 % ±0.35%",
+        "price $/m": "N/A"
       }
     },
     {
@@ -804,7 +850,8 @@
         "praise vs complaint": "16.23 % ±1.84%",
         "steerability": "5.65 % ±1.30%",
         "bash recovery": "41.77 % ±5.52%",
-        "tool hallucination": "1.14 % ±0.19%"
+        "tool hallucination": "1.14 % ±0.19%",
+        "price $/m": "$1.25 / $2.50"
       }
     },
     {
@@ -821,7 +868,8 @@
         "praise vs complaint": "2.58 % ±3.00%",
         "steerability": "9.36 % ±2.05%",
         "bash recovery": "51.50 % ±11.13%",
-        "tool hallucination": "31.21 % ±7.86%"
+        "tool hallucination": "31.21 % ±7.86%",
+        "price $/m": "$0.14 / $0.40"
       }
     }
   ]
