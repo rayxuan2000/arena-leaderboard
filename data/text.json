@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "text",
     "source_url": "https://arena.ai/leaderboard/text",
-    "fetched_at": "2026-08-16T22:39:50.282727+00:00",
+    "fetched_at": "2026-08-17T22:43:59.650983+00:00",
     "last_updated": "Aug 12, 2026",
     "model_count": 391,
     "method": "html"
@@ -564,7 +564,7 @@
       "votes": 21505,
       "extra": {
         "rank spread": "24 54",
-        "price $/m": "N/A",
+        "price $/m": "$1.20 / $6",
         "context": "N/A"
       }
     },
@@ -718,7 +718,7 @@
       "votes": 54397,
       "extra": {
         "rank spread": "41 62",
-        "price $/m": "$1.17 / $2.34",
+        "price $/m": "$1.32 / $3.96",
         "context": "1M"
       }
     },
@@ -802,7 +802,7 @@
       "votes": 51759,
       "extra": {
         "rank spread": "43 67",
-        "price $/m": "$1.17 / $2.34",
+        "price $/m": "$1.32 / $3.96",
         "context": "1M"
       }
     },
@@ -1138,7 +1138,7 @@
       "votes": 48807,
       "extra": {
         "rank spread": "71 95",
-        "price $/m": "$0.14 / $0.28",
+        "price $/m": "$0.44 / $1.32",
         "context": "1M"
       }
     },
@@ -1194,7 +1194,7 @@
       "votes": 49112,
       "extra": {
         "rank spread": "72 100",
-        "price $/m": "$0.14 / $0.28",
+        "price $/m": "$0.44 / $1.32",
         "context": "1M"
       }
     },
@@ -1460,7 +1460,7 @@
       "votes": 35848,
       "extra": {
         "rank spread": "90 120",
-        "price $/m": "$0.55 / $2.20",
+        "price $/m": "$0.50 / $2",
         "context": "204.8K"
       }
     },
@@ -1600,7 +1600,7 @@
       "votes": 3464,
       "extra": {
         "rank spread": "91 134",
-        "price $/m": "$0.27 / $0.95",
+        "price $/m": "$0.27 / $1",
         "context": "163.8K"
       }
     },
@@ -1698,7 +1698,7 @@
       "votes": 3701,
       "extra": {
         "rank spread": "95 141",
-        "price $/m": "$0.27 / $0.95",
+        "price $/m": "$0.27 / $1",
         "context": "163.8K"
       }
     },
@@ -1712,7 +1712,7 @@
       "votes": 11561,
       "extra": {
         "rank spread": "98 134",
-        "price $/m": "$0.26 / $1.04",
+        "price $/m": "$0.21 / $1.90",
         "context": "262.1K"
       }
     },
