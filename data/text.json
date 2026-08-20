@@ -2,9 +2,9 @@
   "meta": {
     "leaderboard": "text",
     "source_url": "https://arena.ai/leaderboard/text",
-    "fetched_at": "2026-08-19T22:44:49.193854+00:00",
+    "fetched_at": "2026-08-20T22:47:36.857866+00:00",
     "last_updated": "Aug 19, 2026",
-    "model_count": 394,
+    "model_count": 393,
     "method": "html"
   },
   "models": [
@@ -1895,7 +1895,7 @@
       "extra": {
         "rank spread": "116 151",
         "price $/m": "$0.45 / $1.20",
-        "context": "524.3K"
+        "context": "1M"
       }
     },
     {
@@ -5508,20 +5508,6 @@
         "rank spread": "392 393",
         "price $/m": "N/A",
         "context": "N/A"
-      }
-    },
-    {
-      "rank": null,
-      "model": "deepseek-v4-pro-max-20260813",
-      "vendor": "DeepSeek",
-      "license": "open",
-      "score": 1465,
-      "ci": 10,
-      "votes": null,
-      "extra": {
-        "rank spread": "N/A",
-        "price $/m": "$1.32 / $3.96",
-        "context": "1M"
       }
     }
   ]
