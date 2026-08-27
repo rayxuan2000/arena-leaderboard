@@ -2,9 +2,9 @@
   "meta": {
     "leaderboard": "code",
     "source_url": "https://arena.ai/leaderboard/code",
-    "fetched_at": "2026-08-25T22:47:54.219500+00:00",
+    "fetched_at": "2026-08-27T03:21:41.476603+00:00",
     "last_updated": "Aug 21, 2026",
-    "model_count": 118,
+    "model_count": 120,
     "method": "html"
   },
   "models": [
@@ -298,7 +298,7 @@
       "votes": 6464,
       "extra": {
         "rank spread": "18 25",
-        "price $/m": "$0.38 / $1.88",
+        "price $/m": "$0.75 / $3.75",
         "context": "1M"
       }
     },
@@ -830,7 +830,7 @@
       "votes": 3037,
       "extra": {
         "rank spread": "49 69",
-        "price $/m": "$0.63 / $5",
+        "price $/m": "$1.25 / $10",
         "context": "400K"
       }
     },
@@ -1658,6 +1658,34 @@
         "rank spread": "118 118",
         "price $/m": "$0.40 / $2",
         "context": "128K"
+      }
+    },
+    {
+      "rank": null,
+      "model": "glm-5.3-flash",
+      "vendor": "Z.ai",
+      "license": "open",
+      "score": 1634,
+      "ci": 18,
+      "votes": null,
+      "extra": {
+        "rank spread": "N/A",
+        "price $/m": "$0.15 / $0.50",
+        "context": "1M"
+      }
+    },
+    {
+      "rank": null,
+      "model": "qwen3.8-flash-next",
+      "vendor": "Alibaba",
+      "license": "open",
+      "score": 1617,
+      "ci": 15,
+      "votes": null,
+      "extra": {
+        "rank spread": "N/A",
+        "price $/m": "$0.16 / $0.47",
+        "context": "1M"
       }
     }
   ]
