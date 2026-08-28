@@ -2,46 +2,46 @@
   "meta": {
     "leaderboard": "video-edit",
     "source_url": "https://arena.ai/leaderboard/video-edit",
-    "fetched_at": "2026-08-27T03:21:59.891306+00:00",
-    "last_updated": "Aug 14, 2026",
-    "model_count": 9,
+    "fetched_at": "2026-08-28T06:10:20.240196+00:00",
+    "last_updated": "Aug 26, 2026",
+    "model_count": 10,
     "method": "html"
   },
   "models": [
     {
       "rank": 1,
-      "model": "dreamina-seedance-2.5-720p",
-      "vendor": "Bytedance",
+      "model": "wan3.0",
+      "vendor": "Alibaba",
       "license": "proprietary",
-      "score": 1411,
-      "ci": 27,
-      "votes": 403,
+      "score": 1414,
+      "ci": 26,
+      "votes": 463,
       "extra": {
-        "rank spread": "1 2"
+        "rank spread": "1 3"
       }
     },
     {
       "rank": 2,
-      "model": "minimax-h3",
-      "vendor": "MiniMax",
-      "license": "open",
-      "score": 1388,
-      "ci": 24,
-      "votes": 554,
+      "model": "dreamina-seedance-2.5-720p",
+      "vendor": "Bytedance",
+      "license": "proprietary",
+      "score": 1410,
+      "ci": 26,
+      "votes": 429,
       "extra": {
-        "rank spread": "1 4"
+        "rank spread": "1 3"
       }
     },
     {
       "rank": 3,
-      "model": "dreamina-seedance-2.0-720p",
-      "vendor": "Bytedance",
-      "license": "proprietary",
-      "score": 1359,
-      "ci": 14,
-      "votes": 3634,
+      "model": "minimax-h3",
+      "vendor": "MiniMax",
+      "license": "open",
+      "score": 1392,
+      "ci": 19,
+      "votes": 962,
       "extra": {
-        "rank spread": "2 4"
+        "rank spread": "1 5"
       }
     },
     {
@@ -49,71 +49,83 @@
       "model": "gemini-omni-flash",
       "vendor": "Google",
       "license": "proprietary",
-      "score": 1358,
+      "score": 1367,
       "ci": 15,
-      "votes": 1868,
+      "votes": 2109,
       "extra": {
-        "rank spread": "2 4"
+        "rank spread": "3 5"
       }
     },
     {
       "rank": 5,
-      "model": "happyhorse-1.0",
-      "vendor": "Alibaba-ATH",
+      "model": "dreamina-seedance-2.0-720p",
+      "vendor": "Bytedance",
       "license": "proprietary",
-      "score": 1307,
-      "ci": 13,
-      "votes": 3115,
+      "score": 1365,
+      "ci": 14,
+      "votes": 3852,
       "extra": {
-        "rank spread": "5 5"
+        "rank spread": "3 5"
       }
     },
     {
       "rank": 6,
-      "model": "grok-imagine-video",
-      "vendor": "XAI",
+      "model": "happyhorse-1.0",
+      "vendor": "Alibaba-ATH",
       "license": "proprietary",
-      "score": 1262,
-      "ci": 10,
-      "votes": 13281,
+      "score": 1307,
+      "ci": 14,
+      "votes": 3116,
       "extra": {
-        "rank spread": "6 7"
+        "rank spread": "6 6"
       }
     },
     {
       "rank": 7,
-      "model": "kling-o3-pro",
-      "vendor": "KlingAI",
+      "model": "grok-imagine-video",
+      "vendor": "XAI",
       "license": "proprietary",
-      "score": 1257,
-      "ci": 12,
-      "votes": 7125,
+      "score": 1258,
+      "ci": 10,
+      "votes": 13724,
       "extra": {
-        "rank spread": "6 7"
+        "rank spread": "7 8"
       }
     },
     {
       "rank": 8,
-      "model": "kling-o1-pro",
+      "model": "kling-o3-pro",
       "vendor": "KlingAI",
       "license": "proprietary",
-      "score": 1200,
-      "ci": 10,
-      "votes": 10104,
+      "score": 1255,
+      "ci": 11,
+      "votes": 7540,
       "extra": {
-        "rank spread": "8 9"
+        "rank spread": "7 8"
       }
     },
     {
       "rank": 9,
+      "model": "kling-o1-pro",
+      "vendor": "KlingAI",
+      "license": "proprietary",
+      "score": 1197,
+      "ci": 10,
+      "votes": 10542,
+      "extra": {
+        "rank spread": "9 10"
+      }
+    },
+    {
+      "rank": 10,
       "model": "runway-gen4-aleph",
       "vendor": "Runway",
       "license": "proprietary",
-      "score": 1183,
-      "ci": 8,
-      "votes": 9817,
+      "score": 1182,
+      "ci": 9,
+      "votes": 9818,
       "extra": {
-        "rank spread": "8 9"
+        "rank spread": "9 10"
       }
     }
   ]
