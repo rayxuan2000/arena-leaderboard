@@ -2,9 +2,9 @@
   "meta": {
     "leaderboard": "code",
     "source_url": "https://arena.ai/leaderboard/code",
-    "fetched_at": "2026-08-28T06:10:02.692353+00:00",
+    "fetched_at": "2026-08-29T03:44:40.974317+00:00",
     "last_updated": "Aug 21, 2026",
-    "model_count": 120,
+    "model_count": 121,
     "method": "html"
   },
   "models": [
@@ -900,8 +900,8 @@
       "votes": 3806,
       "extra": {
         "rank spread": "58 75",
-        "price $/m": "$0.45 / $1.20",
-        "context": "1M"
+        "price $/m": "$0.50 / $1.20",
+        "context": "524.3K"
       }
     },
     {
@@ -1180,7 +1180,7 @@
       "votes": 7862,
       "extra": {
         "rank spread": "78 89",
-        "price $/m": "$0.26 / $2.08",
+        "price $/m": "$0.29 / $2.40",
         "context": "262.1K"
       }
     },
@@ -1432,7 +1432,7 @@
       "votes": 2154,
       "extra": {
         "rank spread": "99 110",
-        "price $/m": "$1.50 / $7.50",
+        "price $/m": "$0.75 / $3.75",
         "context": "262.1K"
       }
     },
@@ -1671,6 +1671,20 @@
       "extra": {
         "rank spread": "N/A",
         "price $/m": "$0.15 / $0.50",
+        "context": "1M"
+      }
+    },
+    {
+      "rank": null,
+      "model": "hy4-preview",
+      "vendor": "Tencent",
+      "license": "open",
+      "score": 1633,
+      "ci": 17,
+      "votes": null,
+      "extra": {
+        "rank spread": "N/A",
+        "price $/m": "$0.83 / $2.50",
         "context": "1M"
       }
     },
