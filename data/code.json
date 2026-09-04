@@ -2,9 +2,9 @@
   "meta": {
     "leaderboard": "code",
     "source_url": "https://arena.ai/leaderboard/code",
-    "fetched_at": "2026-09-03T00:19:59.843554+00:00",
+    "fetched_at": "2026-09-04T00:08:59.017626+00:00",
     "last_updated": "Sep 2, 2026",
-    "model_count": 124,
+    "model_count": 125,
     "method": "html"
   },
   "models": [
@@ -1026,7 +1026,7 @@
       "votes": 19563,
       "extra": {
         "rank spread": "65 79",
-        "price $/m": "$0.39 / $2.34",
+        "price $/m": "$0.55 / $3.50",
         "context": "262.1K"
       }
     },
@@ -1348,7 +1348,7 @@
       "votes": 6599,
       "extra": {
         "rank spread": "87 102",
-        "price $/m": "$0.43 / $1.75",
+        "price $/m": "$0.55 / $2.20",
         "context": "204.8K"
       }
     },
@@ -1742,6 +1742,20 @@
         "rank spread": "124 124",
         "price $/m": "$0.40 / $2",
         "context": "128K"
+      }
+    },
+    {
+      "rank": null,
+      "model": "muse-spark-1.3-xhigh",
+      "vendor": "Meta",
+      "license": "proprietary",
+      "score": 1623,
+      "ci": 17,
+      "votes": null,
+      "extra": {
+        "rank spread": "N/A",
+        "price $/m": "$1.25 / $4.25",
+        "context": "1M"
       }
     }
   ]
