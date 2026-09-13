@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "agent",
     "source_url": "https://arena.ai/leaderboard/agent",
-    "fetched_at": "2026-09-12T00:21:48.740945+00:00",
+    "fetched_at": "2026-09-13T00:02:18.612253+00:00",
     "last_updated": "Sep 9, 2026",
     "model_count": 43,
     "method": "html"
@@ -23,8 +23,8 @@
         "steerability": "0.91 % ±3.86%",
         "bash recovery": "11.07 % ±1.00%",
         "tool hallucination": "0.37 % ±0.04%",
-        "cost/task (p50)": "$4.46",
-        "output tokens/task (p50)": "55.1K",
+        "cost/task (p50)": "$4.50",
+        "output tokens/task (p50)": "55.2K",
         "price $/m": "$10 / $50"
       }
     },
@@ -44,7 +44,7 @@
         "bash recovery": "5.71 % ±1.27%",
         "tool hallucination": "0.38 % ±0.04%",
         "cost/task (p50)": "$4.08",
-        "output tokens/task (p50)": "33.4K",
+        "output tokens/task (p50)": "33.5K",
         "price $/m": "$10 / $50"
       }
     },
@@ -63,8 +63,8 @@
         "steerability": "12.77 % ±3.30%",
         "bash recovery": "12.56 % ±0.74%",
         "tool hallucination": "0.34 % ±0.04%",
-        "cost/task (p50)": "$2.45",
-        "output tokens/task (p50)": "30.7K",
+        "cost/task (p50)": "$2.39",
+        "output tokens/task (p50)": "30.2K",
         "price $/m": "$5 / $25"
       }
     },
@@ -83,8 +83,8 @@
         "steerability": "9.57 % ±3.72%",
         "bash recovery": "13.10 % ±0.79%",
         "tool hallucination": "0.36 % ±0.04%",
-        "cost/task (p50)": "$3.57",
-        "output tokens/task (p50)": "48.3K",
+        "cost/task (p50)": "$3.50",
+        "output tokens/task (p50)": "47.6K",
         "price $/m": "$5 / $25"
       }
     },
@@ -103,8 +103,8 @@
         "steerability": "11.20 % ±2.59%",
         "bash recovery": "8.96 % ±1.49%",
         "tool hallucination": "0.38 % ±0.04%",
-        "cost/task (p50)": "$2.30",
-        "output tokens/task (p50)": "16.3K",
+        "cost/task (p50)": "$2.24",
+        "output tokens/task (p50)": "15.8K",
         "price $/m": "$10 / $50"
       }
     },
@@ -123,8 +123,8 @@
         "steerability": "11.34 % ±2.65%",
         "bash recovery": "7.38 % ±1.59%",
         "tool hallucination": "0.35 % ±0.56%",
-        "cost/task (p50)": "$1.44",
-        "output tokens/task (p50)": "16.8K",
+        "cost/task (p50)": "$1.41",
+        "output tokens/task (p50)": "16.7K",
         "price $/m": "$5 / $25"
       }
     },
@@ -143,8 +143,8 @@
         "steerability": "8.58 % ±2.75%",
         "bash recovery": "4.73 % ±0.95%",
         "tool hallucination": "0.38 % ±0.04%",
-        "cost/task (p50)": "$1.18",
-        "output tokens/task (p50)": "18.8K",
+        "cost/task (p50)": "$1.12",
+        "output tokens/task (p50)": "18.6K",
         "price $/m": "$4 / $20"
       }
     },
@@ -163,8 +163,8 @@
         "steerability": "0.02 % ±1.39%",
         "bash recovery": "4.29 % ±0.56%",
         "tool hallucination": "0.38 % ±0.04%",
-        "cost/task (p50)": "$0.81",
-        "output tokens/task (p50)": "25.3K",
+        "cost/task (p50)": "$0.80",
+        "output tokens/task (p50)": "25.2K",
         "price $/m": "$3 / $15"
       }
     },
@@ -183,8 +183,8 @@
         "steerability": "9.40 % ±3.91%",
         "bash recovery": "8.09 % ±1.18%",
         "tool hallucination": "0.22 % ±0.10%",
-        "cost/task (p50)": "$0.88",
-        "output tokens/task (p50)": "22.8K",
+        "cost/task (p50)": "$0.86",
+        "output tokens/task (p50)": "22K",
         "price $/m": "$2 / $10"
       }
     },
@@ -203,8 +203,8 @@
         "steerability": "2.65 % ±2.83%",
         "bash recovery": "7.24 % ±0.67%",
         "tool hallucination": "0.25 % ±0.07%",
-        "cost/task (p50)": "$0.24",
-        "output tokens/task (p50)": "32.7K",
+        "cost/task (p50)": "$0.23",
+        "output tokens/task (p50)": "32.1K",
         "price $/m": "$0.83 / $2.50"
       }
     },
@@ -223,8 +223,8 @@
         "steerability": "7.12 % ±2.06%",
         "bash recovery": "9.98 % ±1.19%",
         "tool hallucination": "0.38 % ±0.04%",
-        "cost/task (p50)": "$1.07",
-        "output tokens/task (p50)": "17.5K",
+        "cost/task (p50)": "$1.05",
+        "output tokens/task (p50)": "17.1K",
         "price $/m": "$5 / $30"
       }
     },
@@ -243,8 +243,8 @@
         "steerability": "3.16 % ±1.36%",
         "bash recovery": "0.46 % ±0.85%",
         "tool hallucination": "0.38 % ±0.04%",
-        "cost/task (p50)": "$0.65",
-        "output tokens/task (p50)": "42.5K",
+        "cost/task (p50)": "$0.64",
+        "output tokens/task (p50)": "42.8K",
         "price $/m": "$1.40 / $4.40"
       }
     },
@@ -284,7 +284,7 @@
         "bash recovery": "5.20 % ±0.72%",
         "tool hallucination": "0.38 % ±0.04%",
         "cost/task (p50)": "$0.23",
-        "output tokens/task (p50)": "32.3K",
+        "output tokens/task (p50)": "32.5K",
         "price $/m": "N/A"
       }
     },
@@ -303,8 +303,8 @@
         "steerability": "2.60 % ±2.10%",
         "bash recovery": "3.53 % ±1.00%",
         "tool hallucination": "0.95 % ±0.25%",
-        "cost/task (p50)": "$0.45",
-        "output tokens/task (p50)": "24.8K",
+        "cost/task (p50)": "$0.48",
+        "output tokens/task (p50)": "26K",
         "price $/m": "$2 / $6"
       }
     },
@@ -323,8 +323,8 @@
         "steerability": "3.37 % ±5.19%",
         "bash recovery": "0.43 % ±1.15%",
         "tool hallucination": "0.30 % ±0.09%",
-        "cost/task (p50)": "$0.36",
-        "output tokens/task (p50)": "31.3K",
+        "cost/task (p50)": "N/A",
+        "output tokens/task (p50)": "N/A",
         "price $/m": "$0.75 / $3.75"
       }
     },
@@ -344,7 +344,7 @@
         "bash recovery": "6.21 % ±1.39%",
         "tool hallucination": "0.38 % ±0.04%",
         "cost/task (p50)": "$0.50",
-        "output tokens/task (p50)": "12.9K",
+        "output tokens/task (p50)": "13.4K",
         "price $/m": "$2 / $6"
       }
     },
@@ -363,8 +363,8 @@
         "steerability": "2.42 % ±2.33%",
         "bash recovery": "5.48 % ±0.97%",
         "tool hallucination": "0.38 % ±0.04%",
-        "cost/task (p50)": "$0.93",
-        "output tokens/task (p50)": "23.7K",
+        "cost/task (p50)": "$0.91",
+        "output tokens/task (p50)": "23.5K",
         "price $/m": "N/A"
       }
     },
@@ -383,7 +383,7 @@
         "steerability": "3.56 % ±1.69%",
         "bash recovery": "6.43 % ±1.17%",
         "tool hallucination": "0.38 % ±0.04%",
-        "cost/task (p50)": "$0.56",
+        "cost/task (p50)": "$0.55",
         "output tokens/task (p50)": "9K",
         "price $/m": "$5 / $30"
       }
@@ -403,8 +403,8 @@
         "steerability": "0.88 % ±1.28%",
         "bash recovery": "2.90 % ±0.68%",
         "tool hallucination": "0.38 % ±0.04%",
-        "cost/task (p50)": "$0.50",
-        "output tokens/task (p50)": "32.5K",
+        "cost/task (p50)": "$0.51",
+        "output tokens/task (p50)": "33.7K",
         "price $/m": "$1.40 / $4.40"
       }
     },
@@ -424,7 +424,7 @@
         "bash recovery": "0.93 % ±0.60%",
         "tool hallucination": "0.35 % ±0.05%",
         "cost/task (p50)": "$0.16",
-        "output tokens/task (p50)": "42K",
+        "output tokens/task (p50)": "42.2K",
         "price $/m": "N/A"
       }
     },
@@ -443,8 +443,8 @@
         "steerability": "1.06 % ±1.80%",
         "bash recovery": "5.37 % ±0.86%",
         "tool hallucination": "0.38 % ±0.04%",
-        "cost/task (p50)": "$0.11",
-        "output tokens/task (p50)": "33.2K",
+        "cost/task (p50)": "$0.10",
+        "output tokens/task (p50)": "32.9K",
         "price $/m": "$0.07 / $0.25"
       }
     },
@@ -463,8 +463,8 @@
         "steerability": "3.40 % ±1.81%",
         "bash recovery": "4.97 % ±0.91%",
         "tool hallucination": "0.38 % ±0.04%",
-        "cost/task (p50)": "$0.61",
-        "output tokens/task (p50)": "17.5K",
+        "cost/task (p50)": "$0.60",
+        "output tokens/task (p50)": "17.3K",
         "price $/m": "$2.50 / $15"
       }
     },
@@ -504,7 +504,7 @@
         "bash recovery": "3.51 % ±1.17%",
         "tool hallucination": "0.38 % ±0.04%",
         "cost/task (p50)": "$0.08",
-        "output tokens/task (p50)": "14.8K",
+        "output tokens/task (p50)": "14.6K",
         "price $/m": "$0.20 / $1.20"
       }
     },
@@ -524,7 +524,7 @@
         "bash recovery": "1.87 % ±0.58%",
         "tool hallucination": "0.83 % ±0.13%",
         "cost/task (p50)": "N/A",
-        "output tokens/task (p50)": "46.2K",
+        "output tokens/task (p50)": "46K",
         "price $/m": "$0.16 / $0.47"
       }
     },
@@ -544,7 +544,7 @@
         "bash recovery": "6.13 % ±0.82%",
         "tool hallucination": "0.28 % ±0.15%",
         "cost/task (p50)": "$0.35",
-        "output tokens/task (p50)": "37.4K",
+        "output tokens/task (p50)": "37.3K",
         "price $/m": "$0.40 / $3"
       }
     },
@@ -564,7 +564,7 @@
         "bash recovery": "3.69 % ±0.88%",
         "tool hallucination": "0.20 % ±0.14%",
         "cost/task (p50)": "$0.29",
-        "output tokens/task (p50)": "35.1K",
+        "output tokens/task (p50)": "35.4K",
         "price $/m": "$1.32 / $3.96"
       }
     },
@@ -583,8 +583,8 @@
         "steerability": "2.50 % ±2.58%",
         "bash recovery": "5.83 % ±1.79%",
         "tool hallucination": "0.29 % ±0.13%",
-        "cost/task (p50)": "$0.62",
-        "output tokens/task (p50)": "9.9K",
+        "cost/task (p50)": "$0.59",
+        "output tokens/task (p50)": "9.6K",
         "price $/m": "$1.50 / $7.50"
       }
     },
@@ -603,8 +603,8 @@
         "steerability": "7.95 % ±2.75%",
         "bash recovery": "5.77 % ±1.41%",
         "tool hallucination": "0.38 % ±0.04%",
-        "cost/task (p50)": "$0.31",
-        "output tokens/task (p50)": "20.2K",
+        "cost/task (p50)": "$0.30",
+        "output tokens/task (p50)": "20K",
         "price $/m": "$1.25 / $4.25"
       }
     },
@@ -623,8 +623,8 @@
         "steerability": "6.61 % ±1.32%",
         "bash recovery": "1.67 % ±1.24%",
         "tool hallucination": "0.37 % ±0.04%",
-        "cost/task (p50)": "$0.52",
-        "output tokens/task (p50)": "12.9K",
+        "cost/task (p50)": "$0.53",
+        "output tokens/task (p50)": "13.1K",
         "price $/m": "$1.25 / $4.25"
       }
     },
@@ -643,8 +643,8 @@
         "steerability": "3.16 % ±1.78%",
         "bash recovery": "0.83 % ±1.96%",
         "tool hallucination": "0.18 % ±0.21%",
-        "cost/task (p50)": "$0.22",
-        "output tokens/task (p50)": "12.5K",
+        "cost/task (p50)": "$0.21",
+        "output tokens/task (p50)": "12.3K",
         "price $/m": "N/A"
       }
     },
@@ -664,7 +664,7 @@
         "bash recovery": "4.20 % ±2.33%",
         "tool hallucination": "2.84 % ±1.28%",
         "cost/task (p50)": "$0.05",
-        "output tokens/task (p50)": "22.4K",
+        "output tokens/task (p50)": "22.1K",
         "price $/m": "$0.08 / $0.33"
       }
     },
@@ -684,7 +684,7 @@
         "bash recovery": "1.66 % ±1.01%",
         "tool hallucination": "0.03 % ±0.13%",
         "cost/task (p50)": "$0.12",
-        "output tokens/task (p50)": "11.9K",
+        "output tokens/task (p50)": "11.7K",
         "price $/m": "$0.30 / $1.20"
       }
     },
@@ -704,7 +704,7 @@
         "bash recovery": "1.93 % ±2.22%",
         "tool hallucination": "0.86 % ±0.40%",
         "cost/task (p50)": "$0.10",
-        "output tokens/task (p50)": "14.3K",
+        "output tokens/task (p50)": "14.1K",
         "price $/m": "$0.32 / $1.28"
       }
     },
@@ -724,7 +724,7 @@
         "bash recovery": "10.68 % ±1.59%",
         "tool hallucination": "0.32 % ±0.08%",
         "cost/task (p50)": "$0.36",
-        "output tokens/task (p50)": "24.9K",
+        "output tokens/task (p50)": "25.2K",
         "price $/m": "$0.75 / $3.75"
       }
     },
@@ -744,7 +744,7 @@
         "bash recovery": "5.17 % ±1.79%",
         "tool hallucination": "0.74 % ±0.30%",
         "cost/task (p50)": "$0.05",
-        "output tokens/task (p50)": "9.6K",
+        "output tokens/task (p50)": "9.5K",
         "price $/m": "$0.43 / $0.87"
       }
     },
@@ -764,7 +764,7 @@
         "bash recovery": "18.92 % ±1.81%",
         "tool hallucination": "0.07 % ±0.29%",
         "cost/task (p50)": "$0.31",
-        "output tokens/task (p50)": "10K",
+        "output tokens/task (p50)": "10.2K",
         "price $/m": "$1 / $6"
       }
     },
@@ -784,7 +784,7 @@
         "bash recovery": "8.11 % ±1.14%",
         "tool hallucination": "0.38 % ±0.38%",
         "cost/task (p50)": "$0.12",
-        "output tokens/task (p50)": "15.6K",
+        "output tokens/task (p50)": "15.7K",
         "price $/m": "$0.50 / $1.20"
       }
     },
@@ -804,7 +804,7 @@
         "bash recovery": "3.22 % ±1.31%",
         "tool hallucination": "0.01 % ±0.15%",
         "cost/task (p50)": "$0.24",
-        "output tokens/task (p50)": "11.1K",
+        "output tokens/task (p50)": "11K",
         "price $/m": "$1 / $4.05"
       }
     },
@@ -823,8 +823,8 @@
         "steerability": "4.37 % ±3.28%",
         "bash recovery": "12.44 % ±2.43%",
         "tool hallucination": "2.41 % ±0.89%",
-        "cost/task (p50)": "$0.70",
-        "output tokens/task (p50)": "12.6K",
+        "cost/task (p50)": "$0.74",
+        "output tokens/task (p50)": "12.5K",
         "price $/m": "$0.75 / $3.75"
       }
     },
@@ -864,7 +864,7 @@
         "bash recovery": "21.44 % ±3.20%",
         "tool hallucination": "1.33 % ±0.71%",
         "cost/task (p50)": "$0.08",
-        "output tokens/task (p50)": "9.1K",
+        "output tokens/task (p50)": "9.5K",
         "price $/m": "$0.15 / $1.25"
       }
     }
