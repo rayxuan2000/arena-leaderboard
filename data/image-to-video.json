@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "image-to-video",
     "source_url": "https://arena.ai/leaderboard/image-to-video",
-    "fetched_at": "2026-09-15T00:41:28.442097+00:00",
+    "fetched_at": "2026-09-16T00:26:59.106539+00:00",
     "last_updated": "Sep 14, 2026",
     "model_count": 48,
     "method": "html"
@@ -94,7 +94,7 @@
     },
     {
       "rank": 8,
-      "model": "hidream-o1-video",
+      "model": "hidream-o1-video-1.0",
       "vendor": "HiDream",
       "license": "proprietary",
       "score": 1452,

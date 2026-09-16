@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "search",
     "source_url": "https://arena.ai/leaderboard/search",
-    "fetched_at": "2026-09-15T00:41:18.380852+00:00",
+    "fetched_at": "2026-09-16T00:26:50.326500+00:00",
     "last_updated": "Aug 24, 2026",
     "model_count": 34,
     "method": "html"
@@ -88,8 +88,8 @@
       "votes": 3788,
       "extra": {
         "rank spread": "4 8",
-        "price $/m": "N/A",
-        "context": "N/A"
+        "price $/m": "$0.56 / $2.54",
+        "context": "119K"
       }
     },
     {
