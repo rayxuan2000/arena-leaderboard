@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "document",
     "source_url": "https://arena.ai/leaderboard/document",
-    "fetched_at": "2026-09-16T00:26:48.689278+00:00",
+    "fetched_at": "2026-09-17T00:36:52.588596+00:00",
     "last_updated": "Sep 13, 2026",
     "model_count": 44,
     "method": "html"
@@ -397,7 +397,7 @@
       "extra": {
         "rank spread": "17 31",
         "price $/m": "$3 / $15",
-        "context": "200K"
+        "context": "1M"
       }
     },
     {
