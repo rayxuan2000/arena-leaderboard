@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "code",
     "source_url": "https://arena.ai/leaderboard/code",
-    "fetched_at": "2026-09-17T00:36:48.705426+00:00",
+    "fetched_at": "2026-09-18T00:25:33.365961+00:00",
     "last_updated": "Sep 11, 2026",
     "model_count": 128,
     "method": "html"
@@ -136,7 +136,7 @@
     },
     {
       "rank": 10,
-      "model": "claude-fable-5",
+      "model": "claude-fable-5-high",
       "vendor": "Anthropic",
       "license": "proprietary",
       "score": 1628,
