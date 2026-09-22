@@ -2,9 +2,9 @@
   "meta": {
     "leaderboard": "code",
     "source_url": "https://arena.ai/leaderboard/code",
-    "fetched_at": "2026-09-21T00:19:01.181795+00:00",
+    "fetched_at": "2026-09-22T00:53:40.763243+00:00",
     "last_updated": "Sep 11, 2026",
-    "model_count": 128,
+    "model_count": 129,
     "method": "html"
   },
   "models": [
@@ -999,7 +999,7 @@
       "extra": {
         "rank spread": "68 79",
         "price $/m": "$1 / $4.05",
-        "context": "524.3K"
+        "context": "1M"
       }
     },
     {
@@ -1798,6 +1798,20 @@
         "rank spread": "128 128",
         "price $/m": "$0.40 / $2",
         "context": "128K"
+      }
+    },
+    {
+      "rank": null,
+      "model": "mimo-v2.6-pro",
+      "vendor": "Xiaomi",
+      "license": "open",
+      "score": 1628,
+      "ci": 18,
+      "votes": null,
+      "extra": {
+        "rank spread": "N/A",
+        "price $/m": "$0.43 / $0.87",
+        "context": "1M"
       }
     }
   ]
