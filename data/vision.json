@@ -2,7 +2,7 @@
   "meta": {
     "leaderboard": "vision",
     "source_url": "https://arena.ai/leaderboard/vision",
-    "fetched_at": "2026-09-29T02:02:40.103432+00:00",
+    "fetched_at": "2026-09-30T01:19:51.676775+00:00",
     "last_updated": "Sep 28, 2026",
     "model_count": 156,
     "method": "html"
@@ -1195,7 +1195,7 @@
       "extra": {
         "rank spread": "76 94",
         "price $/m": "$0.20 / $0.50",
-        "context": "131.1K"
+        "context": "128K"
       }
     },
     {
