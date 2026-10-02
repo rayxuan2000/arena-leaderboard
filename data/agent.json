@@ -2,9 +2,9 @@
   "meta": {
     "leaderboard": "agent",
     "source_url": "https://arena.ai/leaderboard/agent",
-    "fetched_at": "2026-10-01T01:19:28.488034+00:00",
+    "fetched_at": "2026-10-02T01:42:46.979579+00:00",
     "last_updated": "Sep 30, 2026",
-    "model_count": 46,
+    "model_count": 48,
     "method": "html"
   },
   "models": [
@@ -23,8 +23,8 @@
         "steerability": "8.95 % ±2.83%",
         "bash recovery": "12.31 % ±0.96%",
         "tool hallucination": "0.32 % ±0.03%",
-        "cost/task (p50)": "$4.17",
-        "output tokens/task (p50)": "37.8K",
+        "cost/task (p50)": "$4.38",
+        "output tokens/task (p50)": "41.1K",
         "price $/m": "$10 / $50"
       }
     },
@@ -43,7 +43,7 @@
         "steerability": "11.73 % ±2.40%",
         "bash recovery": "12.69 % ±0.88%",
         "tool hallucination": "0.30 % ±0.04%",
-        "cost/task (p50)": "$1.57",
+        "cost/task (p50)": "$1.56",
         "output tokens/task (p50)": "25.7K",
         "price $/m": "$4 / $20"
       }
@@ -63,8 +63,8 @@
         "steerability": "8.24 % ±2.73%",
         "bash recovery": "5.59 % ±1.63%",
         "tool hallucination": "0.32 % ±0.03%",
-        "cost/task (p50)": "$2.93",
-        "output tokens/task (p50)": "26.4K",
+        "cost/task (p50)": "$2.78",
+        "output tokens/task (p50)": "25.1K",
         "price $/m": "$10 / $50"
       }
     },
@@ -83,8 +83,8 @@
         "steerability": "11.87 % ±2.21%",
         "bash recovery": "6.84 % ±1.99%",
         "tool hallucination": "0.32 % ±0.03%",
-        "cost/task (p50)": "$0.91",
-        "output tokens/task (p50)": "28.7K",
+        "cost/task (p50)": "$0.90",
+        "output tokens/task (p50)": "28.3K",
         "price $/m": "$2 / $10"
       }
     },
@@ -103,8 +103,8 @@
         "steerability": "6.96 % ±1.93%",
         "bash recovery": "11.87 % ±0.82%",
         "tool hallucination": "0.31 % ±0.03%",
-        "cost/task (p50)": "$2.53",
-        "output tokens/task (p50)": "31.3K",
+        "cost/task (p50)": "$2.54",
+        "output tokens/task (p50)": "31.2K",
         "price $/m": "$5 / $25"
       }
     },
@@ -123,8 +123,8 @@
         "steerability": "4.76 % ±2.06%",
         "bash recovery": "13.05 % ±0.79%",
         "tool hallucination": "0.32 % ±0.03%",
-        "cost/task (p50)": "$3.61",
-        "output tokens/task (p50)": "51.5K",
+        "cost/task (p50)": "$3.71",
+        "output tokens/task (p50)": "51K",
         "price $/m": "$5 / $25"
       }
     },
@@ -163,8 +163,8 @@
         "steerability": "15.88 % ±2.68%",
         "bash recovery": "18.07 % ±5.59%",
         "tool hallucination": "0.10 % ±0.48%",
-        "cost/task (p50)": "$0.63",
-        "output tokens/task (p50)": "22.1K",
+        "cost/task (p50)": "$0.64",
+        "output tokens/task (p50)": "21.9K",
         "price $/m": "$2 / $10"
       }
     },
@@ -183,8 +183,8 @@
         "steerability": "6.20 % ±1.77%",
         "bash recovery": "1.67 % ±1.36%",
         "tool hallucination": "0.32 % ±0.03%",
-        "cost/task (p50)": "$1.05",
-        "output tokens/task (p50)": "17.3K",
+        "cost/task (p50)": "$1.04",
+        "output tokens/task (p50)": "17.4K",
         "price $/m": "$4 / $20"
       }
     },
@@ -203,8 +203,8 @@
         "steerability": "7.46 % ±1.63%",
         "bash recovery": "7.09 % ±1.86%",
         "tool hallucination": "0.00 % ±0.20%",
-        "cost/task (p50)": "$1.37",
-        "output tokens/task (p50)": "18.8K",
+        "cost/task (p50)": "$1.36",
+        "output tokens/task (p50)": "18.1K",
         "price $/m": "$5 / $25"
       }
     },
@@ -223,8 +223,8 @@
         "steerability": "5.38 % ±2.44%",
         "bash recovery": "6.79 % ±1.08%",
         "tool hallucination": "0.20 % ±0.08%",
-        "cost/task (p50)": "$0.86",
-        "output tokens/task (p50)": "22.1K",
+        "cost/task (p50)": "$0.92",
+        "output tokens/task (p50)": "23.1K",
         "price $/m": "$2 / $10"
       }
     },
@@ -244,7 +244,7 @@
         "bash recovery": "6.26 % ±0.55%",
         "tool hallucination": "0.00 % ±0.30%",
         "cost/task (p50)": "$0.29",
-        "output tokens/task (p50)": "39.3K",
+        "output tokens/task (p50)": "38.9K",
         "price $/m": "$0.83 / $2.50"
       }
     },
@@ -263,8 +263,8 @@
         "steerability": "5.50 % ±0.75%",
         "bash recovery": "5.62 % ±0.59%",
         "tool hallucination": "0.32 % ±0.03%",
-        "cost/task (p50)": "$0.40",
-        "output tokens/task (p50)": "19.9K",
+        "cost/task (p50)": "$0.41",
+        "output tokens/task (p50)": "20.1K",
         "price $/m": "$1.25 / $4.25"
       }
     },
@@ -283,7 +283,7 @@
         "steerability": "3.88 % ±1.41%",
         "bash recovery": "9.26 % ±1.16%",
         "tool hallucination": "0.32 % ±0.03%",
-        "cost/task (p50)": "$1.18",
+        "cost/task (p50)": "$1.16",
         "output tokens/task (p50)": "19.4K",
         "price $/m": "$5 / $30"
       }
@@ -303,8 +303,8 @@
         "steerability": "1.19 % ±0.69%",
         "bash recovery": "7.77 % ±0.33%",
         "tool hallucination": "0.20 % ±0.04%",
-        "cost/task (p50)": "$0.09",
-        "output tokens/task (p50)": "57.9K",
+        "cost/task (p50)": "$0.10",
+        "output tokens/task (p50)": "57.6K",
         "price $/m": "$0.30 / $1.20"
       }
     },
@@ -324,7 +324,7 @@
         "bash recovery": "4.25 % ±0.50%",
         "tool hallucination": "0.32 % ±0.03%",
         "cost/task (p50)": "$0.74",
-        "output tokens/task (p50)": "26.4K",
+        "output tokens/task (p50)": "26.6K",
         "price $/m": "$3 / $15"
       }
     },
@@ -343,8 +343,8 @@
         "steerability": "0.37 % ±2.25%",
         "bash recovery": "6.23 % ±1.09%",
         "tool hallucination": "0.32 % ±0.03%",
-        "cost/task (p50)": "$1.47",
-        "output tokens/task (p50)": "48.9K",
+        "cost/task (p50)": "$1.48",
+        "output tokens/task (p50)": "49.4K",
         "price $/m": "$2 / $6"
       }
     },
@@ -363,13 +363,33 @@
         "steerability": "1.77 % ±0.95%",
         "bash recovery": "0.68 % ±0.83%",
         "tool hallucination": "0.32 % ±0.03%",
-        "cost/task (p50)": "$0.75",
-        "output tokens/task (p50)": "48.3K",
+        "cost/task (p50)": "$0.76",
+        "output tokens/task (p50)": "48.1K",
         "price $/m": "$1.40 / $4.40"
       }
     },
     {
       "rank": 19,
+      "model": "MiMo V2.6 Pro",
+      "vendor": "Xiaomi",
+      "license": "open",
+      "score": null,
+      "ci": null,
+      "votes": 8158,
+      "extra": {
+        "net improvement": "3.17 % ±1.64%",
+        "confirmed success": "7.35 % ±3.53%",
+        "praise vs complaint": "3.29 % ±6.15%",
+        "steerability": "1.98 % ±2.22%",
+        "bash recovery": "3.56 % ±1.73%",
+        "tool hallucination": "0.35 % ±0.35%",
+        "cost/task (p50)": "$0.10",
+        "output tokens/task (p50)": "42.7K",
+        "price $/m": "$0.43 / $0.87"
+      }
+    },
+    {
+      "rank": 20,
       "model": "Gemini 3.8 Flash (High)",
       "vendor": "Google",
       "license": "proprietary",
@@ -384,12 +404,12 @@
         "bash recovery": "0.61 % ±0.67%",
         "tool hallucination": "0.16 % ±0.09%",
         "cost/task (p50)": "$0.58",
-        "output tokens/task (p50)": "44.5K",
+        "output tokens/task (p50)": "44.3K",
         "price $/m": "$0.75 / $3.75"
       }
     },
     {
-      "rank": 20,
+      "rank": 21,
       "model": "Qwen3.8 Max",
       "vendor": "Alibaba",
       "license": "proprietary",
@@ -403,13 +423,13 @@
         "steerability": "3.05 % ±0.86%",
         "bash recovery": "2.65 % ±0.71%",
         "tool hallucination": "1.13 % ±0.21%",
-        "cost/task (p50)": "$0.44",
-        "output tokens/task (p50)": "25.2K",
+        "cost/task (p50)": "$0.43",
+        "output tokens/task (p50)": "25.3K",
         "price $/m": "$1.69 / $5.07"
       }
     },
     {
-      "rank": 21,
+      "rank": 22,
       "model": "GLM 5.3 (Max)",
       "vendor": "Z.ai",
       "license": "open",
@@ -429,7 +449,7 @@
       }
     },
     {
-      "rank": 22,
+      "rank": 23,
       "model": "GPT 6 Luna (Max)",
       "vendor": "OpenAI",
       "license": "proprietary",
@@ -443,13 +463,13 @@
         "steerability": "4.35 % ±1.85%",
         "bash recovery": "4.39 % ±1.94%",
         "tool hallucination": "0.32 % ±0.03%",
-        "cost/task (p50)": "$0.07",
-        "output tokens/task (p50)": "34K",
+        "cost/task (p50)": "$0.06",
+        "output tokens/task (p50)": "33.7K",
         "price $/m": "$0.10 / $0.50"
       }
     },
     {
-      "rank": 23,
+      "rank": 24,
       "model": "DeepSeek V4 Pro (High) (0813)",
       "vendor": "DeepSeek",
       "license": "open",
@@ -464,12 +484,12 @@
         "bash recovery": "4.51 % ±1.25%",
         "tool hallucination": "0.32 % ±0.03%",
         "cost/task (p50)": "$0.37",
-        "output tokens/task (p50)": "44.8K",
+        "output tokens/task (p50)": "45K",
         "price $/m": "N/A"
       }
     },
     {
-      "rank": 24,
+      "rank": 25,
       "model": "Grok 4.6 (xHigh)",
       "vendor": "XAI",
       "license": "proprietary",
@@ -483,13 +503,13 @@
         "steerability": "1.00 % ±1.38%",
         "bash recovery": "5.68 % ±1.01%",
         "tool hallucination": "0.32 % ±0.03%",
-        "cost/task (p50)": "$0.95",
-        "output tokens/task (p50)": "25.8K",
+        "cost/task (p50)": "$1.01",
+        "output tokens/task (p50)": "27.4K",
         "price $/m": "N/A"
       }
     },
     {
-      "rank": 25,
+      "rank": 26,
       "model": "GPT 5.5",
       "vendor": "OpenAI",
       "license": "proprietary",
@@ -503,13 +523,13 @@
         "steerability": "1.20 % ±1.23%",
         "bash recovery": "4.57 % ±1.89%",
         "tool hallucination": "0.32 % ±0.03%",
-        "cost/task (p50)": "$0.60",
-        "output tokens/task (p50)": "10.1K",
+        "cost/task (p50)": "$0.58",
+        "output tokens/task (p50)": "9.9K",
         "price $/m": "$5 / $30"
       }
     },
     {
-      "rank": 26,
+      "rank": 27,
       "model": "Grok 4.5",
       "vendor": "XAI",
       "license": "proprietary",
@@ -523,13 +543,13 @@
         "steerability": "2.06 % ±1.45%",
         "bash recovery": "5.65 % ±1.09%",
         "tool hallucination": "0.32 % ±0.03%",
-        "cost/task (p50)": "$0.44",
-        "output tokens/task (p50)": "13.8K",
+        "cost/task (p50)": "$0.43",
+        "output tokens/task (p50)": "13.2K",
         "price $/m": "$2 / $6"
       }
     },
     {
-      "rank": 27,
+      "rank": 28,
       "model": "GPT 5.4 (High)",
       "vendor": "OpenAI",
       "license": "proprietary",
@@ -543,13 +563,13 @@
         "steerability": "5.39 % ±1.16%",
         "bash recovery": "2.17 % ±1.29%",
         "tool hallucination": "0.32 % ±0.03%",
-        "cost/task (p50)": "$0.60",
-        "output tokens/task (p50)": "17.8K",
+        "cost/task (p50)": "$0.59",
+        "output tokens/task (p50)": "16.6K",
         "price $/m": "$2.50 / $15"
       }
     },
     {
-      "rank": 28,
+      "rank": 29,
       "model": "GPT 5.6 Terra (xHigh)",
       "vendor": "OpenAI",
       "license": "proprietary",
@@ -564,12 +584,12 @@
         "bash recovery": "1.06 % ±1.92%",
         "tool hallucination": "0.32 % ±0.03%",
         "cost/task (p50)": "$0.43",
-        "output tokens/task (p50)": "14K",
+        "output tokens/task (p50)": "13.7K",
         "price $/m": "$2 / $12"
       }
     },
     {
-      "rank": 29,
+      "rank": 30,
       "model": "GLM 5.3 Flash",
       "vendor": "Z.ai",
       "license": "open",
@@ -584,12 +604,32 @@
         "bash recovery": "5.35 % ±0.54%",
         "tool hallucination": "0.32 % ±0.03%",
         "cost/task (p50)": "$0.10",
-        "output tokens/task (p50)": "34.6K",
+        "output tokens/task (p50)": "34.5K",
         "price $/m": "$0.06 / $0.20"
       }
     },
     {
-      "rank": 30,
+      "rank": 31,
+      "model": "MiMo V2.6 Flash",
+      "vendor": "Xiaomi",
+      "license": "open",
+      "score": null,
+      "ci": null,
+      "votes": 13035,
+      "extra": {
+        "net improvement": "0.57 % ±1.44%",
+        "confirmed success": "5.44 % ±2.79%",
+        "praise vs complaint": "1.12 % ±4.72%",
+        "steerability": "0.29 % ±1.80%",
+        "bash recovery": "5.77 % ±3.43%",
+        "tool hallucination": "3.92 % ±0.48%",
+        "cost/task (p50)": "$0.04",
+        "output tokens/task (p50)": "39.7K",
+        "price $/m": "$0.14 / $0.28"
+      }
+    },
+    {
+      "rank": 32,
       "model": "Qwen3.8 Flash Next",
       "vendor": "Alibaba",
       "license": "open",
@@ -604,12 +644,12 @@
         "bash recovery": "2.48 % ±0.50%",
         "tool hallucination": "0.83 % ±0.10%",
         "cost/task (p50)": "$0.14",
-        "output tokens/task (p50)": "46.4K",
+        "output tokens/task (p50)": "46K",
         "price $/m": "$0.16 / $0.47"
       }
     },
     {
-      "rank": 31,
+      "rank": 33,
       "model": "GPT 5.6 Luna (xHigh)",
       "vendor": "OpenAI",
       "license": "proprietary",
@@ -624,12 +664,12 @@
         "bash recovery": "1.17 % ±1.11%",
         "tool hallucination": "0.32 % ±0.03%",
         "cost/task (p50)": "$0.07",
-        "output tokens/task (p50)": "15.3K",
+        "output tokens/task (p50)": "15.4K",
         "price $/m": "$0.20 / $1.20"
       }
     },
     {
-      "rank": 32,
+      "rank": 34,
       "model": "Qwen 3.8 27B",
       "vendor": "Alibaba",
       "license": "open",
@@ -643,13 +683,13 @@
         "steerability": "0.36 % ±0.85%",
         "bash recovery": "5.75 % ±0.60%",
         "tool hallucination": "0.30 % ±0.12%",
-        "cost/task (p50)": "$0.32",
-        "output tokens/task (p50)": "36.2K",
+        "cost/task (p50)": "$0.30",
+        "output tokens/task (p50)": "35.7K",
         "price $/m": "$0.40 / $3"
       }
     },
     {
-      "rank": 33,
+      "rank": 35,
       "model": "Gemini 3.7 Flash (High)",
       "vendor": "Google",
       "license": "proprietary",
@@ -663,13 +703,13 @@
         "steerability": "1.03 % ±1.05%",
         "bash recovery": "4.24 % ±0.83%",
         "tool hallucination": "0.00 % ±0.17%",
-        "cost/task (p50)": "$0.38",
-        "output tokens/task (p50)": "29.6K",
+        "cost/task (p50)": "$0.37",
+        "output tokens/task (p50)": "29.2K",
         "price $/m": "$0.75 / $3.75"
       }
     },
     {
-      "rank": 34,
+      "rank": 36,
       "model": "Muse Spark 1.2 (xHigh)",
       "vendor": "Meta",
       "license": "proprietary",
@@ -689,7 +729,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 37,
       "model": "Muse Spark 1.1",
       "vendor": "Meta",
       "license": "proprietary",
@@ -704,12 +744,12 @@
         "bash recovery": "1.71 % ±0.82%",
         "tool hallucination": "0.30 % ±0.03%",
         "cost/task (p50)": "$0.47",
-        "output tokens/task (p50)": "16.2K",
+        "output tokens/task (p50)": "16.3K",
         "price $/m": "$1.25 / $4.25"
       }
     },
     {
-      "rank": 36,
+      "rank": 38,
       "model": "Qwen3.7 Max",
       "vendor": "Alibaba",
       "license": "proprietary",
@@ -723,13 +763,13 @@
         "steerability": "6.45 % ±1.38%",
         "bash recovery": "1.26 % ±1.42%",
         "tool hallucination": "0.14 % ±0.17%",
-        "cost/task (p50)": "$0.19",
-        "output tokens/task (p50)": "13.2K",
+        "cost/task (p50)": "$0.20",
+        "output tokens/task (p50)": "13.7K",
         "price $/m": "N/A"
       }
     },
     {
-      "rank": 37,
+      "rank": 39,
       "model": "Hy3",
       "vendor": "Tencent",
       "license": "open",
@@ -743,13 +783,13 @@
         "steerability": "0.36 % ±1.45%",
         "bash recovery": "7.34 % ±2.87%",
         "tool hallucination": "3.06 % ±1.08%",
-        "cost/task (p50)": "$0.04",
-        "output tokens/task (p50)": "22.8K",
+        "cost/task (p50)": "$0.05",
+        "output tokens/task (p50)": "23.6K",
         "price $/m": "$0.08 / $0.33"
       }
     },
     {
-      "rank": 38,
+      "rank": 40,
       "model": "Minimax M3",
       "vendor": "MiniMax",
       "license": "open",
@@ -764,12 +804,12 @@
         "bash recovery": "0.87 % ±1.06%",
         "tool hallucination": "0.12 % ±0.18%",
         "cost/task (p50)": "$0.08",
-        "output tokens/task (p50)": "10.9K",
+        "output tokens/task (p50)": "10.6K",
         "price $/m": "$0.30 / $1.20"
       }
     },
     {
-      "rank": 39,
+      "rank": 41,
       "model": "Mimo V2.5 Pro",
       "vendor": "Xiaomi",
       "license": "open",
@@ -784,12 +824,12 @@
         "bash recovery": "6.54 % ±1.61%",
         "tool hallucination": "1.00 % ±0.27%",
         "cost/task (p50)": "$0.04",
-        "output tokens/task (p50)": "9.9K",
+        "output tokens/task (p50)": "10.2K",
         "price $/m": "$0.43 / $0.87"
       }
     },
     {
-      "rank": 40,
+      "rank": 42,
       "model": "Qwen3.7 Plus",
       "vendor": "Alibaba",
       "license": "proprietary",
@@ -804,12 +844,12 @@
         "bash recovery": "5.80 % ±3.31%",
         "tool hallucination": "1.07 % ±0.39%",
         "cost/task (p50)": "$0.10",
-        "output tokens/task (p50)": "14.7K",
+        "output tokens/task (p50)": "14.4K",
         "price $/m": "$0.32 / $1.28"
       }
     },
     {
-      "rank": 41,
+      "rank": 43,
       "model": "Gemini 3.1 Pro Preview",
       "vendor": "Google",
       "license": "proprietary",
@@ -824,12 +864,12 @@
         "bash recovery": "21.67 % ±1.77%",
         "tool hallucination": "0.29 % ±0.74%",
         "cost/task (p50)": "$0.30",
-        "output tokens/task (p50)": "10.7K",
+        "output tokens/task (p50)": "11K",
         "price $/m": "$1 / $6"
       }
     },
     {
-      "rank": 42,
+      "rank": 44,
       "model": "Gemini 3.6 Flash (High)",
       "vendor": "Google",
       "license": "proprietary",
@@ -843,13 +883,13 @@
         "steerability": "7.49 % ±1.74%",
         "bash recovery": "17.03 % ±1.98%",
         "tool hallucination": "0.29 % ±0.04%",
-        "cost/task (p50)": "$0.30",
-        "output tokens/task (p50)": "26.7K",
+        "cost/task (p50)": "$0.28",
+        "output tokens/task (p50)": "25.1K",
         "price $/m": "$0.75 / $3.75"
       }
     },
     {
-      "rank": 43,
+      "rank": 45,
       "model": "Inkling Small",
       "vendor": "Thinky",
       "license": "open",
@@ -864,12 +904,12 @@
         "bash recovery": "5.64 % ±1.37%",
         "tool hallucination": "0.37 % ±0.29%",
         "cost/task (p50)": "$0.10",
-        "output tokens/task (p50)": "15.2K",
+        "output tokens/task (p50)": "15.1K",
         "price $/m": "$0.45 / $1.20"
       }
     },
     {
-      "rank": 44,
+      "rank": 46,
       "model": "Inkling",
       "vendor": "Thinky",
       "license": "open",
@@ -883,13 +923,13 @@
         "steerability": "11.90 % ±2.00%",
         "bash recovery": "0.69 % ±1.84%",
         "tool hallucination": "0.02 % ±0.12%",
-        "cost/task (p50)": "$0.24",
-        "output tokens/task (p50)": "11.2K",
+        "cost/task (p50)": "$0.23",
+        "output tokens/task (p50)": "11.4K",
         "price $/m": "$1 / $4.05"
       }
     },
     {
-      "rank": 45,
+      "rank": 47,
       "model": "Medium 3.5",
       "vendor": "Mistral",
       "license": "open",
@@ -903,13 +943,13 @@
         "steerability": "5.72 % ±2.23%",
         "bash recovery": "20.42 % ±3.34%",
         "tool hallucination": "2.35 % ±0.80%",
-        "cost/task (p50)": "$0.66",
-        "output tokens/task (p50)": "13K",
+        "cost/task (p50)": "$0.68",
+        "output tokens/task (p50)": "13.9K",
         "price $/m": "$0.75 / $3.75"
       }
     },
     {
-      "rank": 46,
+      "rank": 48,
       "model": "Solar Pro 4",
       "vendor": "Upstage",
       "license": "proprietary",
@@ -924,7 +964,7 @@
         "bash recovery": "25.09 % ±3.90%",
         "tool hallucination": "1.71 % ±0.66%",
         "cost/task (p50)": "$0.05",
-        "output tokens/task (p50)": "11.8K",
+        "output tokens/task (p50)": "11.1K",
         "price $/m": "$0.09 / $0.36"
       }
     }
